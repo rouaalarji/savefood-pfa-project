@@ -1,0 +1,133 @@
+# ============================================================
+#  NETTOYAGE DES 3 CSV
+#  Lancer : python nettoyage_dataset.py
+#  Les 3 fichiers CSV doivent être dans le MÊME dossier que ce script
+# ============================================================
+
+import pandas as pd
+import numpy as np
+import os
+
+# Chemin automatique vers le dossier du script
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+CATEGORIE_MAP = {
+    'Produits Laitiers'   : 1,
+    'Fruits et Légumes'   : 2,
+    'Boulangerie'         : 3,
+    'Viandes et Poissons' : 4,
+    'Épicerie'            : 5,
+    'Surgelés'            : 6,
+}
+
+# ============================================================
+# 1. CARREFOUR
+# ============================================================
+df_c = pd.read_csv(os.path.join(BASE_DIR, 'data/carrefour.csv'), encoding='utf-8-sig')
+df_c['nom']                    = df_c['nom'].str.strip()
+df_c['prix_initial']           = pd.to_numeric(df_c['prix'], errors='coerce').round(3)
+df_c['prix_optimal']           = np.nan
+df_c['stock']                  = 0
+df_c['date_expiration']        = np.nan
+df_c['jours_avant_expiration'] = np.nan
+df_c['category_id']            = df_c['categorie'].map(CATEGORIE_MAP)
+df_c['zone']                   = df_c['zone'].str.replace('Carrefour ', '', regex=False).str.strip()
+print(f" Carrefour : {len(df_c)} lignes")
+
+# ============================================================
+# 2. GEANT — Prix format "0,920 DT" → float
+# ============================================================
+df_g = pd.read_csv(os.path.join(BASE_DIR, 'data/geant.csv'), encoding='utf-8-sig')
+df_g['nom']  = df_g['nom'].str.strip()
+df_g['prix'] = (
+    df_g['prix'].astype(str)
+    .str.replace(',', '.', regex=False)
+    .str.replace(' DT', '', regex=False)
+    .str.replace('DT', '', regex=False)
+    .str.strip()
+)
+df_g['prix_initial']           = pd.to_numeric(df_g['prix'], errors='coerce').round(3)
+df_g['prix_optimal']           = np.nan
+df_g['stock']                  = 0
+df_g['date_expiration']        = np.nan
+df_g['jours_avant_expiration'] = np.nan
+df_g['category_id']            = df_g['categorie'].map(CATEGORIE_MAP)
+print(f"✅ GeantDrive : {len(df_g)} lignes")
+
+# ============================================================
+# 3. MAGIK — CORRECTION :
+#    ancienne_prix = prix original → prix_initial
+#    prix          = prix réduit   → prix_optimal
+#    Si pas de ancienne_prix → prix_optimal = NULL
+# ============================================================
+df_m = pd.read_csv(os.path.join(BASE_DIR, 'data/magik.csv'), encoding='utf-8-sig')
+df_m['nom']           = df_m['nom'].str.strip()
+df_m['prix']          = pd.to_numeric(df_m['prix'], errors='coerce')
+df_m['ancienne_prix'] = pd.to_numeric(df_m['ancienne_prix'], errors='coerce')
+
+avec_promo = df_m['ancienne_prix'].notna() & (df_m['ancienne_prix'] > df_m['prix'])
+
+df_m['prix_initial'] = np.where(avec_promo, df_m['ancienne_prix'], df_m['prix'])
+df_m['prix_optimal'] = np.where(avec_promo, df_m['prix'], np.nan)
+df_m['prix_initial'] = df_m['prix_initial'].round(3)
+df_m['prix_optimal'] = pd.to_numeric(df_m['prix_optimal'], errors='coerce').round(3)
+
+df_m['stock']                  = 0
+df_m['date_expiration']        = np.nan
+df_m['jours_avant_expiration'] = np.nan
+df_m['category_id']            = df_m['categorie'].map(CATEGORIE_MAP)
+
+print(f"✅ Magik : {len(df_m)} lignes")
+print(f"   → {avec_promo.sum()} produits avec vrai prix_optimal")
+print(f"   → {(~avec_promo).sum()} produits sans prix_optimal (NULL)")
+
+# ============================================================
+# 4. UNIFIER LES 3 SOURCES
+# ============================================================
+colonnes = [
+    'nom', 'category_id', 'categorie',
+    'prix_initial', 'prix_optimal',
+    'stock', 'date_expiration', 'jours_avant_expiration',
+    'supermarche', 'zone'
+]
+
+df_c = df_c.reindex(columns=colonnes)
+df_g = df_g.reindex(columns=colonnes)
+df_m = df_m.reindex(columns=colonnes)
+
+df_final = pd.concat([df_c, df_g, df_m], ignore_index=True)
+
+# ============================================================
+# 5. NETTOYAGE FINAL
+# ============================================================
+avant = len(df_final)
+df_final = df_final.dropna(subset=['prix_initial'])
+df_final = df_final[df_final['prix_initial'] > 0]
+df_final = df_final.drop_duplicates(subset=['nom', 'supermarche', 'prix_initial'])
+df_final = df_final.reset_index(drop=True)
+
+print(f"\n🧹 {avant - len(df_final)} lignes supprimées (vides/doublons)")
+
+# ============================================================
+# 6. RÉSUMÉ
+# ============================================================
+print("\n" + "="*50)
+print("✅ DATASET FINAL PROPRE")
+print("="*50)
+print(f"Total lignes             : {len(df_final)}")
+print(f"Avec prix_optimal réel   : {df_final['prix_optimal'].notna().sum()} (Magik)")
+print(f"Sans prix_optimal (NULL) : {df_final['prix_optimal'].isna().sum()}")
+print(f"\nPar supermarché :")
+print(df_final['supermarche'].value_counts().to_string())
+print(f"\nPar catégorie :")
+print(df_final['categorie'].value_counts().to_string())
+print(f"\nAperçu :")
+print(df_final[['nom','supermarche','prix_initial','prix_optimal','categorie']].head(8).to_string())
+
+# ============================================================
+# 7. SAUVEGARDER
+# ============================================================
+output_path = os.path.join(BASE_DIR, 'dataset_nettoye.csv')
+df_final.to_csv(output_path, index=False, encoding='utf-8-sig')
+print(f"\n💾 Fichier sauvegardé : {output_path}")
+print("✅ Nettoyage terminé !")

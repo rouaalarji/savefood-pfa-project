@@ -1,0 +1,1337 @@
+﻿nom,category_id,categorie,prix_initial,prix_optimal,stock,date_expiration,jours_avant_expiration,supermarche,zone
+Œufs frais,1,Produits Laitiers,17.99,12.233,121,2026-02-27,5,Carrefour,Tunis
+Fromage fondu gouda cavalière,1,Produits Laitiers,33.5,30.82,109,2026-03-05,11,Carrefour,Sousse
+Ricotta double crème,1,Produits Laitiers,12.5,12.5,24,2026-03-07,13,Carrefour,Ariana
+Margarine,1,Produits Laitiers,7.39,6.799,74,2026-03-05,11,Carrefour,Tunis
+Fromage râpé au sicilien cuit,1,Produits Laitiers,56.3,22.52,19,2026-02-23,1,Carrefour,Sousse
+Yaourt brassé,1,Produits Laitiers,0.43,0.396,69,2026-03-04,10,Carrefour,Ariana
+Fromage râpé au gruyere,1,Produits Laitiers,8.29,7.627,107,2026-03-04,10,Carrefour,Tunis
+Le bleu de Lansarine,1,Produits Laitiers,60.9,24.36,58,2026-02-23,1,Carrefour,Sousse
+Délishake,1,Produits Laitiers,1.09,1.003,84,2026-03-03,9,Carrefour,Ariana
+Plateau Fromage fête (350g à 400g),1,Produits Laitiers,52.9,48.668,137,2026-03-04,10,Carrefour,Tunis
+Fromage edam,1,Produits Laitiers,58.6,53.912,56,2026-03-03,9,Carrefour,Sousse
+Fromage à raclette,1,Produits Laitiers,61.0,48.8,46,2026-02-28,6,Carrefour,Ariana
+Fromage à raclette,1,Produits Laitiers,76.5,30.6,50,2026-02-24,2,Carrefour,Tunis
+Mozzarella cerise,1,Produits Laitiers,50.2,50.2,20,2026-03-08,14,Carrefour,Sousse
+Fromage sicilien demi sel,1,Produits Laitiers,39.8,27.064,41,2026-02-27,5,Carrefour,Ariana
+Fromage gouda,1,Produits Laitiers,58.6,46.88,18,2026-03-02,8,Carrefour,Tunis
+Fromage Primo Sale,1,Produits Laitiers,59.8,59.8,55,2026-03-08,14,Carrefour,Sousse
+Crème dessert Toffee chocolat,1,Produits Laitiers,0.89,0.605,107,2026-02-27,5,Carrefour,Ariana
+Fromage Gouda,1,Produits Laitiers,51.9,41.52,126,2026-03-01,7,Carrefour,Tunis
+Fromage carré,1,Produits Laitiers,5.69,3.869,104,2026-02-27,5,Carrefour,Sousse
+Yaourt nature nature light,1,Produits Laitiers,0.55,0.44,104,2026-02-28,6,Carrefour,Ariana
+Yaourt aromatisé,1,Produits Laitiers,0.55,0.374,56,2026-02-27,5,Carrefour,Tunis
+Fromage à l'emmental,1,Produits Laitiers,5.2,4.784,111,2026-03-04,10,Carrefour,Sousse
+Fromage au cheddar,1,Produits Laitiers,5.2,4.16,15,2026-02-28,6,Carrefour,Ariana
+Crème sucrée pour garniture de gâteaux,1,Produits Laitiers,6.89,4.685,36,2026-02-27,5,Carrefour,Tunis
+Yaourt à boire protéiné café caramel Yopro,1,Produits Laitiers,3.99,2.713,85,2026-02-27,5,Carrefour,Sousse
+Yaourt à boire protéiné chocolat Yopro,1,Produits Laitiers,3.99,3.99,140,2026-03-07,13,Carrefour,Ariana
+Yaourt à boire protéiné Yopro,1,Produits Laitiers,3.99,3.99,86,2026-03-07,13,Carrefour,Tunis
+Yaourt à boire protéiné vanille cookies Yopro,1,Produits Laitiers,3.99,3.192,120,2026-03-01,7,Carrefour,Sousse
+Yaourt à boire protéiné fraise framboise Yopro,1,Produits Laitiers,3.99,3.192,98,2026-03-02,8,Carrefour,Ariana
+Yaourt à boire protéiné nature Yopro,1,Produits Laitiers,3.99,3.99,112,2026-03-07,13,Carrefour,Tunis
+Œufs frais,1,Produits Laitiers,12.55,8.534,93,2026-02-26,4,Carrefour,Ariana
+Fromage cavaliere edam,1,Produits Laitiers,33.5,26.8,136,2026-03-01,7,Carrefour,Tunis
+Fromage cavaliere gouda,1,Produits Laitiers,43.6,34.88,65,2026-03-01,7,Carrefour,Sousse
+Lait concentré sucré,1,Produits Laitiers,12.69,8.629,83,2026-02-27,5,Carrefour,Ariana
+Yaourt à boire proteiné,1,Produits Laitiers,3.19,1.755,12,2026-02-25,3,Carrefour,Tunis
+Yaourt brassé aux fruits jaunes et aux céréales,1,Produits Laitiers,1.08,0.594,110,2026-02-25,3,Carrefour,Sousse
+Yaourt brassé aux fruits rouges et aux céréales,1,Produits Laitiers,1.08,0.734,92,2026-02-26,4,Carrefour,Ariana
+Fromage ricotta,1,Produits Laitiers,3.02,2.778,147,2026-03-03,9,Carrefour,Tunis
+Boisson lactée Danao au jus de pêche abricot,1,Produits Laitiers,0.89,0.712,22,2026-02-28,6,Carrefour,Sousse
+Fromage frais Croc'lait,1,Produits Laitiers,3.49,2.792,139,2026-02-28,6,Carrefour,Ariana
+Fromage mozzarella cerise,1,Produits Laitiers,64.2,64.2,46,2026-03-06,12,Carrefour,Tunis
+Pack de yaourts aromatisés,1,Produits Laitiers,6.34,5.833,68,2026-03-04,10,Carrefour,Sousse
+Yaourt brassé Blendy,1,Produits Laitiers,1.11,1.11,129,2026-03-08,14,Carrefour,Ariana
+Yaourt à la grecque Oikos,1,Produits Laitiers,0.96,0.96,26,2026-03-08,14,Carrefour,Tunis
+Yaourt aromatisé aux fruits,1,Produits Laitiers,0.84,0.773,35,2026-03-04,10,Carrefour,Sousse
+Yaourt à boire,1,Produits Laitiers,2.0,2.0,110,2026-03-07,13,Carrefour,Tunis
+Yaourt aromatisé Mamzouj,1,Produits Laitiers,0.43,0.344,69,2026-02-28,6,Carrefour,Sousse
+Milkshake Déli Shake,1,Produits Laitiers,1.07,0.428,150,2026-02-24,2,Carrefour,Tunis
+Yaourt à boire Danup,1,Produits Laitiers,1.2,0.816,46,2026-02-26,4,Carrefour,Sousse
+Yaourt à boire Danup,1,Produits Laitiers,0.95,0.646,147,2026-02-27,5,Carrefour,Ariana
+Yaourt brassé Mamzouj,1,Produits Laitiers,0.6,0.6,40,2026-03-08,14,Carrefour,Tunis
+Boisson lactée au jus de pêche et abricot,1,Produits Laitiers,1.24,1.24,109,2026-03-06,12,Carrefour,Sousse
+Yaourt à boire à banane,1,Produits Laitiers,1.22,0.83,128,2026-02-26,4,Carrefour,Ariana
+Yaourt à boire à banane,1,Produits Laitiers,0.96,0.96,20,2026-03-06,12,Carrefour,Tunis
+Pack yaourt Ananas et fruits secs,1,Produits Laitiers,6.62,6.09,105,2026-03-03,9,Carrefour,Sousse
+Pack yaourt nature,1,Produits Laitiers,5.29,3.597,79,2026-02-26,4,Carrefour,Ariana
+Pack yaourt bifi 0% matière grasse,1,Produits Laitiers,5.59,4.472,105,2026-03-01,7,Carrefour,Tunis
+Yaourt le grand brassé saveur pistache,1,Produits Laitiers,0.62,0.422,54,2026-02-26,4,Carrefour,Sousse
+Yaourt le grand brassé saveur fraise,1,Produits Laitiers,0.62,0.62,51,2026-03-07,13,Carrefour,Ariana
+Yaourt le grand brassé saveur vanille,1,Produits Laitiers,0.62,0.248,11,2026-02-24,2,Carrefour,Tunis
+Yaourt aux fruits mixés mangue,1,Produits Laitiers,0.72,0.49,54,2026-02-27,5,Carrefour,Sousse
+Yaourt aux fruits mixés à la pulpe de fraise,1,Produits Laitiers,0.72,0.662,145,2026-03-05,11,Carrefour,Ariana
+Yaourt brassé aux morceaux de cerise,1,Produits Laitiers,0.84,0.571,51,2026-02-27,5,Carrefour,Tunis
+Yaourt à boire  vit'up,1,Produits Laitiers,0.93,0.744,71,2026-03-02,8,Carrefour,Sousse
+Fromage mozzarella 100% Lait,1,Produits Laitiers,39.6,15.84,92,2026-02-23,1,Carrefour,Ariana
+Fromage ricotta,1,Produits Laitiers,3.69,2.509,86,2026-02-27,5,Carrefour,Tunis
+Camembert du nord ouest,1,Produits Laitiers,15.99,14.711,42,2026-03-03,9,Carrefour,Sousse
+Fromage cheddar,1,Produits Laitiers,52.7,42.16,78,2026-03-01,7,Carrefour,Ariana
+Lait concentré sucré,1,Produits Laitiers,7.85,3.14,30,2026-02-24,2,Carrefour,Tunis
+Fromage fondu râpé,1,Produits Laitiers,31.41,28.897,139,2026-03-03,9,Carrefour,Sousse
+Crème dessert chocolat liégeois,1,Produits Laitiers,0.79,0.537,80,2026-02-27,5,Carrefour,Ariana
+Yaourt à boire café,1,Produits Laitiers,1.05,0.966,91,2026-03-03,9,Carrefour,Tunis
+Pack de yaourts bifi 0% aux morceaux des fruits de bois,1,Produits Laitiers,3.15,2.898,104,2026-03-04,10,Carrefour,Sousse
+Yaourt brassé saveur tarte framboise,1,Produits Laitiers,0.43,0.344,145,2026-02-28,6,Carrefour,Ariana
+Fromage mozzarelle 100% lait,1,Produits Laitiers,41.9,38.548,78,2026-03-04,10,Carrefour,Tunis
+Fromage fondu râpé au gruyère Milkana,1,Produits Laitiers,18.88,15.104,48,2026-03-01,7,Carrefour,Sousse
+"Lait fermenté ""Leben"" à l'eau de rose",1,Produits Laitiers,1.25,0.5,96,2026-02-23,1,Carrefour,Ariana
+Yaourt brassé aux céréales et aux fruits des bois Misto,1,Produits Laitiers,1.15,0.632,144,2026-02-25,3,Carrefour,Tunis
+"Lait fermenté ""Leben""",1,Produits Laitiers,1.79,1.79,99,2026-03-07,13,Carrefour,Sousse
+Yaourt brassé aux céréales et aux fruits exotiques Misto,1,Produits Laitiers,1.21,0.484,126,2026-02-24,2,Carrefour,Ariana
+"Lait caillé ""Raieb""",1,Produits Laitiers,1.99,1.592,123,2026-03-01,7,Carrefour,Tunis
+Fromage râpé affiné 100% lait,1,Produits Laitiers,37.6,34.592,109,2026-03-03,9,Carrefour,Sousse
+Yaourt à boire Protéiné et 0% de matières grasses,1,Produits Laitiers,6.49,3.57,123,2026-02-25,3,Carrefour,Ariana
+Lait écrémé Barista U.H.T,1,Produits Laitiers,2.35,1.598,115,2026-02-27,5,Carrefour,Tunis
+Râpé 4 fromages,1,Produits Laitiers,14.3,14.3,70,2026-03-06,12,Carrefour,Sousse
+Fromage râpé fondu,1,Produits Laitiers,32.6,26.08,134,2026-03-02,8,Carrefour,Ariana
+Fromage tartare trois poivres,1,Produits Laitiers,4.4,3.52,146,2026-03-01,7,Carrefour,Tunis
+Fromage Gouda fumé,1,Produits Laitiers,57.6,46.08,48,2026-03-02,8,Carrefour,Sousse
+Fromage mozzarella,1,Produits Laitiers,45.5,36.4,132,2026-02-28,6,Carrefour,Ariana
+Yaourt aux fruits fraise,1,Produits Laitiers,0.87,0.479,18,2026-02-25,3,Carrefour,Tunis
+Lait entier U.H.T,1,Produits Laitiers,2.55,2.346,105,2026-03-03,9,Carrefour,Sousse
+"Lait fermenté ""Leben"" aux probiotiques",1,Produits Laitiers,1.78,0.712,43,2026-02-23,1,Carrefour,Ariana
+Yaourt brassé saveur biscuit citron,1,Produits Laitiers,0.43,0.292,140,2026-02-27,5,Carrefour,Tunis
+"Yaourt brassé aux figues, amandes, noix et miel",1,Produits Laitiers,0.84,0.336,20,2026-02-24,2,Carrefour,Sousse
+Yaourt brassé saveur biscuit vanille,1,Produits Laitiers,0.43,0.396,87,2026-03-04,10,Carrefour,Ariana
+Yaourt à boire aux fruits des bois Max,1,Produits Laitiers,1.76,0.704,76,2026-02-24,2,Carrefour,Tunis
+Yaourt brassé à la vanille,1,Produits Laitiers,0.62,0.496,63,2026-02-28,6,Carrefour,Sousse
+Yaourt à boire vanille Max,1,Produits Laitiers,1.76,1.408,88,2026-02-28,6,Carrefour,Tunis
+Yaourt brassé caramel banane,1,Produits Laitiers,0.43,0.292,54,2026-02-27,5,Carrefour,Sousse
+Yaourt brassé saveur biscuit fraise,1,Produits Laitiers,0.43,0.43,91,2026-03-07,13,Carrefour,Ariana
+Yaourt brassé à la fraise,1,Produits Laitiers,0.62,0.62,91,2026-03-06,12,Carrefour,Tunis
+Yaourt à boire fraise Max,1,Produits Laitiers,1.76,1.76,58,2026-03-06,12,Carrefour,Sousse
+Yaourt à boire citron Natiyo,1,Produits Laitiers,1.22,0.83,31,2026-02-27,5,Carrefour,Ariana
+Yaourt à boire To Go fraise banane,1,Produits Laitiers,1.2,0.816,73,2026-02-27,5,Carrefour,Tunis
+Yaourt à boire céréales banane Natiyo,1,Produits Laitiers,1.2,1.2,33,2026-03-08,14,Carrefour,Sousse
+Fromage Whey pro protéines goût vanille,1,Produits Laitiers,3.89,3.89,58,2026-03-07,13,Carrefour,Ariana
+Yaourt à boire pêche abricot Natiyo,1,Produits Laitiers,1.76,1.619,106,2026-03-03,9,Carrefour,Tunis
+Fromage Whey pro protéines goût café,1,Produits Laitiers,3.89,3.112,73,2026-02-28,6,Carrefour,Sousse
+Fromage Whey pro protéines goût framboise,1,Produits Laitiers,3.89,3.112,91,2026-03-01,7,Carrefour,Ariana
+Yaourt aux fruits mûre et myrtille,1,Produits Laitiers,0.87,0.696,10,2026-03-01,7,Carrefour,Tunis
+Yaourt aux fruits pêche abricot,1,Produits Laitiers,0.87,0.592,116,2026-02-27,5,Carrefour,Sousse
+Crème dessert montagne de goût chocolat noisette,1,Produits Laitiers,0.9,0.72,118,2026-03-02,8,Carrefour,Ariana
+Boisson lactée goût fraise banane Danao,1,Produits Laitiers,1.0,0.92,92,2026-03-03,9,Carrefour,Tunis
+Tomme de Bizerte,1,Produits Laitiers,50.5,34.34,46,2026-02-26,4,Carrefour,Sousse
+Fromage Pecorino,1,Produits Laitiers,59.6,23.84,85,2026-02-23,1,Carrefour,Ariana
+Fromage Gouda,1,Produits Laitiers,54.4,29.92,79,2026-02-25,3,Carrefour,Tunis
+Fromage edam rouge,1,Produits Laitiers,54.4,43.52,43,2026-02-28,6,Carrefour,Sousse
+Fromage FETA,1,Produits Laitiers,37.5,30.0,117,2026-02-28,6,Carrefour,Ariana
+Fromage fondu au cheddar,1,Produits Laitiers,4.79,1.916,61,2026-02-24,2,Carrefour,Tunis
+Fromage fondu sucette Fromagy,1,Produits Laitiers,1.0,0.68,66,2026-02-27,5,Carrefour,Sousse
+Crème de cuisson,1,Produits Laitiers,4.98,4.98,111,2026-03-08,14,Carrefour,Ariana
+Fromage camembert traditionnel,1,Produits Laitiers,53.4,42.72,71,2026-03-01,7,Carrefour,Tunis
+Fromage frais au poivre Rondelé,1,Produits Laitiers,3.3,2.244,144,2026-02-27,5,Carrefour,Sousse
+Crème de cuisson,1,Produits Laitiers,7.99,5.433,131,2026-02-26,4,Carrefour,Ariana
+Fromage frais ail & fines herbes Rondelé,1,Produits Laitiers,5.24,4.192,82,2026-03-01,7,Carrefour,Tunis
+Fromage mozzarelle Boccon,1,Produits Laitiers,7.62,3.048,106,2026-02-23,1,Carrefour,Sousse
+Sauce cheddar,1,Produits Laitiers,9.48,9.48,63,2026-03-08,14,Carrefour,Ariana
+Fromage à tartiner nature,1,Produits Laitiers,4.4,4.048,29,2026-03-05,11,Carrefour,Tunis
+Crème fraîche,1,Produits Laitiers,2.49,2.291,146,2026-03-03,9,Carrefour,Sousse
+Beurre extra fin,1,Produits Laitiers,45.3,36.24,55,2026-03-02,8,Carrefour,Ariana
+Yaourt chocolat liégeois,1,Produits Laitiers,0.99,0.99,20,2026-03-07,13,Carrefour,Tunis
+Fromage à raclette à la truffe,1,Produits Laitiers,71.3,71.3,149,2026-03-07,13,Carrefour,Sousse
+Fromage à raclette fumé,1,Produits Laitiers,66.3,26.52,104,2026-02-24,2,Carrefour,Ariana
+Fromage à raclette nature,1,Produits Laitiers,61.2,56.304,10,2026-03-03,9,Carrefour,Tunis
+Fromage gouda à l'ail noir,1,Produits Laitiers,72.6,66.792,23,2026-03-05,11,Carrefour,Sousse
+Pack yaourt brassé,1,Produits Laitiers,4.92,4.92,44,2026-03-08,14,Carrefour,Ariana
+Œufs jaune orange,1,Produits Laitiers,7.79,7.167,53,2026-03-04,10,Carrefour,Tunis
+Fromage fondu spécial hamburger,1,Produits Laitiers,10.0,10.0,72,2026-03-08,14,Carrefour,Sousse
+Ricotta demi-sel  5% matière grasse,1,Produits Laitiers,16.9,6.76,26,2026-02-23,1,Carrefour,Ariana
+Œufs d'or,1,Produits Laitiers,14.25,9.69,80,2026-02-27,5,Carrefour,Tunis
+Fromage fondu à tartiner Tarti doux,1,Produits Laitiers,5.64,5.64,125,2026-03-08,14,Carrefour,Sousse
+Yaourt brassé mamzouj citron vert,1,Produits Laitiers,0.6,0.48,90,2026-03-01,7,Carrefour,Ariana
+Œufs frais jaune-Junior,1,Produits Laitiers,9.99,7.992,10,2026-03-01,7,Carrefour,Tunis
+Yaourt à boire pêche abricot TipTop,1,Produits Laitiers,1.55,1.054,135,2026-02-26,4,Carrefour,Sousse
+Fromage mozzarella,1,Produits Laitiers,10.38,10.38,134,2026-03-07,13,Carrefour,Ariana
+Fromage camembert Couteaux & Plateaux,1,Produits Laitiers,11.59,7.881,42,2026-02-27,5,Carrefour,Tunis
+Crème dessert Plaisir caramel chocolat,1,Produits Laitiers,0.87,0.87,65,2026-03-08,14,Carrefour,Sousse
+Fromage frais,1,Produits Laitiers,3.69,2.03,45,2026-02-25,3,Carrefour,Tunis
+Boisson lactée goût pomme kiwi mangue Danao,1,Produits Laitiers,1.18,1.18,14,2026-03-08,14,Carrefour,Sousse
+Yaourt à boire Danup fraise hawai bleu,1,Produits Laitiers,1.22,0.976,80,2026-03-01,7,Carrefour,Ariana
+Yaourt brassé aux fruits secs,1,Produits Laitiers,0.84,0.84,40,2026-03-06,12,Carrefour,Tunis
+Yaourt à boire Ptit délice fraise,1,Produits Laitiers,0.78,0.53,126,2026-02-26,4,Carrefour,Sousse
+Yaourt à boire Ptit délice banane biscuit,1,Produits Laitiers,0.78,0.718,48,2026-03-03,9,Carrefour,Ariana
+Yaourt à boire Danao pêche abricot,1,Produits Laitiers,1.18,1.18,32,2026-03-07,13,Carrefour,Tunis
+Fromage fondu à tartiner Tarti doux,1,Produits Laitiers,6.29,4.277,26,2026-02-26,4,Carrefour,Sousse
+Yaourt à boire max aux fruits des bois,1,Produits Laitiers,1.76,1.76,124,2026-03-07,13,Carrefour,Ariana
+Yaourt le brassé saveur fraise,1,Produits Laitiers,0.84,0.773,15,2026-03-05,11,Carrefour,Tunis
+Smoothie goût pêche-pomme-poire,1,Produits Laitiers,1.05,0.578,74,2026-02-25,3,Carrefour,Sousse
+Smoothie saveur exotique,1,Produits Laitiers,1.05,0.714,98,2026-02-27,5,Carrefour,Ariana
+Lait demi-écrémé sans lactose U.H.T,1,Produits Laitiers,2.55,1.02,102,2026-02-23,1,Carrefour,Tunis
+Yaourt aux mûres et noix fekia,1,Produits Laitiers,0.95,0.874,15,2026-03-03,9,Carrefour,Sousse
+Œufs Ovolina frais jaune orange,1,Produits Laitiers,14.41,5.764,138,2026-02-24,2,Carrefour,Ariana
+Œufs frais omega 3,1,Produits Laitiers,14.29,14.29,58,2026-03-07,13,Carrefour,Tunis
+Yaourt brassé ananas,1,Produits Laitiers,0.84,0.462,40,2026-02-25,3,Carrefour,Sousse
+Yaourt brassé pêche abricot,1,Produits Laitiers,0.84,0.84,113,2026-03-08,14,Carrefour,Ariana
+Fromage Reblochon,1,Produits Laitiers,61.8,42.024,140,2026-02-27,5,Carrefour,Tunis
+Fromage Burrata,1,Produits Laitiers,13.99,9.513,102,2026-02-27,5,Carrefour,Sousse
+Fromage fondu à tartiner STREET & CO,1,Produits Laitiers,2.89,2.312,91,2026-03-02,8,Carrefour,Ariana
+Fromage fondu à tartiner STREET & CO,1,Produits Laitiers,8.89,8.179,64,2026-03-03,9,Carrefour,Tunis
+Œufs frais jaune jaune ovolina,1,Produits Laitiers,13.17,12.116,89,2026-03-03,9,Carrefour,Sousse
+Fromage râpé 100% lait,1,Produits Laitiers,16.78,15.438,119,2026-03-04,10,Carrefour,Ariana
+Portions de fromage,1,Produits Laitiers,14.88,10.118,70,2026-02-27,5,Carrefour,Tunis
+Râpé 4 fromages,1,Produits Laitiers,25.48,23.442,105,2026-03-03,9,Carrefour,Sousse
+Fromage carré sans sel,1,Produits Laitiers,37.2,14.88,104,2026-02-24,2,Carrefour,Ariana
+Œufs Les brunes CHAHIA,1,Produits Laitiers,4.24,3.901,58,2026-03-04,10,Carrefour,Tunis
+Œufs Les brunes CHAHIA,1,Produits Laitiers,8.55,7.866,48,2026-03-05,11,Carrefour,Sousse
+Œufs Les brunes CHAHIA,1,Produits Laitiers,16.59,15.263,43,2026-03-04,10,Carrefour,Ariana
+Yaourt à boire granola VITALAIT,1,Produits Laitiers,0.93,0.744,126,2026-03-02,8,Carrefour,Tunis
+Fromage rapé LAND'OR,1,Produits Laitiers,13.68,7.524,34,2026-02-25,3,Carrefour,Sousse
+Lait concentré sucré au lait entier NESTLÉ,1,Produits Laitiers,7.55,6.04,83,2026-03-01,7,Carrefour,Ariana
+Fromage fondu à l'emmental,1,Produits Laitiers,4.82,4.434,31,2026-03-05,11,Carrefour,Tunis
+Mozzarella traditionnelle,1,Produits Laitiers,54.7,54.7,11,2026-03-07,13,Carrefour,Sousse
+Fromage fumé Scamorza,1,Produits Laitiers,26.99,24.831,66,2026-03-04,10,Carrefour,Ariana
+Fromage rapé Pecorino Romano,1,Produits Laitiers,20.39,20.39,136,2026-03-06,12,Carrefour,Tunis
+Fromage Granello,1,Produits Laitiers,10.19,10.19,72,2026-03-07,13,Carrefour,Sousse
+Yaourt à boire pina colada,1,Produits Laitiers,0.94,0.865,123,2026-03-04,10,Carrefour,Ariana
+Margarine tartine et cuisson,1,Produits Laitiers,23.0,18.4,89,2026-02-28,6,Carrefour,Tunis
+Plateau de fromage,1,Produits Laitiers,38.9,15.56,120,2026-02-23,1,Carrefour,Sousse
+Fromage râpé emmental,1,Produits Laitiers,5.98,5.98,43,2026-03-07,13,Carrefour,Ariana
+Fromage en tranches hamburger,1,Produits Laitiers,2.94,2.94,81,2026-03-06,12,Carrefour,Tunis
+Fromage tranche Burger cheddar,1,Produits Laitiers,4.86,2.673,21,2026-02-25,3,Carrefour,Sousse
+Fromage emmental râpé cheese,1,Produits Laitiers,1.28,0.87,43,2026-02-26,4,Carrefour,Ariana
+Fromage à l'emmental râpé fondant,1,Produits Laitiers,1.99,1.353,126,2026-02-26,4,Carrefour,Tunis
+Fromage edam,1,Produits Laitiers,0.74,0.592,35,2026-02-28,6,Carrefour,Sousse
+Fromage frais à la Truffe,1,Produits Laitiers,9.69,7.752,56,2026-03-02,8,Carrefour,Ariana
+Fromage frais au Saumon fumé,1,Produits Laitiers,9.69,9.69,45,2026-03-07,13,Carrefour,Tunis
+Salacube,1,Produits Laitiers,13.69,5.476,41,2026-02-24,2,Carrefour,Sousse
+Fromage frais ail et fines herbes,1,Produits Laitiers,8.28,6.624,104,2026-03-02,8,Carrefour,Tunis
+Fromage Rainoir à pâte pressée,1,Produits Laitiers,62.5,42.5,115,2026-02-27,5,Carrefour,Sousse
+Fromage raclette à pâte pressée,1,Produits Laitiers,59.6,59.6,138,2026-03-06,12,Carrefour,Ariana
+Bûchette fromage au lait de vache,1,Produits Laitiers,11.09,10.203,96,2026-03-04,10,Carrefour,Tunis
+Ricotta traditionnelle,1,Produits Laitiers,20.5,13.94,116,2026-02-27,5,Carrefour,Sousse
+Fromage Mozzarelle,1,Produits Laitiers,6.79,4.617,45,2026-02-27,5,Carrefour,Ariana
+Yaourt orange,1,Produits Laitiers,0.43,0.344,106,2026-03-01,7,Carrefour,Tunis
+Lait concentré,1,Produits Laitiers,7.69,7.075,64,2026-03-04,10,Carrefour,Sousse
+Lait concentré sucré,1,Produits Laitiers,19.57,7.828,40,2026-02-23,1,Carrefour,Ariana
+Boisson lactée goût vanille Délisso,1,Produits Laitiers,0.52,0.478,51,2026-03-03,9,Carrefour,Tunis
+Boisson lactée goût fraise Délisso,1,Produits Laitiers,0.92,0.626,123,2026-02-27,5,Carrefour,Sousse
+Fromage râpé,1,Produits Laitiers,9.99,9.99,149,2026-03-08,14,Carrefour,Ariana
+Boisson lactée  tropical multivitaminé Danao,1,Produits Laitiers,1.0,0.4,95,2026-02-24,2,Carrefour,Tunis
+Yaourt étuvé citron,1,Produits Laitiers,0.54,0.216,64,2026-02-24,2,Carrefour,Sousse
+Œufs de caille,1,Produits Laitiers,5.79,2.316,57,2026-02-24,2,Carrefour,Ariana
+Fromage Mozzarella 100% lait,1,Produits Laitiers,52.8,42.24,118,2026-03-01,7,Carrefour,Tunis
+Yaourt à boire Danup Mojito Menthe,1,Produits Laitiers,1.2,1.104,137,2026-03-04,10,Carrefour,Sousse
+Fromage Mozzarella cerises,1,Produits Laitiers,49.6,27.28,56,2026-02-25,3,Carrefour,Ariana
+Fromage rouge Edam,1,Produits Laitiers,43.99,35.192,45,2026-02-28,6,Carrefour,Tunis
+Yaourt pomme,1,Produits Laitiers,0.54,0.216,59,2026-02-23,1,Carrefour,Sousse
+Yaourt fruits exotiques,1,Produits Laitiers,0.54,0.54,119,2026-03-07,13,Carrefour,Ariana
+Yaourt aromatisé fruits des bois,1,Produits Laitiers,0.54,0.216,134,2026-02-23,1,Carrefour,Tunis
+Yaourt aromatisé pêche abricot,1,Produits Laitiers,0.54,0.54,25,2026-03-07,13,Carrefour,Sousse
+Yaourt aromatisé noix de coco,1,Produits Laitiers,0.54,0.54,48,2026-03-08,14,Carrefour,Ariana
+Yaourt aromatisé fraise,1,Produits Laitiers,0.54,0.297,96,2026-02-25,3,Carrefour,Tunis
+Yaourt aromatisé vanille,1,Produits Laitiers,0.54,0.432,139,2026-03-01,7,Carrefour,Sousse
+Yaourt nature,1,Produits Laitiers,0.54,0.216,14,2026-02-23,1,Carrefour,Ariana
+"Lait caillé ""raieb""",1,Produits Laitiers,1.49,0.596,40,2026-02-23,1,Carrefour,Tunis
+Boisson lactée pomme et poire,1,Produits Laitiers,0.99,0.792,31,2026-03-01,7,Carrefour,Sousse
+Crème dessert à boire choco-nuts Plaisir,1,Produits Laitiers,1.39,0.945,122,2026-02-27,5,Carrefour,Ariana
+Yaourt aromatisé banane,1,Produits Laitiers,0.54,0.54,100,2026-03-07,13,Carrefour,Tunis
+Fromage râpé spécial gratin,1,Produits Laitiers,5.4,4.32,134,2026-03-02,8,Carrefour,Sousse
+Fromage à l'Emmental,1,Produits Laitiers,88.5,48.675,137,2026-02-25,3,Carrefour,Ariana
+Fromage Paella,1,Produits Laitiers,21.6,19.872,64,2026-03-05,11,Carrefour,Tunis
+Fromage râpé fondu à la Mozzarella,1,Produits Laitiers,24.9,19.92,123,2026-03-01,7,Carrefour,Sousse
+Mozzarella traditionnelle,1,Produits Laitiers,54.6,30.03,56,2026-02-25,3,Carrefour,Ariana
+Ricotta,1,Produits Laitiers,14.6,14.6,34,2026-03-07,13,Carrefour,Tunis
+Fromage sicilien affiné,1,Produits Laitiers,56.3,56.3,13,2026-03-06,12,Carrefour,Sousse
+Fromage gouda jaune,1,Produits Laitiers,49.6,49.6,118,2026-03-06,12,Carrefour,Ariana
+Fromage sardaigne frais,1,Produits Laitiers,26.9,21.52,146,2026-03-01,7,Carrefour,Tunis
+Fromage edam,1,Produits Laitiers,47.6,47.6,15,2026-03-07,13,Carrefour,Sousse
+Fromage râpé à l'Emmental,1,Produits Laitiers,36.4,36.4,149,2026-03-08,14,Carrefour,Ariana
+Fromage au Gruyère,1,Produits Laitiers,33.7,26.96,29,2026-03-02,8,Carrefour,Tunis
+Fromage au Cheddar,1,Produits Laitiers,33.7,22.916,54,2026-02-27,5,Carrefour,Sousse
+Fromage râpé au Cheddar,1,Produits Laitiers,36.4,24.752,63,2026-02-27,5,Carrefour,Ariana
+Fromage edam 100% lait,1,Produits Laitiers,59.8,59.8,19,2026-03-08,14,Carrefour,Tunis
+Bûche de chèvre blanc,1,Produits Laitiers,115.5,92.4,22,2026-02-28,6,Carrefour,Sousse
+Fromage Gruyère sans sel,1,Produits Laitiers,68.2,62.744,55,2026-03-05,11,Carrefour,Ariana
+Fromage Bleu,1,Produits Laitiers,107.5,98.9,44,2026-03-04,10,Carrefour,Tunis
+Fromage edam meule,1,Produits Laitiers,51.9,20.76,68,2026-02-24,2,Carrefour,Sousse
+Fromage gouda jaune,1,Produits Laitiers,51.9,35.292,28,2026-02-27,5,Carrefour,Tunis
+Fromage extra edam meule,1,Produits Laitiers,58.6,53.912,47,2026-03-03,9,Carrefour,Sousse
+Fromage sicilien frais 0% MG,1,Produits Laitiers,26.5,10.6,57,2026-02-24,2,Carrefour,Ariana
+Fromage râpé au Gruyère,1,Produits Laitiers,33.9,31.188,150,2026-03-03,9,Carrefour,Tunis
+Fromage au gruyère,1,Produits Laitiers,22.5,18.0,57,2026-03-01,7,Carrefour,Sousse
+Fromage au cheddar,1,Produits Laitiers,22.5,20.7,72,2026-03-05,11,Carrefour,Ariana
+Fromage meule pyrénée,1,Produits Laitiers,37.4,34.408,36,2026-03-03,9,Carrefour,Tunis
+Fromage fondant râpé,1,Produits Laitiers,13.3,13.3,35,2026-03-06,12,Carrefour,Sousse
+Fromage pour pizza cheese,1,Produits Laitiers,25.2,17.136,82,2026-02-26,4,Carrefour,Ariana
+Fromage Mozzarella pour pizza,1,Produits Laitiers,16.8,11.424,60,2026-02-27,5,Carrefour,Tunis
+Préparation alimentaire râpé au Gruyère,1,Produits Laitiers,18.6,10.23,136,2026-02-25,3,Carrefour,Sousse
+Préparation alimentaire râpé à la Mozzarella,1,Produits Laitiers,17.6,16.192,102,2026-03-04,10,Carrefour,Ariana
+Préparation alimentaire à la Mozzarella fino,1,Produits Laitiers,17.4,13.92,138,2026-03-01,7,Carrefour,Tunis
+Fromage gruyère fondu,1,Produits Laitiers,35.9,28.72,107,2026-03-02,8,Carrefour,Sousse
+Fromage cheddar fondu,1,Produits Laitiers,35.6,19.58,124,2026-02-25,3,Carrefour,Ariana
+Préparation alimentaire,1,Produits Laitiers,24.9,13.695,85,2026-02-25,3,Carrefour,Tunis
+Crème fraîche semi-épaisse,1,Produits Laitiers,1.04,0.707,110,2026-02-26,4,Carrefour,Sousse
+Crème fraîche légère semi-épaisse à 15% de matière grasse,1,Produits Laitiers,3.1,2.48,54,2026-03-02,8,Carrefour,Ariana
+"Lait caillé ""Raieb""",1,Produits Laitiers,1.69,1.149,87,2026-02-26,4,Carrefour,Tunis
+"Lait fermenté ""Leben""",1,Produits Laitiers,1.69,0.929,38,2026-02-25,3,Carrefour,Sousse
+Yaourt dessert zgougou,1,Produits Laitiers,0.95,0.76,146,2026-02-28,6,Carrefour,Ariana
+Préparation alimentaire fondu,1,Produits Laitiers,3.89,3.579,67,2026-03-03,9,Carrefour,Tunis
+Nwaser,1,Produits Laitiers,5.5,2.2,110,2026-02-24,2,Carrefour,Sousse
+Fromage Edam en boule,1,Produits Laitiers,51.9,51.9,61,2026-03-08,14,Carrefour,Ariana
+Fromage Gruyère,1,Produits Laitiers,63.2,50.56,83,2026-03-02,8,Carrefour,Tunis
+Fromage râpé mozzarella 100% lait,1,Produits Laitiers,43.9,40.388,61,2026-03-05,11,Carrefour,Sousse
+Fromage brie de Tebourba,1,Produits Laitiers,61.9,24.76,75,2026-02-24,2,Carrefour,Ariana
+Fromage sans sel,1,Produits Laitiers,43.5,23.925,20,2026-02-25,3,Carrefour,Tunis
+Fromage maasdam Hollande,1,Produits Laitiers,59.8,55.016,107,2026-03-05,11,Carrefour,Sousse
+Yaourt à boire chocolat Plaisir,1,Produits Laitiers,1.05,1.05,12,2026-03-06,12,Carrefour,Ariana
+Préparation alimentaire à la mozzarella Pizzatella,1,Produits Laitiers,2.25,2.25,58,2026-03-06,12,Carrefour,Tunis
+Préparation alimentaire à la mozzarella Pizzatella,1,Produits Laitiers,6.79,5.432,127,2026-02-28,6,Carrefour,Sousse
+4 Fromages râpés Rap'cheez,1,Produits Laitiers,46.9,37.52,120,2026-03-02,8,Carrefour,Ariana
+Fromage Gouda jaune,1,Produits Laitiers,4.39,4.39,40,2026-03-06,12,Carrefour,Tunis
+Fromage râpé au gruyère,1,Produits Laitiers,6.68,4.542,83,2026-02-26,4,Carrefour,Sousse
+Formage mozzarella,1,Produits Laitiers,6.65,2.66,92,2026-02-23,1,Carrefour,Ariana
+Fromage Edam rouge,1,Produits Laitiers,4.92,4.92,130,2026-03-08,14,Carrefour,Tunis
+Fromage sicilien affiné,1,Produits Laitiers,4.68,4.68,43,2026-03-07,13,Carrefour,Sousse
+Fromage râpé à l'emmental,1,Produits Laitiers,37.2,29.76,74,2026-03-02,8,Carrefour,Ariana
+Fromage Gruyère,1,Produits Laitiers,70.5,47.94,101,2026-02-26,4,Carrefour,Tunis
+Fromage Chantale noire,1,Produits Laitiers,45.2,41.584,116,2026-03-05,11,Carrefour,Sousse
+Fromage râpé au gruyère 100% lait,1,Produits Laitiers,59.8,55.016,96,2026-03-05,11,Carrefour,Ariana
+Fromage salé Sicilien,1,Produits Laitiers,37.2,34.224,48,2026-03-04,10,Carrefour,Tunis
+Fromage Edam en boule,1,Produits Laitiers,43.9,35.12,29,2026-03-02,8,Carrefour,Sousse
+Yaourt à boire Natiyo tropical guarana,1,Produits Laitiers,0.94,0.376,145,2026-02-24,2,Carrefour,Ariana
+Fromage gruyère,1,Produits Laitiers,55.9,55.9,65,2026-03-06,12,Carrefour,Tunis
+Fromage blanc fondu Carré,1,Produits Laitiers,5.8,2.32,141,2026-02-23,1,Carrefour,Sousse
+Fromage mozzarella,1,Produits Laitiers,43.5,40.02,47,2026-03-05,11,Carrefour,Ariana
+Margarine tartine et cuisson,1,Produits Laitiers,2.09,2.09,146,2026-03-08,14,Carrefour,Tunis
+Préparation alimentaire râpé,1,Produits Laitiers,9.78,9.78,17,2026-03-08,14,Carrefour,Sousse
+Fromage fondu à tartiner,1,Produits Laitiers,14.59,5.836,64,2026-02-24,2,Carrefour,Tunis
+Fromage Maasdam Jack Cheese,1,Produits Laitiers,71.5,71.5,68,2026-03-06,12,Carrefour,Sousse
+Fromage mozzarella,1,Produits Laitiers,36.5,33.58,111,2026-03-05,11,Carrefour,Ariana
+Fromage mozzarella,1,Produits Laitiers,46.5,25.575,124,2026-02-25,3,Carrefour,Tunis
+Fromage Sardaigne blanc,1,Produits Laitiers,43.5,17.4,21,2026-02-24,2,Carrefour,Sousse
+Ricotta traditionnelle,1,Produits Laitiers,3.4,3.4,20,2026-03-08,14,Carrefour,Ariana
+Crème dessert vanille,1,Produits Laitiers,0.78,0.53,125,2026-02-27,5,Carrefour,Tunis
+Crème dessert noisette,1,Produits Laitiers,0.78,0.78,37,2026-03-08,14,Carrefour,Sousse
+Crème dessert chocolat,1,Produits Laitiers,0.78,0.718,25,2026-03-04,10,Carrefour,Ariana
+Fromage fondu râpé à l'emmental,1,Produits Laitiers,15.99,15.99,28,2026-03-08,14,Carrefour,Tunis
+Yaourt,1,Produits Laitiers,0.43,0.172,13,2026-02-23,1,Carrefour,Sousse
+Fromage fondu râpé à l'emmental,1,Produits Laitiers,22.9,15.572,134,2026-02-27,5,Carrefour,Ariana
+Mozzarella filone,1,Produits Laitiers,45.9,25.245,95,2026-02-25,3,Carrefour,Tunis
+Fromage 100% mozzarella,1,Produits Laitiers,9.29,8.547,120,2026-03-03,9,Carrefour,Sousse
+Margarine tartines et cuisson,1,Produits Laitiers,7.59,6.072,142,2026-03-01,7,Carrefour,Ariana
+Crème dessert Dolce Duo chocolat noisette,1,Produits Laitiers,0.79,0.727,53,2026-03-05,11,Carrefour,Tunis
+Fromage crème 100% emmental,1,Produits Laitiers,16.98,13.584,130,2026-03-01,7,Carrefour,Sousse
+Fromage crème 100% cheddar,1,Produits Laitiers,16.98,6.792,17,2026-02-24,2,Carrefour,Ariana
+Fromage crème 100% emmental,1,Produits Laitiers,9.28,9.28,13,2026-03-08,14,Carrefour,Tunis
+Fromage crème 100% cheddar,1,Produits Laitiers,9.28,6.31,67,2026-02-26,4,Carrefour,Sousse
+Fromage râpé fondant à l'emmental,1,Produits Laitiers,24.99,9.996,17,2026-02-23,1,Carrefour,Ariana
+Fromage mozzarella 100 % lait,1,Produits Laitiers,42.9,34.32,99,2026-03-02,8,Carrefour,Tunis
+Œufs omiva,1,Produits Laitiers,17.59,11.961,116,2026-02-26,4,Carrefour,Sousse
+Œufs omiva,1,Produits Laitiers,10.43,4.172,126,2026-02-24,2,Carrefour,Ariana
+Yaourt à boire maxi banane,1,Produits Laitiers,1.76,1.197,42,2026-02-27,5,Carrefour,Tunis
+"Yaourt à boire Danup açaï, myrtille, grenade",1,Produits Laitiers,0.95,0.874,79,2026-03-05,11,Carrefour,Sousse
+Yaourt à boire Danup ananas passion,1,Produits Laitiers,0.95,0.95,107,2026-03-07,13,Carrefour,Ariana
+Fromage râpé  au cheddar LAND'OR,1,Produits Laitiers,33.2,18.26,105,2026-02-25,3,Carrefour,Tunis
+Fromage edam,1,Produits Laitiers,51.9,28.545,12,2026-02-25,3,Carrefour,Sousse
+Fromage à tartiner Tartare,1,Produits Laitiers,4.4,3.52,27,2026-03-01,7,Carrefour,Ariana
+Gouda au pesto vert Gardeli,1,Produits Laitiers,140.5,95.54,124,2026-02-26,4,Carrefour,Tunis
+Sidi Salem St Paulin,1,Produits Laitiers,57.5,31.625,17,2026-02-25,3,Carrefour,Sousse
+Gouda à l'ail noir,1,Produits Laitiers,65.4,65.4,29,2026-03-07,13,Carrefour,Ariana
+Fromage bleu Danablu,1,Produits Laitiers,116.775,64.226,89,2026-02-25,3,Carrefour,Tunis
+Fromage Affumicato,1,Produits Laitiers,49.9,45.908,53,2026-03-04,10,Carrefour,Sousse
+Emmental kaiser,1,Produits Laitiers,72.8,58.24,18,2026-02-28,6,Carrefour,Ariana
+Crotin de chèvre frais,1,Produits Laitiers,6.1,5.612,14,2026-03-03,9,Carrefour,Tunis
+Meule edam,1,Produits Laitiers,27.9,27.9,39,2026-03-06,12,Carrefour,Sousse
+Comte,1,Produits Laitiers,155.5,124.4,139,2026-03-02,8,Carrefour,Ariana
+Emmental français,1,Produits Laitiers,32.0,21.76,66,2026-02-26,4,Carrefour,Tunis
+Gouda aux fines herbes,1,Produits Laitiers,64.5,64.5,103,2026-03-08,14,Carrefour,Sousse
+Mimolette,1,Produits Laitiers,57.5,46.0,64,2026-03-02,8,Carrefour,Ariana
+Morbier,1,Produits Laitiers,62.3,42.364,40,2026-02-26,4,Carrefour,Tunis
+Saint Paulin,1,Produits Laitiers,57.3,31.515,51,2026-02-25,3,Carrefour,Sousse
+Gouda pesto pignon,1,Produits Laitiers,76.5,76.5,124,2026-03-07,13,Carrefour,Ariana
+Parmiggiano Reggiano,1,Produits Laitiers,211.5,169.2,117,2026-02-28,6,Carrefour,Tunis
+Fromage campagne,1,Produits Laitiers,49.9,39.92,100,2026-02-28,6,Carrefour,Sousse
+Fromage extra edam,1,Produits Laitiers,58.6,39.848,116,2026-02-27,5,Carrefour,Ariana
+Tinaflor,1,Produits Laitiers,46.9,37.52,132,2026-03-02,8,Carrefour,Tunis
+Provolone,1,Produits Laitiers,59.9,55.108,102,2026-03-04,10,Carrefour,Sousse
+Gouda grand'or cumin,1,Produits Laitiers,110.9,102.028,108,2026-03-05,11,Carrefour,Tunis
+Fromage aux piments rouges,1,Produits Laitiers,65.4,65.4,79,2026-03-07,13,Carrefour,Sousse
+Ricotta meriah,1,Produits Laitiers,19.9,19.9,35,2026-03-06,12,Carrefour,Ariana
+Sicilien demi sel meriah,1,Produits Laitiers,43.5,40.02,68,2026-03-05,11,Carrefour,Tunis
+Fromage tomme fleurie,1,Produits Laitiers,62.9,50.32,71,2026-02-28,6,Carrefour,Sousse
+Morbier,1,Produits Laitiers,61.5,41.82,55,2026-02-27,5,Carrefour,Ariana
+Gouda old mill,1,Produits Laitiers,161.9,129.52,28,2026-03-02,8,Carrefour,Tunis
+Fromage pâte molle Ma Buche,1,Produits Laitiers,51.9,51.9,119,2026-03-07,13,Carrefour,Sousse
+Lait demi écrémé U.H.T,1,Produits Laitiers,1.35,0.743,149,2026-02-25,3,Carrefour,Ariana
+Formage jaune Gouda,1,Produits Laitiers,55.9,55.9,35,2026-03-08,14,Carrefour,Tunis
+Fromage rouge Edam,1,Produits Laitiers,55.9,38.012,37,2026-02-27,5,Carrefour,Sousse
+Yaourt aux morceaux  d'ananas,1,Produits Laitiers,0.84,0.462,70,2026-02-25,3,Carrefour,Ariana
+Yaourt à boire pomme vanille,1,Produits Laitiers,1.22,0.83,144,2026-02-27,5,Carrefour,Tunis
+Yaourt à boire fraise,1,Produits Laitiers,1.22,0.83,98,2026-02-27,5,Carrefour,Sousse
+Yaourt à boire céréales fruits,1,Produits Laitiers,1.22,1.22,98,2026-03-07,13,Carrefour,Ariana
+Margarine tartine et cuisson,1,Produits Laitiers,9.99,3.996,11,2026-02-23,1,Carrefour,Tunis
+Pointe de brie,1,Produits Laitiers,13.89,12.779,25,2026-03-03,9,Carrefour,Sousse
+Mozzarella cerises,1,Produits Laitiers,12.39,4.956,51,2026-02-24,2,Carrefour,Ariana
+Fromage fondu à tartiner,1,Produits Laitiers,9.79,7.832,60,2026-03-02,8,Carrefour,Tunis
+Fromage camembert Palet Fou,1,Produits Laitiers,17.39,11.825,32,2026-02-26,4,Carrefour,Sousse
+Fromage camembert Palet Fort,1,Produits Laitiers,17.39,17.39,58,2026-03-08,14,Carrefour,Ariana
+Fromage camembert Palet Fin,1,Produits Laitiers,17.39,11.825,40,2026-02-26,4,Carrefour,Tunis
+Fromage camembert Le Petit Campagnard,1,Produits Laitiers,9.99,3.996,77,2026-02-23,1,Carrefour,Sousse
+Fromage à raclette,1,Produits Laitiers,6.89,6.89,119,2026-03-06,12,Carrefour,Ariana
+Margarine tartines et cuisson,1,Produits Laitiers,4.19,1.676,64,2026-02-24,2,Carrefour,Tunis
+Yaourt à boire aux céréales et fruits,1,Produits Laitiers,0.94,0.752,17,2026-02-28,6,Carrefour,Sousse
+Emmental cœur de meule,1,Produits Laitiers,11.98,11.022,30,2026-03-03,9,Carrefour,Ariana
+Fromage râpé à l'emmental,1,Produits Laitiers,14.41,7.926,13,2026-02-25,3,Carrefour,Tunis
+Pack de yaourts aromatisés Mamzouj fraise & vanille,1,Produits Laitiers,3.35,2.278,22,2026-02-26,4,Carrefour,Sousse
+Yaourt à boire bifi 0 % fruits des bois,1,Produits Laitiers,1.05,0.42,72,2026-02-23,1,Carrefour,Ariana
+Yaourt à boire vanille TipTop,1,Produits Laitiers,1.55,1.24,26,2026-03-01,7,Carrefour,Tunis
+Yaourt à boire fraise TipTop,1,Produits Laitiers,1.55,1.24,22,2026-02-28,6,Carrefour,Sousse
+Œufs Ovita,1,Produits Laitiers,17.29,15.907,110,2026-03-03,9,Carrefour,Ariana
+Œufs frais Oméga 3,1,Produits Laitiers,14.39,14.39,148,2026-03-06,12,Carrefour,Tunis
+Œufs fermiers,1,Produits Laitiers,21.99,20.231,114,2026-03-03,9,Carrefour,Sousse
+Œufs fermiers,1,Produits Laitiers,11.59,6.375,51,2026-02-25,3,Carrefour,Ariana
+Yaourt brassé saveur vanille,1,Produits Laitiers,0.43,0.172,110,2026-02-24,2,Carrefour,Tunis
+Yaourt brassé fraise,1,Produits Laitiers,0.43,0.292,45,2026-02-27,5,Carrefour,Ariana
+Yaourt bif 0 % aux morceaux de fruits,1,Produits Laitiers,0.9,0.36,59,2026-02-24,2,Carrefour,Tunis
+Margarines allégée,1,Produits Laitiers,2.39,2.39,81,2026-03-08,14,Carrefour,Sousse
+Fromage Roquefort,1,Produits Laitiers,24.29,9.716,149,2026-02-24,2,Carrefour,Ariana
+Les palets de chèvre aromatisés,1,Produits Laitiers,21.99,21.99,24,2026-03-08,14,Carrefour,Tunis
+La Brique Tradition 31% MG,1,Produits Laitiers,20.39,16.312,19,2026-03-02,8,Carrefour,Sousse
+Fromage camembert Tradition 45% MG,1,Produits Laitiers,18.69,17.195,147,2026-03-04,10,Carrefour,Ariana
+Fromage camembert Carthago,1,Produits Laitiers,13.99,13.99,66,2026-03-07,13,Carrefour,Tunis
+Fromage camembert Carthago,1,Produits Laitiers,11.59,11.59,130,2026-03-06,12,Carrefour,Sousse
+Fromage camembert,1,Produits Laitiers,28.5,22.8,95,2026-02-28,6,Carrefour,Ariana
+Fromage camembert Vieux Calife,1,Produits Laitiers,18.59,18.59,22,2026-03-07,13,Carrefour,Tunis
+Fromage camembert Calife,1,Produits Laitiers,16.99,15.631,32,2026-03-04,10,Carrefour,Sousse
+Fromage camembert National,1,Produits Laitiers,15.39,12.312,85,2026-02-28,6,Carrefour,Tunis
+Fromage râpé au cheddar,1,Produits Laitiers,13.68,5.472,40,2026-02-23,1,Carrefour,Sousse
+Fromage Goutta légère 8%,1,Produits Laitiers,3.19,2.169,127,2026-02-26,4,Carrefour,Ariana
+Fromage camembert Tomme de Tebourba,1,Produits Laitiers,14.99,14.99,26,2026-03-07,13,Carrefour,Tunis
+Œufs frais Oméga 3,1,Produits Laitiers,16.8,13.44,130,2026-03-02,8,Carrefour,Sousse
+Yaourt nature sans sucre Mio,1,Produits Laitiers,0.95,0.95,30,2026-03-08,14,Carrefour,Ariana
+Fromage fondu 100% emmental,1,Produits Laitiers,5.59,5.59,146,2026-03-07,13,Carrefour,Tunis
+Frmage fondu 100% emmental,1,Produits Laitiers,7.88,3.152,137,2026-02-24,2,Carrefour,Sousse
+Fromage fondu 100% emmental,1,Produits Laitiers,5.24,5.24,24,2026-03-08,14,Carrefour,Ariana
+Yaourt saveur vanille Maxi,1,Produits Laitiers,1.76,0.704,145,2026-02-23,1,Carrefour,Tunis
+Yaourt saveur fraise Maxi,1,Produits Laitiers,1.76,1.197,21,2026-02-26,4,Carrefour,Sousse
+Yaourt brassé vanille Ptit'Top,1,Produits Laitiers,0.43,0.43,21,2026-03-08,14,Carrefour,Ariana
+Yaourt brassé fraise Ptit'Top,1,Produits Laitiers,0.43,0.237,37,2026-02-25,3,Carrefour,Tunis
+Yaourt brassé abricot Ptit'Top,1,Produits Laitiers,0.43,0.292,82,2026-02-27,5,Carrefour,Sousse
+Œufs frais jaune jaune Adhayma,1,Produits Laitiers,13.44,12.365,41,2026-03-04,10,Carrefour,Ariana
+Crème dessert noisette Dolce,1,Produits Laitiers,0.78,0.718,101,2026-03-03,9,Carrefour,Tunis
+Fromage râpé à l'emmental,1,Produits Laitiers,5.96,5.483,129,2026-03-03,9,Carrefour,Sousse
+Boisson lactée goût fraise Laitgo,1,Produits Laitiers,0.52,0.416,21,2026-03-02,8,Carrefour,Ariana
+Boisson lactée goût chocolat Laitgo,1,Produits Laitiers,0.52,0.52,145,2026-03-08,14,Carrefour,Tunis
+Lait écrémé 0% matière grasse U.H.T,1,Produits Laitiers,2.3,1.564,110,2026-02-26,4,Carrefour,Sousse
+Pack de yaourts aromatisés fraise vanille,1,Produits Laitiers,5.29,5.29,90,2026-03-08,14,Carrefour,Ariana
+Crème dessert chocolat Danette,1,Produits Laitiers,0.78,0.624,15,2026-03-02,8,Carrefour,Tunis
+Fromage fondu à tartiner Milkana,1,Produits Laitiers,15.75,14.49,73,2026-03-03,9,Carrefour,Sousse
+Fromage râpé fondu au gruyère,1,Produits Laitiers,35.38,32.55,69,2026-03-04,10,Carrefour,Ariana
+Préparation alimentaire râpée,1,Produits Laitiers,1.05,0.42,29,2026-02-24,2,Carrefour,Tunis
+Crème fouettée végétale,1,Produits Laitiers,18.99,17.471,22,2026-03-03,9,Carrefour,Sousse
+Boisson lactée  vanille Délisso,1,Produits Laitiers,0.92,0.846,21,2026-03-05,11,Carrefour,Ariana
+Lait demi-écrémé U.H.T,1,Produits Laitiers,1.35,0.918,122,2026-02-26,4,Carrefour,Tunis
+Crème fraîche,1,Produits Laitiers,2.69,2.475,56,2026-03-04,10,Carrefour,Sousse
+Crème fraîche,1,Produits Laitiers,5.39,4.312,142,2026-03-01,7,Carrefour,Ariana
+Crème dessert Dolce zgougou,1,Produits Laitiers,0.9,0.828,81,2026-03-05,11,Carrefour,Ariana
+Crème dessert Danette vanille,1,Produits Laitiers,0.78,0.78,107,2026-03-07,13,Carrefour,Tunis
+Œufs frais Oméga 3,1,Produits Laitiers,4.39,2.414,111,2026-02-25,3,Carrefour,Sousse
+Crème dessert Le Grand Dessert,1,Produits Laitiers,0.85,0.34,75,2026-02-24,2,Carrefour,Ariana
+Fromage slice Light,1,Produits Laitiers,17.99,14.392,91,2026-03-02,8,Carrefour,Tunis
+Fromage slice Dégustation,1,Produits Laitiers,19.99,7.996,60,2026-02-23,1,Carrefour,Sousse
+Œufs frais Oméga 3,1,Produits Laitiers,7.99,6.392,142,2026-02-28,6,Carrefour,Ariana
+Bûche de chèvre affinée,1,Produits Laitiers,26.9,14.795,43,2026-02-25,3,Carrefour,Tunis
+Boisson lactée goût chocolat Wake up,1,Produits Laitiers,1.59,1.463,119,2026-03-04,10,Carrefour,Sousse
+Margarines à l'huile d'olive,1,Produits Laitiers,3.05,1.22,148,2026-02-23,1,Carrefour,Ariana
+Fromage à pâte pressée cuite Comté,1,Produits Laitiers,34.67,31.896,82,2026-03-04,10,Carrefour,Tunis
+Fromage gruyère Le Dégustation,1,Produits Laitiers,27.53,25.328,114,2026-03-03,9,Carrefour,Sousse
+Fromage blanc fondu Mon Carré,1,Produits Laitiers,5.98,2.392,101,2026-02-24,2,Carrefour,Ariana
+Fromage Edam,1,Produits Laitiers,9.33,9.33,57,2026-03-07,13,Carrefour,Tunis
+Fromage à l'emmental Croque',1,Produits Laitiers,2.6,1.43,41,2026-02-25,3,Carrefour,Sousse
+Fromage râpé  Grana Padano,1,Produits Laitiers,15.99,15.99,45,2026-03-08,14,Carrefour,Ariana
+Crème dessert Plaisir zgougou,1,Produits Laitiers,0.88,0.81,40,2026-03-05,11,Carrefour,Tunis
+Crème dessert Dolce chocolat,1,Produits Laitiers,0.78,0.429,33,2026-02-25,3,Carrefour,Sousse
+Mousse au chocolat Plaisir,1,Produits Laitiers,0.79,0.632,73,2026-02-28,6,Carrefour,Tunis
+Flan dessert,1,Produits Laitiers,0.8,0.544,94,2026-02-26,4,Carrefour,Sousse
+Yaourt nature,1,Produits Laitiers,0.55,0.22,123,2026-02-24,2,Carrefour,Ariana
+Œufs frais jaune orange+,1,Produits Laitiers,14.99,5.996,30,2026-02-23,1,Carrefour,Tunis
+Pack de yaourts à boire Danup vanille,1,Produits Laitiers,5.65,5.198,113,2026-03-05,11,Carrefour,Sousse
+Pack de yaourts à boire Danup fraise,1,Produits Laitiers,5.65,4.52,139,2026-02-28,6,Carrefour,Ariana
+Pack de fromages frais Danino nature sucré,1,Produits Laitiers,3.42,3.42,111,2026-03-08,14,Carrefour,Tunis
+Boisson lactée pêche abricot Vitalio,1,Produits Laitiers,0.99,0.911,109,2026-03-03,9,Carrefour,Sousse
+Crème fouettée pâtisserie et cuisine,1,Produits Laitiers,44.59,41.023,40,2026-03-03,9,Carrefour,Ariana
+Beurre extra fin,1,Produits Laitiers,3.89,3.89,131,2026-03-06,12,Carrefour,Tunis
+Yaourt à boire Danup fraise,1,Produits Laitiers,0.95,0.646,98,2026-02-26,4,Carrefour,Sousse
+Yaourt aromatisé Activia aux morceaux de pêche,1,Produits Laitiers,0.9,0.72,104,2026-03-02,8,Carrefour,Ariana
+Lait demi-écrémé U.H.T,1,Produits Laitiers,0.93,0.512,118,2026-02-25,3,Carrefour,Tunis
+Fromage râpé 100%  Emmental,1,Produits Laitiers,6.99,6.431,91,2026-03-03,9,Carrefour,Sousse
+Fromage blanc fondu Mon Carré,1,Produits Laitiers,10.66,7.249,107,2026-02-26,4,Carrefour,Ariana
+Fromage à raclette,1,Produits Laitiers,39.99,36.791,38,2026-03-03,9,Carrefour,Tunis
+Fromage et biscuits croustillants Goûter,1,Produits Laitiers,3.26,1.304,102,2026-02-24,2,Carrefour,Sousse
+Fromage râpé fondant à l'emmental,1,Produits Laitiers,13.89,13.89,85,2026-03-08,14,Carrefour,Ariana
+Fromage camembert,1,Produits Laitiers,25.49,14.02,52,2026-02-25,3,Carrefour,Tunis
+Fromage l'Emmental français en portion,1,Produits Laitiers,29.74,20.223,112,2026-02-27,5,Carrefour,Sousse
+Fromage Mascarpone,1,Produits Laitiers,19.99,7.996,77,2026-02-23,1,Carrefour,Ariana
+Pointe de Brie,1,Produits Laitiers,21.41,21.41,98,2026-03-07,13,Carrefour,Tunis
+Fromage camembert au lait,1,Produits Laitiers,16.49,6.596,102,2026-02-23,1,Carrefour,Sousse
+Fromage râpé Rap'cheese 100% lait,1,Produits Laitiers,49.9,19.96,11,2026-02-24,2,Carrefour,Ariana
+Œufs fermiers frais rustiques,1,Produits Laitiers,10.5,8.4,89,2026-03-01,7,Carrefour,Tunis
+Œufs fermiers frais rustiques,1,Produits Laitiers,6.4,4.352,25,2026-02-26,4,Carrefour,Sousse
+Fromage fondu à tartiner,1,Produits Laitiers,9.59,8.823,90,2026-03-03,9,Carrefour,Ariana
+Préparation alimentaire fondu,1,Produits Laitiers,5.4,4.968,27,2026-03-04,10,Carrefour,Tunis
+Fromage frais à tartiner Milkana Tarti'frais,1,Produits Laitiers,5.29,4.867,64,2026-03-03,9,Carrefour,Sousse
+Fromage frais à tartiner Milkana Tarti'frais,1,Produits Laitiers,3.05,2.074,78,2026-02-27,5,Carrefour,Ariana
+Pack de yaourts aromatisés aux fruits & morceaux de pêche,1,Produits Laitiers,6.59,6.063,48,2026-03-03,9,Carrefour,Tunis
+Fromage râpé Mix Di Fiore,1,Produits Laitiers,11.33,7.704,104,2026-02-26,4,Carrefour,Sousse
+Fromage Goutta du Nord,1,Produits Laitiers,6.39,6.39,121,2026-03-07,13,Carrefour,Ariana
+Yaourt panaché,1,Produits Laitiers,0.74,0.74,62,2026-03-07,13,Carrefour,Tunis
+Fromage fondu spécial hamburger,1,Produits Laitiers,4.19,1.676,66,2026-02-23,1,Carrefour,Sousse
+Yaourt aromatisé aux fruits avec morceaux de pêches,1,Produits Laitiers,0.84,0.462,145,2026-02-25,3,Carrefour,Ariana
+Crème dessert Danette Liégeois chocolat,1,Produits Laitiers,0.84,0.571,24,2026-02-27,5,Carrefour,Tunis
+Boisson lactée pêche abricot Nati,1,Produits Laitiers,0.95,0.874,69,2026-03-05,11,Carrefour,Sousse
+Fromage ricotta à tartiner,1,Produits Laitiers,5.58,2.232,133,2026-02-23,1,Carrefour,Ariana
+Yaourt à boire fraise,1,Produits Laitiers,0.74,0.681,27,2026-03-03,9,Carrefour,Tunis
+Préparation alimentaire fondu,1,Produits Laitiers,1.52,0.836,90,2026-02-25,3,Carrefour,Sousse
+Préparation alimentaire râpée,1,Produits Laitiers,12.49,4.996,82,2026-02-24,2,Carrefour,Ariana
+Yaourt à boire Natiyo vanille,1,Produits Laitiers,2.05,2.05,14,2026-03-06,12,Carrefour,Tunis
+Yaourt à boire Natiyo fraise,1,Produits Laitiers,2.05,2.05,35,2026-03-06,12,Carrefour,Sousse
+Fromage râpé au gruyère,1,Produits Laitiers,4.84,2.662,18,2026-02-25,3,Carrefour,Ariana
+Œufs frais good morning,1,Produits Laitiers,14.4,13.248,24,2026-03-05,11,Carrefour,Tunis
+"Lait fermenté ""Leben""",1,Produits Laitiers,1.59,1.59,82,2026-03-08,14,Carrefour,Sousse
+Yaourt à boire Natiyo vanille,1,Produits Laitiers,0.94,0.376,90,2026-02-23,1,Carrefour,Ariana
+Margarine riche en Omega 3,1,Produits Laitiers,2.88,2.65,67,2026-03-03,9,Carrefour,Tunis
+Pack de crèmes desserts Dolce chocolat et noisettes,1,Produits Laitiers,6.09,4.872,130,2026-03-02,8,Carrefour,Sousse
+Fromage Goutta du Nord,1,Produits Laitiers,4.56,3.648,39,2026-03-02,8,Carrefour,Tunis
+Crème dessert flan caramel  Danette,1,Produits Laitiers,0.8,0.64,13,2026-03-01,7,Carrefour,Sousse
+Fromage fondu au cheddar,1,Produits Laitiers,7.99,7.351,134,2026-03-04,10,Carrefour,Ariana
+Fromage fondu à l'emmental Croque',1,Produits Laitiers,7.99,5.433,80,2026-02-27,5,Carrefour,Tunis
+Pack de crèmes desserts Dolce Liégeois chocolat Suisse,1,Produits Laitiers,6.09,2.436,124,2026-02-24,2,Carrefour,Sousse
+Préparation alimentaire fondu,1,Produits Laitiers,4.08,2.244,72,2026-02-25,3,Carrefour,Ariana
+Pack boissons lactées pêche abricot Danao,1,Produits Laitiers,5.95,5.95,60,2026-03-08,14,Carrefour,Tunis
+Œufs frais adhayma EL BRIKA,1,Produits Laitiers,13.35,10.68,109,2026-03-01,7,Carrefour,Sousse
+Fromage à tartiner Light,1,Produits Laitiers,3.92,3.92,77,2026-03-08,14,Carrefour,Ariana
+Mini bûche de chèvre au poivre,1,Produits Laitiers,13.69,12.595,125,2026-03-05,11,Carrefour,Tunis
+Mini bûche de chèvre nature,1,Produits Laitiers,14.99,10.193,33,2026-02-26,4,Carrefour,Sousse
+Fromage de chèvre à tartiner à l'ail & aux fines herbes,1,Produits Laitiers,18.49,18.49,83,2026-03-07,13,Carrefour,Ariana
+Crème fraîche,1,Produits Laitiers,2.55,1.734,76,2026-02-27,5,Carrefour,Tunis
+Fromage crémeux et léger Mon Carré Fraîcheur,1,Produits Laitiers,9.89,3.956,96,2026-02-23,1,Carrefour,Sousse
+Fromage crémeux et léger Mon Carré Fraîcheur,1,Produits Laitiers,5.82,5.82,109,2026-03-07,13,Carrefour,Ariana
+Fromage crémeux et léger Mon Carré Fraîcheur,1,Produits Laitiers,3.48,1.392,132,2026-02-23,1,Carrefour,Tunis
+Fromage Gorgonzola,1,Produits Laitiers,19.59,7.836,120,2026-02-24,2,Carrefour,Sousse
+Fromage Parmigiano Reggiano,1,Produits Laitiers,29.99,16.495,140,2026-02-25,3,Carrefour,Ariana
+Fromage Grana Padano,1,Produits Laitiers,23.59,23.59,26,2026-03-06,12,Carrefour,Tunis
+Fromage bleu danois,1,Produits Laitiers,12.84,12.84,65,2026-03-08,14,Carrefour,Sousse
+Fromage de chèvre à tartiner,1,Produits Laitiers,17.49,6.996,127,2026-02-24,2,Carrefour,Ariana
+Fromage 50% chèvre 50% vache Bûchette Duo,1,Produits Laitiers,18.69,17.195,19,2026-03-04,10,Carrefour,Tunis
+Fromage à l'Emmental en portion,1,Produits Laitiers,31.99,31.99,132,2026-03-06,12,Carrefour,Sousse
+Fromage au miel  La Bûchette De Chèvre,1,Produits Laitiers,18.49,17.011,34,2026-03-05,11,Carrefour,Ariana
+Fromage frais à tartiner enrichi en calcium et vitamine D Fraidoux,1,Produits Laitiers,3.38,3.38,117,2026-03-06,12,Carrefour,Tunis
+Préparation alimentaire à base des huiles végétales Le Fondant,1,Produits Laitiers,2.68,2.144,107,2026-03-01,7,Carrefour,Sousse
+Crème chantilly spéciale dessert,1,Produits Laitiers,25.81,17.551,119,2026-02-27,5,Carrefour,Ariana
+Fromage Le Petit Moulé à l'ail & aux fines herbes,1,Produits Laitiers,10.19,4.076,56,2026-02-23,1,Carrefour,Tunis
+Fromage Le Petit Moulé à l'ail & aux fines herbes,1,Produits Laitiers,15.29,8.409,143,2026-02-25,3,Carrefour,Sousse
+Fromage Le Petit Moulé nature,1,Produits Laitiers,14.59,11.672,55,2026-03-01,7,Carrefour,Ariana
+Fromage fouetté Madame Loïk saumon ciboulette,1,Produits Laitiers,17.33,17.33,52,2026-03-08,14,Carrefour,Tunis
+Fromage fouetté Madame Loïk nature,1,Produits Laitiers,17.33,17.33,145,2026-03-08,14,Carrefour,Sousse
+Fromage fouetté Madame Loïk à l'ail & aux fines herbes,1,Produits Laitiers,17.33,17.33,17,2026-03-08,14,Carrefour,Ariana
+Fromage râpé spécial gratin emmental et gouda,1,Produits Laitiers,22.49,17.992,66,2026-03-02,8,Carrefour,Tunis
+Fromage râpé à l'emmental,1,Produits Laitiers,12.23,8.316,51,2026-02-26,4,Carrefour,Sousse
+Yaourt bifi 0% citron,1,Produits Laitiers,0.74,0.592,111,2026-03-01,7,Carrefour,Ariana
+Fromage fondu à l'Emmental Mini',1,Produits Laitiers,0.53,0.488,108,2026-03-05,11,Carrefour,Tunis
+Fromage fondu à tartiner saveur emmental,1,Produits Laitiers,8.83,8.83,65,2026-03-08,14,Carrefour,Sousse
+Fromage et biscuits croustillants Goûter,1,Produits Laitiers,0.9,0.612,105,2026-02-27,5,Carrefour,Ariana
+Fromage fondu à tartiner saveur emmental,1,Produits Laitiers,6.58,4.474,81,2026-02-26,4,Carrefour,Tunis
+Fromage fondu à tartiner saveur emmental,1,Produits Laitiers,3.06,1.683,92,2026-02-25,3,Carrefour,Sousse
+Fromage fondu Le Cuistot Emmental,1,Produits Laitiers,4.26,3.919,90,2026-03-03,9,Carrefour,Ariana
+Fromage fondu Le Cuistot à la crème,1,Produits Laitiers,5.13,5.13,46,2026-03-08,14,Carrefour,Tunis
+Fromage ricotta à tartiner,1,Produits Laitiers,3.16,1.264,76,2026-02-24,2,Carrefour,Sousse
+Préparation alimentaire fondante et filante Mozza Fino,1,Produits Laitiers,2.45,0.98,62,2026-02-24,2,Carrefour,Ariana
+Fromage Goutta du Nord,1,Produits Laitiers,3.19,1.755,150,2026-02-25,3,Carrefour,Tunis
+Pack de crèmes desserts Danette chocolat & noisettes pralinées,1,Produits Laitiers,6.09,5.603,13,2026-03-03,9,Carrefour,Sousse
+Pack de fromages blancs frais Danino nature sucré,1,Produits Laitiers,6.83,6.83,128,2026-03-07,13,Carrefour,Ariana
+Pack de yaourts natures,1,Produits Laitiers,6.39,5.112,30,2026-03-02,8,Carrefour,Tunis
+Œufs frais Ovita,1,Produits Laitiers,9.99,9.191,58,2026-03-04,10,Carrefour,Sousse
+Margarine tartine et cuisson,1,Produits Laitiers,2.5,1.0,73,2026-02-24,2,Carrefour,Tunis
+Margarine riche en Oméga 3,1,Produits Laitiers,5.69,5.69,51,2026-03-08,14,Carrefour,Sousse
+Margarines riche en oméga 3,1,Produits Laitiers,3.1,3.1,103,2026-03-08,14,Carrefour,Ariana
+Yaourt à boire Vit'up Max pommes vanille,1,Produits Laitiers,1.2,0.48,116,2026-02-24,2,Carrefour,Tunis
+Fromage blanc Le Cuistot,1,Produits Laitiers,8.99,7.192,142,2026-03-01,7,Carrefour,Sousse
+Fromage fondu Le Cuistot Emmental,1,Produits Laitiers,7.59,7.59,63,2026-03-08,14,Carrefour,Ariana
+Fromage fondu à tartiner,1,Produits Laitiers,5.93,2.372,74,2026-02-24,2,Carrefour,Tunis
+Margarine riche en oméga 3 sans acides gras et sans cholestérol,1,Produits Laitiers,5.55,5.106,42,2026-03-04,10,Carrefour,Sousse
+Préparation alimentaire Goutella nature à base de lait frais,1,Produits Laitiers,2.87,2.87,11,2026-03-06,12,Carrefour,Ariana
+Fromage camembert,1,Produits Laitiers,28.55,28.55,137,2026-03-08,14,Carrefour,Tunis
+Pack de crèmes desserts Danette chocolat,1,Produits Laitiers,6.09,6.09,33,2026-03-08,14,Carrefour,Sousse
+Fromage frais nature Rondelé,1,Produits Laitiers,5.4,2.16,14,2026-02-23,1,Carrefour,Ariana
+Fromage râpé spécial tajine cheddar et sicilien,1,Produits Laitiers,5.19,4.775,82,2026-03-03,9,Carrefour,Tunis
+Fromage fondu à la mozzarella,1,Produits Laitiers,4.86,3.305,93,2026-02-27,5,Carrefour,Sousse
+Fromage fondu à tartiner,1,Produits Laitiers,7.98,6.384,116,2026-02-28,6,Carrefour,Ariana
+Fromage fondu à tartiner,1,Produits Laitiers,16.2,6.48,69,2026-02-23,1,Carrefour,Tunis
+Yaourt à boire Vitupti pommes vanille,1,Produits Laitiers,0.78,0.429,41,2026-02-25,3,Carrefour,Sousse
+Yaourt à boire Vitupti à la pulpe de fraise,1,Produits Laitiers,0.78,0.624,111,2026-02-28,6,Carrefour,Ariana
+Préparation alimentaire Goutella  à base de lait frais,1,Produits Laitiers,7.63,6.104,81,2026-02-28,6,Carrefour,Tunis
+Préparation alimentaire Goutella à base de lait frais,1,Produits Laitiers,11.98,6.589,42,2026-02-25,3,Carrefour,Sousse
+Fromage fondu à tartiner,1,Produits Laitiers,5.99,5.511,25,2026-03-03,9,Carrefour,Ariana
+Boisson lactée pêche abricot Danao,1,Produits Laitiers,1.0,0.92,143,2026-03-05,11,Carrefour,Tunis
+Œufs frais Oméga 3,1,Produits Laitiers,9.59,9.59,109,2026-03-06,12,Carrefour,Ariana
+Fromage frais à tartiner Fraidoux,1,Produits Laitiers,4.59,4.59,57,2026-03-07,13,Carrefour,Tunis
+"Lait caillé ""Raieb""",1,Produits Laitiers,1.49,1.013,36,2026-02-26,4,Carrefour,Sousse
+"Lait fermenté ""Leben""",1,Produits Laitiers,1.49,1.49,116,2026-03-07,13,Carrefour,Ariana
+Fromage fondu spécial croque-monsieur,1,Produits Laitiers,4.29,2.36,90,2026-02-25,3,Carrefour,Tunis
+Margarine tartine et cuisson,1,Produits Laitiers,10.8,8.64,69,2026-03-01,7,Carrefour,Sousse
+Fromage râpé spécial pâte emmental et cheddar,1,Produits Laitiers,5.19,4.775,118,2026-03-04,10,Carrefour,Ariana
+Crème dessert Danette praliné aux noisettes,1,Produits Laitiers,0.78,0.624,100,2026-03-01,7,Carrefour,Tunis
+Yaourt à boire Danup vanille,1,Produits Laitiers,0.95,0.76,27,2026-02-28,6,Carrefour,Sousse
+Fromage fondu au cheddar,1,Produits Laitiers,2.42,2.226,133,2026-03-05,11,Carrefour,Ariana
+Fromage fondu à l'emmental Croque',1,Produits Laitiers,4.93,3.352,74,2026-02-26,4,Carrefour,Tunis
+Fromage fondu à tartiner,1,Produits Laitiers,3.03,3.03,112,2026-03-06,12,Carrefour,Sousse
+Œufs frais jaune orange+,1,Produits Laitiers,3.38,3.38,51,2026-03-07,13,Carrefour,Ariana
+Œufs frais jaune orange+,1,Produits Laitiers,8.1,4.455,61,2026-02-25,3,Carrefour,Tunis
+Margarine tartine et cuisson,1,Produits Laitiers,5.5,5.5,91,2026-03-08,14,Carrefour,Sousse
+Fromage frais à tartiner Fraidoux,1,Produits Laitiers,3.16,3.16,113,2026-03-06,12,Carrefour,Ariana
+Fromage fondu à tartiner La Fondue,1,Produits Laitiers,4.62,4.62,47,2026-03-08,14,Carrefour,Tunis
+Lait écrémé 0% matière grasse U.H.T,1,Produits Laitiers,2.25,2.07,142,2026-03-03,9,Carrefour,Sousse
+Margarine tartine et cuisson,1,Produits Laitiers,3.0,2.76,69,2026-03-04,10,Carrefour,Ariana
+Fromage fondu cheddar,1,Produits Laitiers,1.59,1.463,40,2026-03-04,10,Carrefour,Tunis
+Fromage fondu à l'Emmental Famili',1,Produits Laitiers,5.18,2.072,111,2026-02-24,2,Carrefour,Sousse
+Fromage fondu à l'Emmental  Maxi',1,Produits Laitiers,1.52,1.034,67,2026-02-26,4,Carrefour,Ariana
+Fromage fondu spécial hamburger,1,Produits Laitiers,4.29,1.716,19,2026-02-23,1,Carrefour,Tunis
+Fromage fondu spécial sandwich,1,Produits Laitiers,4.29,2.917,83,2026-02-27,5,Carrefour,Sousse
+Fromage râpé au gruyère avec zip,1,Produits Laitiers,5.68,5.226,63,2026-03-03,9,Carrefour,Ariana
+Fromage râpé au gruyère avec zip,1,Produits Laitiers,6.49,2.596,134,2026-02-23,1,Carrefour,Tunis
+Margarine tartine et cuisson,1,Produits Laitiers,5.64,3.102,33,2026-02-25,3,Carrefour,Sousse
+Fromage blanc fondu,1,Produits Laitiers,4.3,2.924,75,2026-02-27,5,Carrefour,Tunis
+Fromage blanc fondu Carré,1,Produits Laitiers,3.54,1.416,99,2026-02-24,2,Carrefour,Sousse
+Fromage fondu à tartiner,1,Produits Laitiers,8.5,4.675,141,2026-02-25,3,Carrefour,Ariana
+Lait entier U.H.T,1,Produits Laitiers,2.57,2.57,129,2026-03-07,13,Carrefour,Tunis
+Œufs frais jaune orange+,1,Produits Laitiers,7.09,7.09,140,2026-03-06,12,Carrefour,Sousse
+Beurre extra fin,1,Produits Laitiers,3.85,3.542,108,2026-03-03,9,Carrefour,Ariana
+Fromage fondu à tartiner,1,Produits Laitiers,5.85,3.978,148,2026-02-26,4,Carrefour,Sousse
+Margarine tartine et cuisson,1,Produits Laitiers,4.65,4.65,120,2026-03-06,12,Carrefour,Ariana
+Margarine tartine et cuisson,1,Produits Laitiers,1.36,1.251,60,2026-03-03,9,Carrefour,Tunis
+Lait demi-écrémé U.H.T,1,Produits Laitiers,1.3,1.196,101,2026-03-03,9,Carrefour,Sousse
+Fromage Jockey nature sucré,1,Produits Laitiers,0.95,0.95,97,2026-03-06,12,Carrefour,Ariana
+Lait concentré sucré,1,Produits Laitiers,7.67,3.068,101,2026-02-24,2,Carrefour,Tunis
+Lait concentré sucré au lait entier,1,Produits Laitiers,7.59,6.983,99,2026-03-05,11,Carrefour,Sousse
+Fromage fondu à tartiner,1,Produits Laitiers,3.5,2.38,129,2026-02-26,4,Carrefour,Ariana
+Crème dessert Plaisir chocolat,1,Produits Laitiers,0.79,0.435,55,2026-02-25,3,Carrefour,Tunis
+Fromage fondu à tartiner,1,Produits Laitiers,12.99,7.145,51,2026-02-25,3,Carrefour,Sousse
+Fromage râpé à l'emmental avec zip,1,Produits Laitiers,24.79,24.79,38,2026-03-06,12,Carrefour,Ariana
+Crème fraîche semi épaisse à 30% de matière grasse,1,Produits Laitiers,3.1,1.24,97,2026-02-24,2,Carrefour,Tunis
+Boisson lactée goût chocolat Délisso,1,Produits Laitiers,0.92,0.92,87,2026-03-06,12,Carrefour,Sousse
+Lait  Délisso demi-écrémé U.H.T,1,Produits Laitiers,2.3,1.265,21,2026-02-25,3,Carrefour,Ariana
+Beurre extra fin,1,Produits Laitiers,7.59,6.983,148,2026-03-03,9,Carrefour,Sousse
+Fromage blanc fondu Mon Carré,1,Produits Laitiers,4.44,3.552,32,2026-03-01,7,Carrefour,Ariana
+Fromage blanc fondu Mon Carré,1,Produits Laitiers,3.44,1.892,63,2026-02-25,3,Carrefour,Tunis
+Œufs frais jaune orange+,1,Produits Laitiers,12.89,12.89,115,2026-03-06,12,Carrefour,Sousse
+Fromage blanc brassé sans sucre ONCTINA,1,Produits Laitiers,7.58,5.154,98,2026-02-26,4,Carrefour,Ariana
+Fromage ricotta à tartiner,1,Produits Laitiers,4.49,4.131,99,2026-03-05,11,Carrefour,Tunis
+Ricotta traditonnelle à tartiner,1,Produits Laitiers,8.68,7.986,45,2026-03-03,9,Carrefour,Sousse
+Fromage râpé fondant à l'emmental,1,Produits Laitiers,4.99,4.591,125,2026-03-03,9,Carrefour,Ariana
+Yaourt à boire Natiyo fraise,1,Produits Laitiers,0.94,0.376,119,2026-02-24,2,Carrefour,Tunis
+Crème fraîche La Dosette,1,Produits Laitiers,11.99,11.99,101,2026-03-06,12,Carrefour,Sousse
+Cardon,2,Fruits et Légumes,1.725,1.553,68,2026-02-27,5,Carrefour,Tunis
+Blettes,2,Fruits et Légumes,0.89,0.667,193,2026-02-26,4,Carrefour,Sousse
+Tomate allongée,2,Fruits et Légumes,1.61,0.966,199,2026-02-24,2,Carrefour,Ariana
+Aneth,2,Fruits et Légumes,1.035,0.31,76,2026-02-23,1,Carrefour,Tunis
+Borghel fin,2,Fruits et Légumes,4.79,4.79,196,2026-02-28,6,Carrefour,Sousse
+Tomates Cerises cherry,2,Fruits et Légumes,3.6,3.6,176,2026-02-28,6,Carrefour,Ariana
+Laitue Romaine,2,Fruits et Légumes,1.15,0.862,31,2026-02-25,3,Carrefour,Tunis
+Estragon frais en barquette,2,Fruits et Légumes,4.5,4.5,145,2026-03-01,7,Carrefour,Sousse
+Oignon blanc en barquette,2,Fruits et Légumes,4.9,1.47,109,2026-02-23,1,Carrefour,Ariana
+Basilic en barquette,2,Fruits et Légumes,2.3,1.725,69,2026-02-26,4,Carrefour,Tunis
+Salade julienne carotte,2,Fruits et Légumes,2.7,2.7,52,2026-03-01,7,Carrefour,Sousse
+Salade méditerranéenne,2,Fruits et Légumes,4.5,3.375,165,2026-02-26,4,Carrefour,Ariana
+Tomate séchée sans sel en  barquette,2,Fruits et Légumes,2.99,2.99,47,2026-03-01,7,Carrefour,Tunis
+Poivron rouge,2,Fruits et Légumes,1.495,1.346,41,2026-02-27,5,Carrefour,Sousse
+Sauge,2,Fruits et Légumes,2.5,1.5,119,2026-02-24,2,Carrefour,Ariana
+Tomate ronde,2,Fruits et Légumes,1.725,1.725,69,2026-02-28,6,Carrefour,Tunis
+Carottes sans fanes en barquette,2,Fruits et Légumes,2.5,2.5,160,2026-02-28,6,Carrefour,Sousse
+Ciboulette en barquette,2,Fruits et Légumes,1.75,0.525,177,2026-02-23,1,Carrefour,Ariana
+Piment fort,2,Fruits et Légumes,0.99,0.742,158,2026-02-26,4,Carrefour,Tunis
+Tomate cerise Bicolore en barquette,2,Fruits et Légumes,3.99,1.197,189,2026-02-23,1,Carrefour,Sousse
+Piment de Cayenne,2,Fruits et Légumes,3.45,3.105,170,2026-02-27,5,Carrefour,Ariana
+Epinard en Botte,2,Fruits et Légumes,0.89,0.267,109,2026-02-23,1,Carrefour,Tunis
+Ail en Filet,2,Fruits et Légumes,1.39,1.251,24,2026-02-27,5,Carrefour,Sousse
+Oignon rouge en barquette,2,Fruits et Légumes,2.9,2.61,64,2026-02-27,5,Carrefour,Ariana
+Fenouil avec fane,2,Fruits et Légumes,12.99,7.794,113,2026-02-24,2,Carrefour,Tunis
+Champignon slice petit,2,Fruits et Légumes,21.8,16.35,197,2026-02-26,4,Carrefour,Sousse
+Tomate cerise,2,Fruits et Légumes,9.9,5.94,131,2026-02-24,2,Carrefour,Ariana
+Endive,2,Fruits et Légumes,11.5,6.9,135,2026-02-24,2,Carrefour,Tunis
+Tomates séchées à l'huile,2,Fruits et Légumes,23.9,23.9,27,2026-02-28,6,Carrefour,Sousse
+Piment de Cayenne vert,2,Fruits et Légumes,10.5,3.15,49,2026-02-23,1,Carrefour,Ariana
+Piment Mexicain,2,Fruits et Légumes,10.5,7.875,127,2026-02-26,4,Carrefour,Tunis
+Pâte d'ail,2,Fruits et Légumes,15.7,11.775,67,2026-02-25,3,Carrefour,Sousse
+Piment de cayenne rouge,2,Fruits et Légumes,11.5,6.9,156,2026-02-24,2,Carrefour,Ariana
+Fèves,2,Fruits et Légumes,8.5,6.375,35,2026-02-26,4,Carrefour,Tunis
+Févettes,2,Fruits et Légumes,3.9,2.925,58,2026-02-25,3,Carrefour,Sousse
+Lentilles décortiquées,2,Fruits et Légumes,9.9,8.91,165,2026-02-27,5,Carrefour,Ariana
+Maïs,2,Fruits et Légumes,5.0,5.0,198,2026-02-28,6,Carrefour,Tunis
+Haricot rouge,2,Fruits et Légumes,11.5,8.625,120,2026-02-25,3,Carrefour,Sousse
+Tomate cerise pralinen,2,Fruits et Légumes,3.6,3.6,132,2026-03-01,7,Carrefour,Ariana
+Tomate cerise allongée en barquette,2,Fruits et Légumes,3.6,2.7,147,2026-02-26,4,Carrefour,Tunis
+Champignons slices,2,Fruits et Légumes,21.25,12.75,39,2026-02-24,2,Carrefour,Sousse
+Champignon entier,2,Fruits et Légumes,20.6,6.18,174,2026-02-23,1,Carrefour,Ariana
+Ail rouge,2,Fruits et Légumes,9.77,8.793,154,2026-02-27,5,Carrefour,Tunis
+Fèves fraîches,2,Fruits et Légumes,2.875,2.875,142,2026-03-01,7,Carrefour,Sousse
+Tomate Cocktail,2,Fruits et Légumes,3.3,2.475,58,2026-02-25,3,Carrefour,Ariana
+Radis rose,2,Fruits et Légumes,2.3,0.69,199,2026-02-23,1,Carrefour,Tunis
+Champignon entier,2,Fruits et Légumes,20.0,18.0,71,2026-02-27,5,Carrefour,Sousse
+Piment fort rouge,2,Fruits et Légumes,3.45,3.45,42,2026-02-28,6,Carrefour,Ariana
+Salade rouge,2,Fruits et Légumes,2.3,2.3,145,2026-02-28,6,Carrefour,Tunis
+Salade verte,2,Fruits et Légumes,2.07,1.242,160,2026-02-24,2,Carrefour,Sousse
+Cornichon,2,Fruits et Légumes,4.025,3.019,140,2026-02-25,3,Carrefour,Tunis
+Roquette en barquette,2,Fruits et Légumes,5.9,5.31,101,2026-02-27,5,Carrefour,Sousse
+Epinard en barquette,2,Fruits et Légumes,7.0,2.1,125,2026-02-23,1,Carrefour,Ariana
+Courge ronde,2,Fruits et Légumes,2.07,1.242,126,2026-02-24,2,Carrefour,Tunis
+Fenouil sans fanes,2,Fruits et Légumes,5.6,1.68,172,2026-02-23,1,Carrefour,Sousse
+Tomate allongée,2,Fruits et Légumes,1.495,1.346,121,2026-02-27,5,Carrefour,Ariana
+Potiron coupé emballé,2,Fruits et Légumes,9.9,8.91,160,2026-02-27,5,Carrefour,Tunis
+Pomme de terre douce,2,Fruits et Légumes,6.9,5.175,198,2026-02-26,4,Carrefour,Sousse
+Poivron carré,2,Fruits et Légumes,6.9,2.07,103,2026-02-23,1,Carrefour,Ariana
+Poireau,2,Fruits et Légumes,3.45,2.588,48,2026-02-26,4,Carrefour,Tunis
+Piment Baklouti,2,Fruits et Légumes,2.875,1.725,125,2026-02-24,2,Carrefour,Sousse
+Piment fort,2,Fruits et Légumes,3.33,2.498,165,2026-02-25,3,Carrefour,Ariana
+Oignon rouge sans fanes,2,Fruits et Légumes,1.495,0.897,69,2026-02-24,2,Carrefour,Tunis
+Oignon Rebii demi fanes,2,Fruits et Légumes,2.99,2.243,82,2026-02-25,3,Carrefour,Sousse
+Navet demi fanes,2,Fruits et Légumes,2.3,2.07,121,2026-02-27,5,Carrefour,Ariana
+Haricot vert,2,Fruits et Légumes,11.5,11.5,115,2026-03-01,7,Carrefour,Tunis
+Épinard,2,Fruits et Légumes,4.6,2.76,50,2026-02-24,2,Carrefour,Sousse
+Courgette,2,Fruits et Légumes,4.6,4.14,146,2026-02-27,5,Carrefour,Ariana
+Carotte sans fanes,2,Fruits et Légumes,2.875,1.725,44,2026-02-24,2,Carrefour,Tunis
+Betterave,2,Fruits et Légumes,3.45,2.588,169,2026-02-26,4,Carrefour,Sousse
+Chou-rave,2,Fruits et Légumes,3.45,2.588,177,2026-02-26,4,Carrefour,Ariana
+Aubergine,2,Fruits et Légumes,4.6,2.76,123,2026-02-24,2,Carrefour,Tunis
+Ail sec,2,Fruits et Légumes,11.5,10.35,84,2026-02-27,5,Carrefour,Sousse
+Pois chiche,2,Fruits et Légumes,10.9,3.27,111,2026-02-23,1,Carrefour,Ariana
+Lentilles vertes,2,Fruits et Légumes,9.5,2.85,24,2026-02-23,1,Carrefour,Tunis
+Haricot Lingot,2,Fruits et Légumes,9.5,2.85,139,2026-02-23,1,Carrefour,Sousse
+Tomate cerise en barquette,2,Fruits et Légumes,5.9,4.425,115,2026-02-26,4,Carrefour,Ariana
+Brocoli en barquette,2,Fruits et Légumes,13.5,12.15,114,2026-02-27,5,Carrefour,Tunis
+Pois chiches trempés,2,Fruits et Légumes,3.6,2.7,128,2026-02-25,3,Carrefour,Sousse
+Persil haché en barquette,2,Fruits et Légumes,2.0,2.0,175,2026-02-28,6,Carrefour,Tunis
+Haricot blanc prêt à cuir,2,Fruits et Légumes,3.5,1.05,94,2026-02-23,1,Carrefour,Sousse
+Courge nettoyée en barquette,2,Fruits et Légumes,3.3,1.98,186,2026-02-24,2,Carrefour,Ariana
+Salade Contadina,2,Fruits et Légumes,4.5,2.7,112,2026-02-24,2,Carrefour,Tunis
+Piments séchés,2,Fruits et Légumes,5.92,4.44,139,2026-02-26,4,Carrefour,Sousse
+Roquette fraiche en barquette,2,Fruits et Légumes,5.9,5.31,20,2026-02-27,5,Carrefour,Ariana
+Haricot vert en barquette,2,Fruits et Légumes,11.2,11.2,154,2026-03-01,7,Carrefour,Tunis
+Epinard en barquette,2,Fruits et Légumes,6.9,2.07,27,2026-02-23,1,Carrefour,Sousse
+Oignon en barquette,2,Fruits et Légumes,4.9,4.41,68,2026-02-27,5,Carrefour,Ariana
+Ail pelé,2,Fruits et Légumes,5.1,4.59,90,2026-02-27,5,Carrefour,Tunis
+Chou rouge,2,Fruits et Légumes,2.3,1.725,146,2026-02-26,4,Carrefour,Sousse
+Blette,2,Fruits et Légumes,0.57,0.513,144,2026-02-27,5,Carrefour,Ariana
+Basilic,2,Fruits et Légumes,3.45,1.035,80,2026-02-23,1,Carrefour,Tunis
+Laitue iceberg,2,Fruits et Légumes,2.3,1.725,53,2026-02-25,3,Carrefour,Sousse
+Menthe fraiche,2,Fruits et Légumes,0.8,0.24,66,2026-02-23,1,Carrefour,Ariana
+Persil,2,Fruits et Légumes,0.57,0.513,112,2026-02-27,5,Carrefour,Tunis
+Laitue,2,Fruits et Légumes,1.15,1.035,139,2026-02-27,5,Carrefour,Sousse
+Pois chiches,2,Fruits et Légumes,9.66,7.245,52,2026-02-26,4,Carrefour,Ariana
+Lentilles rouges,2,Fruits et Légumes,7.99,7.191,65,2026-02-27,5,Carrefour,Tunis
+Lentilles vertes,2,Fruits et Légumes,9.99,7.492,135,2026-02-26,4,Carrefour,Sousse
+Haricots,2,Fruits et Légumes,7.19,5.393,133,2026-02-25,3,Carrefour,Tunis
+Pois chiches,2,Fruits et Légumes,9.99,9.99,30,2026-03-01,7,Carrefour,Sousse
+Haricots blancs,2,Fruits et Légumes,9.99,7.492,189,2026-02-26,4,Carrefour,Ariana
+Maïs,2,Fruits et Légumes,3.86,3.86,180,2026-02-28,6,Carrefour,Tunis
+Brocoli en barquette,2,Fruits et Légumes,14.4,8.64,54,2026-02-24,2,Carrefour,Sousse
+Chou vert,2,Fruits et Légumes,1.725,1.725,194,2026-03-01,7,Carrefour,Ariana
+Chou fleur,2,Fruits et Légumes,2.875,2.875,153,2026-02-28,6,Carrefour,Tunis
+Céleri,2,Fruits et Légumes,0.57,0.57,37,2026-03-01,7,Carrefour,Sousse
+Chou brocoli,2,Fruits et Légumes,11.5,3.45,183,2026-02-23,1,Carrefour,Ariana
+Artichaut blanc,2,Fruits et Légumes,2.3,2.3,148,2026-02-28,6,Carrefour,Sousse
+Artichaud violet,2,Fruits et Légumes,3.45,2.588,129,2026-02-25,3,Carrefour,Ariana
+Petit pois,2,Fruits et Légumes,5.75,5.175,172,2026-02-27,5,Carrefour,Tunis
+Piment doux,2,Fruits et Légumes,3.33,1.998,37,2026-02-24,2,Carrefour,Sousse
+Carottes sans fanes,2,Fruits et Légumes,1.61,1.61,58,2026-03-01,7,Carrefour,Ariana
+Concombre,2,Fruits et Légumes,5.75,5.75,200,2026-02-28,6,Carrefour,Tunis
+Pomme de terre,2,Fruits et Légumes,1.84,1.104,146,2026-02-24,2,Carrefour,Sousse
+Oignon blanc,2,Fruits et Légumes,1.495,1.121,179,2026-02-26,4,Carrefour,Ariana
+Pâte de dattes,2,Fruits et Légumes,3.29,1.974,122,2026-02-24,2,Carrefour,Tunis
+Dattes standard,2,Fruits et Légumes,2.98,2.98,32,2026-03-01,7,Carrefour,Sousse
+Dattes standard,2,Fruits et Légumes,4.99,3.743,174,2026-02-25,3,Carrefour,Ariana
+Dattes standard,2,Fruits et Légumes,7.99,7.99,194,2026-02-28,6,Carrefour,Tunis
+Dattes branchées,2,Fruits et Légumes,6.99,5.242,98,2026-02-25,3,Carrefour,Sousse
+Dattes branchées,2,Fruits et Légumes,11.99,10.791,169,2026-02-27,5,Carrefour,Ariana
+Coffret cadeau dattes,2,Fruits et Légumes,20.0,18.0,82,2026-02-27,5,Carrefour,Tunis
+Coffret cadeau dattes,2,Fruits et Légumes,13.5,12.15,111,2026-02-27,5,Carrefour,Sousse
+Dattes branchées,2,Fruits et Légumes,11.5,6.9,173,2026-02-24,2,Carrefour,Ariana
+Dattes branchées,2,Fruits et Légumes,7.9,5.925,39,2026-02-25,3,Carrefour,Tunis
+Oranges double fine AA,2,Fruits et Légumes,4.6,1.38,82,2026-02-23,1,Carrefour,Sousse
+Mandarines w Murcott,2,Fruits et Légumes,3.335,3.335,135,2026-03-01,7,Carrefour,Ariana
+Châtaigne,2,Fruits et Légumes,19.55,19.55,170,2026-02-28,6,Carrefour,Tunis
+Pomme Golden moyen calibre,2,Fruits et Légumes,3.9,2.925,95,2026-02-25,3,Carrefour,Sousse
+Pomme rouge petit calibre,2,Fruits et Légumes,6.9,5.175,83,2026-02-26,4,Carrefour,Ariana
+Pomme rouge grand calibre,2,Fruits et Légumes,8.0,4.8,190,2026-02-24,2,Carrefour,Tunis
+Fraises en barquette,2,Fruits et Légumes,11.5,6.9,164,2026-02-24,2,Carrefour,Sousse
+Orange Valencia grand calibre,2,Fruits et Légumes,6.325,6.325,93,2026-03-01,7,Carrefour,Ariana
+Myrtille en barquette,2,Fruits et Légumes,9.9,8.91,80,2026-02-27,5,Carrefour,Tunis
+Thomson B,2,Fruits et Légumes,3.5,3.5,47,2026-03-01,7,Carrefour,Sousse
+Orange Moro,2,Fruits et Légumes,2.59,0.777,29,2026-02-23,1,Carrefour,Ariana
+Mandarine Murkott,2,Fruits et Légumes,3.56,2.67,92,2026-02-26,4,Carrefour,Tunis
+Dattes branchées,2,Fruits et Légumes,6.5,1.95,97,2026-02-23,1,Carrefour,Sousse
+Orange Navel,2,Fruits et Légumes,99.0,74.25,105,2026-02-25,3,Carrefour,Ariana
+Pomme rouge,2,Fruits et Légumes,4.5,3.375,70,2026-02-26,4,Carrefour,Tunis
+Dattes branchées en barquette,2,Fruits et Légumes,13.9,13.9,111,2026-03-01,7,Carrefour,Sousse
+Dattes branchées,2,Fruits et Légumes,14.5,10.875,168,2026-02-25,3,Carrefour,Ariana
+Dattes en ravier,2,Fruits et Légumes,3.9,1.17,78,2026-02-23,1,Carrefour,Tunis
+Dattes branchées,2,Fruits et Légumes,15.0,15.0,111,2026-02-28,6,Carrefour,Sousse
+Dattes branchées Nour,2,Fruits et Légumes,10.9,10.9,79,2026-02-28,6,Carrefour,Ariana
+Gingembre frais,2,Fruits et Légumes,28.75,8.625,45,2026-02-23,1,Carrefour,Tunis
+Dattes branchées Deglet Nour Bio,2,Fruits et Légumes,7.99,7.99,170,2026-03-01,7,Carrefour,Ariana
+Dattes naturelles en branche Deglet Nour,2,Fruits et Légumes,12.55,11.295,38,2026-02-27,5,Carrefour,Tunis
+Dattes branchées,2,Fruits et Légumes,23.5,23.5,103,2026-02-28,6,Carrefour,Sousse
+Datte standard en ravier,2,Fruits et Légumes,1.99,1.99,32,2026-03-01,7,Carrefour,Ariana
+Datte branchée en barquette,2,Fruits et Légumes,7.49,5.617,84,2026-02-26,4,Carrefour,Tunis
+Datte branchée,2,Fruits et Légumes,4.5,4.5,73,2026-02-28,6,Carrefour,Sousse
+Datte branchée,2,Fruits et Légumes,7.9,5.925,40,2026-02-25,3,Carrefour,Ariana
+Ananas,2,Fruits et Légumes,11.5,3.45,154,2026-02-23,1,Carrefour,Tunis
+Dattes branchées bouquet,2,Fruits et Légumes,10.9,10.9,113,2026-03-01,7,Carrefour,Sousse
+Pomme rouge,2,Fruits et Légumes,6.9,6.9,87,2026-03-01,7,Carrefour,Ariana
+Citron,2,Fruits et Légumes,1.38,0.828,44,2026-02-24,2,Carrefour,Tunis
+Mangue,2,Fruits et Légumes,16.1,16.1,187,2026-02-28,6,Carrefour,Sousse
+Avocat Dolce,2,Fruits et Légumes,5.75,4.312,147,2026-02-25,3,Carrefour,Ariana
+Ananas,2,Fruits et Légumes,7.99,7.191,171,2026-02-27,5,Carrefour,Tunis
+Citron en filet,2,Fruits et Légumes,0.98,0.735,43,2026-02-26,4,Carrefour,Sousse
+Kiwi,2,Fruits et Légumes,1.59,1.59,163,2026-02-28,6,Carrefour,Ariana
+Pomme Anna,2,Fruits et Légumes,3.45,3.105,93,2026-02-27,5,Carrefour,Tunis
+Clémentine,2,Fruits et Légumes,2.53,2.53,191,2026-02-28,6,Carrefour,Sousse
+Clémentines en filet,2,Fruits et Légumes,3.45,3.45,136,2026-02-28,6,Carrefour,Tunis
+Framboise en barquette,2,Fruits et Légumes,12.5,11.25,57,2026-02-27,5,Carrefour,Sousse
+Thomson sanguine,2,Fruits et Légumes,2.59,2.331,59,2026-02-27,5,Carrefour,Ariana
+Orange Thomson New Hall grand calibre,2,Fruits et Légumes,2.59,2.59,190,2026-02-28,6,Carrefour,Tunis
+Grenades moyen calibre,2,Fruits et Légumes,5.75,3.45,170,2026-02-24,2,Carrefour,Sousse
+Orange douce AA,2,Fruits et Légumes,2.59,1.942,60,2026-02-26,4,Carrefour,Ariana
+Kiwi jaune gold,2,Fruits et Légumes,1.59,1.193,86,2026-02-26,4,Carrefour,Tunis
+Grenade grand calibre,2,Fruits et Légumes,5.75,3.45,154,2026-02-24,2,Carrefour,Sousse
+Fruits de la passion,2,Fruits et Légumes,2.875,2.875,114,2026-02-28,6,Carrefour,Ariana
+Pomme royal gala moyen calibre,2,Fruits et Légumes,5.75,5.75,26,2026-03-01,7,Carrefour,Tunis
+Pommes Golden grand calibre,2,Fruits et Légumes,5.175,3.881,108,2026-02-26,4,Carrefour,Sousse
+Orange maltaise à jus,2,Fruits et Légumes,1.38,1.035,58,2026-02-26,4,Carrefour,Ariana
+Clémentine Cassar,2,Fruits et Légumes,2.875,2.875,155,2026-02-28,6,Carrefour,Tunis
+Bergamote,2,Fruits et Légumes,7.99,7.99,186,2026-03-01,7,Carrefour,Sousse
+Orange sakasli,2,Fruits et Légumes,2.59,1.942,194,2026-02-25,3,Carrefour,Ariana
+Pack mlewi indien Parathas,3,Boulangerie,4.29,3.218,76,2026-02-24,2,Carrefour,Tunis
+Pain chawarma nature,3,Boulangerie,3.99,1.796,20,2026-02-23,1,Carrefour,Sousse
+Pain libanais,3,Boulangerie,1.555,1.555,89,2026-02-27,5,Carrefour,Ariana
+Pain panini précuit,3,Boulangerie,1.7,1.275,26,2026-02-24,2,Carrefour,Tunis
+Pain tortilla tacos,3,Boulangerie,4.29,3.861,61,2026-02-25,3,Carrefour,Sousse
+Pain chwarma complet,3,Boulangerie,2.69,2.018,63,2026-02-24,2,Carrefour,Ariana
+Pain chawarma,3,Boulangerie,1.555,0.7,76,2026-02-23,1,Carrefour,Tunis
+Petit pain complet,3,Boulangerie,2.35,2.35,23,2026-02-27,5,Carrefour,Sousse
+Mini tabouna nature,3,Boulangerie,0.25,0.25,10,2026-02-27,5,Carrefour,Ariana
+Pain TACOS max original,3,Boulangerie,8.49,7.641,100,2026-02-26,4,Carrefour,Tunis
+Pain TACOS original,3,Boulangerie,5.48,4.932,98,2026-02-26,4,Carrefour,Sousse
+Pain tortilla blé complet,3,Boulangerie,11.28,10.152,38,2026-02-25,3,Carrefour,Ariana
+Mlawi,3,Boulangerie,4.0,4.0,68,2026-02-27,5,Carrefour,Tunis
+Pain burger nature au sésame,3,Boulangerie,2.39,2.151,28,2026-02-26,4,Carrefour,Sousse
+Pain burger nature,3,Boulangerie,2.5,2.5,35,2026-02-27,5,Carrefour,Ariana
+Le lot de 5 Pains burger nature,3,Boulangerie,3.5,3.15,35,2026-02-25,3,Carrefour,Tunis
+Pain burger buns au blé complet,3,Boulangerie,2.39,2.151,41,2026-02-25,3,Carrefour,Sousse
+Pain burger buns Multicéréales,3,Boulangerie,2.45,1.838,21,2026-02-24,2,Carrefour,Ariana
+Le lot de 2 Pains Burger complet multi-graines,3,Boulangerie,1.43,0.643,17,2026-02-23,1,Carrefour,Tunis
+Pain Burger aux graines de sésame,3,Boulangerie,1.07,0.802,23,2026-02-24,2,Carrefour,Sousse
+Pain Burger nature,3,Boulangerie,1.05,0.945,64,2026-02-25,3,Carrefour,Ariana
+Pain de mie nature,3,Boulangerie,2.1,0.945,50,2026-02-23,1,Carrefour,Tunis
+Pain de campagne,3,Boulangerie,2.4,1.08,55,2026-02-23,1,Carrefour,Sousse
+Pain hamburger,3,Boulangerie,2.5,1.875,33,2026-02-24,2,Carrefour,Ariana
+Pain oriental complet,3,Boulangerie,2.4,2.4,97,2026-02-27,5,Carrefour,Tunis
+Pain oriental,3,Boulangerie,2.4,1.08,93,2026-02-23,1,Carrefour,Sousse
+Pain libanais 15cm,3,Boulangerie,1.3,1.3,62,2026-02-27,5,Carrefour,Ariana
+Pain semoule,3,Boulangerie,0.75,0.338,45,2026-02-23,1,Carrefour,Tunis
+Pain chawarma,3,Boulangerie,3.8,3.42,73,2026-02-26,4,Carrefour,Sousse
+Pain de campagne,3,Boulangerie,1.7,1.53,22,2026-02-26,4,Carrefour,Ariana
+Baguette à la semoule,3,Boulangerie,0.8,0.8,82,2026-02-27,5,Carrefour,Tunis
+Pain burger aux sésames,3,Boulangerie,2.45,2.205,52,2026-02-26,4,Carrefour,Sousse
+Pain libanais nature,3,Boulangerie,1.72,1.72,30,2026-02-27,5,Carrefour,Ariana
+Pain à l'ancienne,3,Boulangerie,3.5,3.15,98,2026-02-26,4,Carrefour,Tunis
+Petit pain viennois nature,3,Boulangerie,3.5,3.15,33,2026-02-25,3,Carrefour,Sousse
+Pain libanais 28cm,3,Boulangerie,2.5,2.25,72,2026-02-25,3,Carrefour,Ariana
+Baguette allégée en sel,3,Boulangerie,1.0,0.75,49,2026-02-24,2,Carrefour,Tunis
+Pain aux 6 céréales,3,Boulangerie,1.2,1.08,37,2026-02-25,3,Carrefour,Sousse
+Baguette au son,3,Boulangerie,0.75,0.562,88,2026-02-24,2,Carrefour,Ariana
+Pain à la semoule,3,Boulangerie,0.75,0.75,47,2026-02-27,5,Carrefour,Tunis
+Pain sans sel,3,Boulangerie,0.75,0.562,89,2026-02-24,2,Carrefour,Sousse
+Pain complet,3,Boulangerie,1.05,0.945,38,2026-02-26,4,Carrefour,Ariana
+Baguette de campagne,3,Boulangerie,1.1,0.825,65,2026-02-24,2,Carrefour,Tunis
+Pain au son sans sel,3,Boulangerie,0.55,0.248,69,2026-02-23,1,Carrefour,Sousse
+Pain flûte,3,Boulangerie,0.75,0.675,26,2026-02-25,3,Carrefour,Tunis
+Pain libanais complet 21cm,3,Boulangerie,2.1,0.945,50,2026-02-23,1,Carrefour,Sousse
+Baguette au son,3,Boulangerie,0.7,0.63,23,2026-02-26,4,Carrefour,Ariana
+Pain au son,3,Boulangerie,1.1,0.495,39,2026-02-23,1,Carrefour,Tunis
+Baguette sans sel,3,Boulangerie,0.5,0.5,74,2026-02-27,5,Carrefour,Sousse
+Baguette complète,3,Boulangerie,1.1,0.825,42,2026-02-24,2,Carrefour,Tunis
+Pain aux céréales,3,Boulangerie,1.6,1.44,14,2026-02-26,4,Carrefour,Sousse
+Pain de mie nature margarine,3,Boulangerie,1.9,0.855,39,2026-02-23,1,Carrefour,Ariana
+Déjeunette cuite,3,Boulangerie,1.1,0.99,20,2026-02-25,3,Carrefour,Tunis
+Boule de campagne,3,Boulangerie,2.8,2.52,51,2026-02-26,4,Carrefour,Sousse
+Boule blanche,3,Boulangerie,1.1,0.825,86,2026-02-24,2,Carrefour,Ariana
+Pain libanais 22cm,3,Boulangerie,2.1,0.945,22,2026-02-23,1,Carrefour,Tunis
+Pain précuit,3,Boulangerie,2.1,1.575,67,2026-02-24,2,Carrefour,Sousse
+Déjeunette complet,3,Boulangerie,1.2,1.2,73,2026-02-27,5,Carrefour,Ariana
+Pain complet intégral,3,Boulangerie,1.4,1.4,62,2026-02-27,5,Carrefour,Tunis
+Pain Pavé,3,Boulangerie,1.1,0.825,36,2026-02-24,2,Carrefour,Sousse
+Baguette aux céréales,3,Boulangerie,1.2,0.54,98,2026-02-23,1,Carrefour,Ariana
+Tabouna traditionnelle,3,Boulangerie,0.7,0.63,22,2026-02-26,4,Carrefour,Tunis
+Baguette complète,3,Boulangerie,0.8,0.72,25,2026-02-25,3,Carrefour,Ariana
+Baguette au son,3,Boulangerie,0.6,0.54,62,2026-02-26,4,Carrefour,Tunis
+Chapelure,3,Boulangerie,1.39,1.39,26,2026-02-27,5,Carrefour,Sousse
+Pain au chocolat à la pièce,3,Boulangerie,0.95,0.855,52,2026-02-25,3,Carrefour,Tunis
+Chocolatine,3,Boulangerie,3.7,1.665,57,2026-02-23,1,Carrefour,Sousse
+Pain au chocolat,3,Boulangerie,3.5,3.15,74,2026-02-25,3,Carrefour,Ariana
+Chocolatine,3,Boulangerie,1.9,0.855,16,2026-02-23,1,Carrefour,Tunis
+Croissants nature,3,Boulangerie,9.9,7.425,94,2026-02-24,2,Carrefour,Sousse
+Mini viennoiserie,3,Boulangerie,6.4,4.8,67,2026-02-24,2,Carrefour,Ariana
+Brioche couronne des rois,3,Boulangerie,9.9,8.91,13,2026-02-26,4,Carrefour,Tunis
+La brioche Nanterre,3,Boulangerie,4.5,4.5,60,2026-02-27,5,Carrefour,Sousse
+Croissants,3,Boulangerie,1.8,0.81,68,2026-02-23,1,Carrefour,Ariana
+Croissants nature,3,Boulangerie,5.9,5.31,18,2026-02-25,3,Carrefour,Tunis
+Croissants,3,Boulangerie,3.98,3.582,25,2026-02-25,3,Carrefour,Sousse
+Briochette nature pur beurre,3,Boulangerie,2.1,1.89,36,2026-02-26,4,Carrefour,Ariana
+Brioche Nanterre nature pur beurre,3,Boulangerie,16.9,16.9,54,2026-02-27,5,Carrefour,Tunis
+Pain au chocolat pur beurre,3,Boulangerie,8.7,6.525,79,2026-02-24,2,Carrefour,Sousse
+Pain au chocolat pur beurre,3,Boulangerie,4.4,4.4,21,2026-02-27,5,Carrefour,Ariana
+Croissant au pur beurre,3,Boulangerie,4.0,3.6,40,2026-02-25,3,Carrefour,Tunis
+Croissant au pur beurre,3,Boulangerie,7.9,7.9,97,2026-02-27,5,Carrefour,Sousse
+Schneck au lait pur beurre,3,Boulangerie,3.1,2.79,18,2026-02-25,3,Carrefour,Ariana
+Pain aux raisins pur beurre,3,Boulangerie,3.6,2.7,51,2026-02-24,2,Carrefour,Tunis
+Mini viennoiserie au pur beurre,3,Boulangerie,5.55,4.995,41,2026-02-25,3,Carrefour,Sousse
+Bâtonnets de poisson panés,4,Viandes et Poissons,10.39,7.065,35,2026-02-24,2,Carrefour,Tunis
+Shawarma de dinde surgelée,4,Viandes et Poissons,12.99,10.392,37,2026-02-25,3,Carrefour,Sousse
+Nuggets CROKIDS,4,Viandes et Poissons,9.38,3.752,8,2026-02-23,1,Carrefour,Ariana
+Gordon bleu,4,Viandes et Poissons,9.75,9.75,21,2026-02-28,6,Carrefour,Tunis
+Nugets de poulet,4,Viandes et Poissons,6.85,5.48,47,2026-02-26,4,Carrefour,Sousse
+Croquido,4,Viandes et Poissons,6.82,5.456,36,2026-02-25,3,Carrefour,Ariana
+Kefta de dinde,4,Viandes et Poissons,4.74,1.896,17,2026-02-23,1,Carrefour,Tunis
+Croque pizza Croustillante,4,Viandes et Poissons,5.99,5.99,19,2026-02-28,6,Carrefour,Sousse
+Escalope de poulet panée,4,Viandes et Poissons,13.95,9.486,26,2026-02-24,2,Carrefour,Ariana
+Escalope  de dinde panée,4,Viandes et Poissons,12.23,12.23,49,2026-03-01,7,Carrefour,Tunis
+Hamburger de dinde,4,Viandes et Poissons,8.99,3.596,14,2026-02-23,1,Carrefour,Sousse
+Escalope de poulet panée,4,Viandes et Poissons,28.5,28.5,14,2026-03-01,7,Carrefour,Ariana
+Burger pané,4,Viandes et Poissons,8.28,8.28,19,2026-02-28,6,Carrefour,Tunis
+Nuggets de poulet,4,Viandes et Poissons,9.5,9.5,16,2026-03-01,7,Carrefour,Sousse
+Burger à la viande de dinde kwika,4,Viandes et Poissons,3.89,3.112,45,2026-02-26,4,Carrefour,Ariana
+Kefta de dinde CHAHIA,4,Viandes et Poissons,4.22,3.376,28,2026-02-25,3,Carrefour,Tunis
+Viande Hamburger,4,Viandes et Poissons,17.98,14.384,37,2026-02-26,4,Carrefour,Sousse
+Chicken nuggets,4,Viandes et Poissons,10.99,10.99,49,2026-02-28,6,Carrefour,Ariana
+Chicken popcorn,4,Viandes et Poissons,9.28,9.28,8,2026-03-01,7,Carrefour,Tunis
+Steak haché de beauf,4,Viandes et Poissons,9.19,8.455,25,2026-02-27,5,Carrefour,Sousse
+Hamburger de dinde,4,Viandes et Poissons,17.9,17.9,25,2026-02-28,6,Carrefour,Ariana
+Cordon bleu,4,Viandes et Poissons,12.29,9.832,8,2026-02-25,3,Carrefour,Tunis
+Chicken Nuggets,4,Viandes et Poissons,8.49,5.773,46,2026-02-24,2,Carrefour,Sousse
+Chicken Nuggets,4,Viandes et Poissons,11.3,11.3,32,2026-03-01,7,Carrefour,Ariana
+Kefta de dinde,4,Viandes et Poissons,5.78,5.318,8,2026-02-27,5,Carrefour,Tunis
+Cordon bleu,4,Viandes et Poissons,8.25,8.25,14,2026-02-28,6,Carrefour,Sousse
+Boulette de dinde,4,Viandes et Poissons,5.99,5.99,17,2026-02-28,6,Carrefour,Ariana
+Roulé au Fromage,4,Viandes et Poissons,7.19,6.615,37,2026-02-27,5,Carrefour,Tunis
+Steak haché de bœuf SADIA,4,Viandes et Poissons,26.29,21.032,19,2026-02-25,3,Carrefour,Sousse
+Cordon bleu,4,Viandes et Poissons,9.99,7.992,32,2026-02-26,4,Carrefour,Ariana
+Kabeb de dinde CUISTO,4,Viandes et Poissons,7.69,5.229,30,2026-02-24,2,Carrefour,Tunis
+Chicken nuggets,4,Viandes et Poissons,6.1,4.148,39,2026-02-24,2,Carrefour,Sousse
+Chiken Fries Mini Chef,4,Viandes et Poissons,12.79,5.116,40,2026-02-23,1,Carrefour,Ariana
+Steak haché de poulet,4,Viandes et Poissons,7.23,6.652,6,2026-02-27,5,Carrefour,Tunis
+Nuggets de poulet crispy kids,4,Viandes et Poissons,9.12,7.296,10,2026-02-26,4,Carrefour,Sousse
+Cordon bleu,4,Viandes et Poissons,10.39,8.312,26,2026-02-25,3,Carrefour,Ariana
+Cordon bleu,4,Viandes et Poissons,10.49,8.392,13,2026-02-25,3,Carrefour,Tunis
+Nuggets de poulet,4,Viandes et Poissons,8.79,8.79,42,2026-03-01,7,Carrefour,Sousse
+Escalope de poulet pannée,4,Viandes et Poissons,8.99,8.99,7,2026-02-28,6,Carrefour,Ariana
+Nuggets de poulet,4,Viandes et Poissons,8.78,8.78,48,2026-02-28,6,Carrefour,Tunis
+Crevettes décortiquées congelées,4,Viandes et Poissons,29.59,23.672,39,2026-02-26,4,Carrefour,Tunis
+Salade de fruits de mer,4,Viandes et Poissons,15.89,14.619,30,2026-02-27,5,Carrefour,Sousse
+Filet de poisson,4,Viandes et Poissons,19.69,15.752,28,2026-02-25,3,Carrefour,Ariana
+Moules demi coquille,4,Viandes et Poissons,24.9,19.92,13,2026-02-25,3,Carrefour,Tunis
+Chevrettes pannées,4,Viandes et Poissons,29.9,20.332,26,2026-02-24,2,Carrefour,Sousse
+Seiche,4,Viandes et Poissons,8.0,6.4,49,2026-02-26,4,Carrefour,Ariana
+Mixte de fruits de mer pack 1.5kg,4,Viandes et Poissons,29.9,29.9,8,2026-03-01,7,Carrefour,Tunis
+Mixte de fruits de mer pack 1.5kg,4,Viandes et Poissons,27.6,18.768,33,2026-02-24,2,Carrefour,Sousse
+Boumisks poulpe petit calibre,4,Viandes et Poissons,33.3,13.32,5,2026-02-23,1,Carrefour,Ariana
+Tentacules de poulpe,4,Viandes et Poissons,63.25,58.19,37,2026-02-27,5,Carrefour,Tunis
+Poulpe entier congelé,4,Viandes et Poissons,57.5,57.5,6,2026-02-28,6,Carrefour,Sousse
+Chevrettes décortiquées,4,Viandes et Poissons,36.2,36.2,9,2026-03-01,7,Carrefour,Ariana
+Crevettes de moyen calibre décortiquées,4,Viandes et Poissons,50.6,34.408,30,2026-02-24,2,Carrefour,Tunis
+Crevettes gros calibres décortiquées,4,Viandes et Poissons,52.9,35.972,45,2026-02-24,2,Carrefour,Sousse
+Crevettes gros calibres,4,Viandes et Poissons,49.4,49.4,20,2026-02-28,6,Carrefour,Ariana
+Crevettes moyen calibre,4,Viandes et Poissons,40.25,37.03,47,2026-02-27,5,Carrefour,Tunis
+Seiche nettoyée moyen calibre,4,Viandes et Poissons,39.5,39.5,8,2026-02-28,6,Carrefour,Sousse
+Seiche nettoyée gros calibre,4,Viandes et Poissons,44.8,41.216,30,2026-02-27,5,Carrefour,Ariana
+Calamar moyen noir,4,Viandes et Poissons,62.2,57.224,16,2026-02-27,5,Carrefour,Tunis
+Calamar gros noir,4,Viandes et Poissons,64.4,64.4,49,2026-03-01,7,Carrefour,Sousse
+Calamar nettoyé entier,4,Viandes et Poissons,66.7,26.68,15,2026-02-23,1,Carrefour,Ariana
+Figurines de merlan pannées,4,Viandes et Poissons,14.98,13.782,32,2026-02-27,5,Carrefour,Tunis
+Moules décoquillées,4,Viandes et Poissons,10.99,8.792,37,2026-02-26,4,Carrefour,Sousse
+Chaire de Bigorneau marinée,4,Viandes et Poissons,12.9,10.32,28,2026-02-26,4,Carrefour,Ariana
+Croquettes de poulpe,4,Viandes et Poissons,26.8,18.224,9,2026-02-24,2,Carrefour,Tunis
+Moules décortiquées,4,Viandes et Poissons,26.5,21.2,35,2026-02-26,4,Carrefour,Sousse
+Bâtonnets de crabes congelés,4,Viandes et Poissons,10.38,8.304,47,2026-02-26,4,Carrefour,Ariana
+Surimi de crabes en morceaux surgelés,4,Viandes et Poissons,11.28,9.024,23,2026-02-26,4,Carrefour,Tunis
+Filets de poissons panés,4,Viandes et Poissons,16.99,15.631,24,2026-02-27,5,Carrefour,Sousse
+Crevettes panées,4,Viandes et Poissons,13.99,11.192,18,2026-02-26,4,Carrefour,Ariana
+Crevettes panées surgelés,4,Viandes et Poissons,25.39,25.39,9,2026-03-01,7,Carrefour,Tunis
+Crevettes entières,4,Viandes et Poissons,16.99,15.631,13,2026-02-27,5,Carrefour,Sousse
+Anneaux de calamars panés,4,Viandes et Poissons,11.55,9.24,11,2026-02-26,4,Carrefour,Ariana
+Crevettes décortiquées,4,Viandes et Poissons,7.29,2.916,23,2026-02-23,1,Carrefour,Tunis
+Calamars nettoyés surgelés,4,Viandes et Poissons,29.9,23.92,10,2026-02-26,4,Carrefour,Sousse
+Crevettes décortiquées congelées,4,Viandes et Poissons,55.0,55.0,20,2026-02-28,6,Carrefour,Ariana
+Anneaux de calamars pannés congelés,4,Viandes et Poissons,18.18,16.726,39,2026-02-27,5,Carrefour,Tunis
+Filet de merlan pané,4,Viandes et Poissons,15.79,15.79,44,2026-02-28,6,Carrefour,Sousse
+Poulpe congelé en tranche,4,Viandes et Poissons,31.6,29.072,15,2026-02-27,5,Carrefour,Ariana
+Seiche nettoyée et congelée,4,Viandes et Poissons,26.5,10.6,12,2026-02-23,1,Carrefour,Tunis
+Calamar congelé,4,Viandes et Poissons,27.9,18.972,44,2026-02-24,2,Carrefour,Sousse
+Fruits de mer,4,Viandes et Poissons,15.8,15.8,16,2026-02-28,6,Carrefour,Ariana
+Anneaux de calamars congelés FAKAM,4,Viandes et Poissons,8.39,5.705,9,2026-02-24,2,Carrefour,Tunis
+Salade de fruits de mer,4,Viandes et Poissons,19.99,7.996,33,2026-02-23,1,Carrefour,Sousse
+Crevettes décortiquées,4,Viandes et Poissons,18.79,7.516,18,2026-02-23,1,Carrefour,Ariana
+Calamar entier nettoyé,4,Viandes et Poissons,27.79,18.897,22,2026-02-24,2,Carrefour,Tunis
+Anneaux de calamars,4,Viandes et Poissons,23.86,21.951,47,2026-02-27,5,Carrefour,Sousse
+Tubes de calamars,4,Viandes et Poissons,24.98,22.982,19,2026-02-27,5,Carrefour,Ariana
+Crevettes royales,4,Viandes et Poissons,34.9,27.92,42,2026-02-25,3,Carrefour,Tunis
+Crevettes pannées,4,Viandes et Poissons,18.28,18.28,22,2026-02-28,6,Carrefour,Sousse
+Salade de fuits de mer,4,Viandes et Poissons,15.63,10.628,28,2026-02-24,2,Carrefour,Tunis
+Filet de pangasius,4,Viandes et Poissons,21.41,21.41,38,2026-03-01,7,Carrefour,Sousse
+Poisson pané,4,Viandes et Poissons,17.99,17.99,44,2026-03-01,7,Carrefour,Ariana
+Chevrettes décortiquées congelées,4,Viandes et Poissons,24.99,22.991,15,2026-02-27,5,Carrefour,Tunis
+Filets de poisson surgelés,4,Viandes et Poissons,26.69,10.676,19,2026-02-23,1,Carrefour,Sousse
+Anneaux de calamars panés,4,Viandes et Poissons,21.9,14.892,46,2026-02-24,2,Carrefour,Ariana
+Poisson pané,4,Viandes et Poissons,25.29,25.29,9,2026-02-28,6,Carrefour,Tunis
+Crevettes décortiquées,4,Viandes et Poissons,16.28,13.024,49,2026-02-26,4,Carrefour,Sousse
+Bâtonnets de poisson,4,Viandes et Poissons,15.58,10.594,32,2026-02-24,2,Carrefour,Ariana
+Anneaux de calamars,4,Viandes et Poissons,25.79,10.316,29,2026-02-23,1,Carrefour,Tunis
+Anneaux de calamars panés,4,Viandes et Poissons,25.79,23.727,49,2026-02-27,5,Carrefour,Sousse
+Crevettes décortiquées,4,Viandes et Poissons,10.89,8.712,36,2026-02-25,3,Carrefour,Ariana
+Lait aromatisé,1,Produits Laitiers,0.92,0.92,71,2026-03-07,13,GeantDrive,Tunis
+Lait aromatisée,1,Produits Laitiers,0.92,0.736,125,2026-03-01,7,GeantDrive,Tunis
+Kéfir,1,Produits Laitiers,1.29,1.032,124,2026-03-02,8,GeantDrive,Tunis
+Lait UHT 1/2 écremé,1,Produits Laitiers,1.35,1.242,126,2026-03-05,11,GeantDrive,Tunis
+Lait 1/2 écrémé,1,Produits Laitiers,1.35,0.743,143,2026-02-25,3,GeantDrive,Tunis
+Lait UHT 1/2 écrémé,1,Produits Laitiers,1.35,1.242,107,2026-03-03,9,GeantDrive,Tunis
+Raieb,1,Produits Laitiers,1.49,1.013,81,2026-02-27,5,GeantDrive,Tunis
+Lben,1,Produits Laitiers,1.49,1.192,123,2026-03-02,8,GeantDrive,Tunis
+Boisson lactée,1,Produits Laitiers,1.57,1.068,120,2026-02-26,4,GeantDrive,Tunis
+Lben,1,Produits Laitiers,1.59,1.463,35,2026-03-03,9,GeantDrive,Tunis
+Lben,1,Produits Laitiers,1.65,1.518,132,2026-03-03,9,GeantDrive,Tunis
+Raieb,1,Produits Laitiers,1.65,1.65,108,2026-03-07,13,GeantDrive,Tunis
+Raieb,1,Produits Laitiers,1.99,1.99,83,2026-03-08,14,GeantDrive,Tunis
+Lben,1,Produits Laitiers,1.99,1.831,27,2026-03-03,9,GeantDrive,Tunis
+Lait UHT écrémé,1,Produits Laitiers,2.25,2.25,17,2026-03-06,12,GeantDrive,Tunis
+Lait écremé 0%,1,Produits Laitiers,2.3,1.84,119,2026-02-28,6,GeantDrive,Tunis
+Lait UHT enrichi,1,Produits Laitiers,2.3,1.84,103,2026-03-01,7,GeantDrive,Tunis
+Lait UHT,1,Produits Laitiers,2.35,0.94,64,2026-02-23,1,GeantDrive,Tunis
+Lait entier,1,Produits Laitiers,2.49,0.996,122,2026-02-23,1,GeantDrive,Tunis
+Lait UHT entier,1,Produits Laitiers,2.57,2.056,59,2026-03-02,8,GeantDrive,Tunis
+Margarine,1,Produits Laitiers,1.36,1.36,15,2026-03-06,12,GeantDrive,Tunis
+Margarine,1,Produits Laitiers,1.38,0.552,39,2026-02-23,1,GeantDrive,Tunis
+Crème fraîche,1,Produits Laitiers,1.95,0.78,39,2026-02-24,2,GeantDrive,Tunis
+Crème fraîche,1,Produits Laitiers,2.48,2.48,77,2026-03-07,13,GeantDrive,Tunis
+Crème fraîche,1,Produits Laitiers,2.49,0.996,141,2026-02-24,2,GeantDrive,Tunis
+Margarine,1,Produits Laitiers,2.5,1.7,95,2026-02-27,5,GeantDrive,Tunis
+Matière grasse composée,1,Produits Laitiers,2.55,2.346,63,2026-03-04,10,GeantDrive,Tunis
+Margarine,1,Produits Laitiers,2.56,2.56,12,2026-03-07,13,GeantDrive,Tunis
+Margarine allégée,1,Produits Laitiers,2.6,2.08,84,2026-03-02,8,GeantDrive,Tunis
+Margarine,1,Produits Laitiers,2.65,2.12,142,2026-03-01,7,GeantDrive,Tunis
+Crème fraîche,1,Produits Laitiers,2.79,2.79,45,2026-03-07,13,GeantDrive,Tunis
+Margarine,1,Produits Laitiers,2.85,1.14,18,2026-02-23,1,GeantDrive,Tunis
+Margarine,1,Produits Laitiers,2.88,2.65,125,2026-03-05,11,GeantDrive,Tunis
+Margarine,1,Produits Laitiers,2.95,2.714,62,2026-03-03,9,GeantDrive,Tunis
+Crème fraîche semi épa...,1,Produits Laitiers,3.12,1.248,66,2026-02-23,1,GeantDrive,Tunis
+Crème fraîche légére,1,Produits Laitiers,3.12,2.496,107,2026-02-28,6,GeantDrive,Tunis
+Beurre,1,Produits Laitiers,3.5,1.4,55,2026-02-23,1,GeantDrive,Tunis
+Beurre,1,Produits Laitiers,3.89,2.14,103,2026-02-25,3,GeantDrive,Tunis
+Margarine,1,Produits Laitiers,4.49,3.592,146,2026-02-28,6,GeantDrive,Tunis
+Margarine,1,Produits Laitiers,4.59,3.672,103,2026-03-01,7,GeantDrive,Tunis
+Crème chantilly,1,Produits Laitiers,4.69,3.752,112,2026-03-01,7,GeantDrive,Tunis
+Margarine,1,Produits Laitiers,5.49,3.02,96,2026-02-25,3,GeantDrive,Tunis
+Crème fraîche,1,Produits Laitiers,5.5,5.5,83,2026-03-08,14,GeantDrive,Tunis
+Margarine,1,Produits Laitiers,5.58,5.134,145,2026-03-05,11,GeantDrive,Tunis
+Préparation pasteurisé...,1,Produits Laitiers,6.39,5.879,37,2026-03-05,11,GeantDrive,Tunis
+Beurre,1,Produits Laitiers,7.39,2.956,58,2026-02-24,2,GeantDrive,Tunis
+Beurre,1,Produits Laitiers,7.45,5.96,148,2026-03-02,8,GeantDrive,Tunis
+Crème fraîche,1,Produits Laitiers,7.99,7.351,129,2026-03-05,11,GeantDrive,Tunis
+Crème chantilly,1,Produits Laitiers,8.98,4.939,101,2026-02-25,3,GeantDrive,Tunis
+Crème fouettée,1,Produits Laitiers,9.99,9.99,133,2026-03-07,13,GeantDrive,Tunis
+Crème fraîche spécialité,1,Produits Laitiers,11.49,11.49,81,2026-03-08,14,GeantDrive,Tunis
+Crème fraîche,1,Produits Laitiers,11.99,11.031,21,2026-03-05,11,GeantDrive,Tunis
+Crème fraîche à fouetter,1,Produits Laitiers,19.72,7.888,143,2026-02-24,2,GeantDrive,Tunis
+Crème fraîche à fouetter,1,Produits Laitiers,20.49,18.851,107,2026-03-04,10,GeantDrive,Tunis
+Crème fraîche,1,Produits Laitiers,44.59,30.321,140,2026-02-27,5,GeantDrive,Tunis
+Fromage fondu goûter,1,Produits Laitiers,0.9,0.495,49,2026-02-25,3,GeantDrive,Tunis
+Préparation alimentair...,1,Produits Laitiers,1.19,0.654,102,2026-02-25,3,GeantDrive,Tunis
+Préparation alimentair...,1,Produits Laitiers,1.28,1.28,50,2026-03-08,14,GeantDrive,Tunis
+Préparation alimentair...,1,Produits Laitiers,1.42,0.568,111,2026-02-24,2,GeantDrive,Tunis
+Fromage fondu maxi,1,Produits Laitiers,1.52,1.216,26,2026-03-02,8,GeantDrive,Tunis
+Fromage fondu,1,Produits Laitiers,1.69,1.555,94,2026-03-04,10,GeantDrive,Tunis
+Préparation alimentair...,1,Produits Laitiers,1.72,1.582,29,2026-03-04,10,GeantDrive,Tunis
+Préparation alimentair...,1,Produits Laitiers,1.85,1.48,26,2026-03-01,7,GeantDrive,Tunis
+Fromage rapé,1,Produits Laitiers,1.99,0.796,115,2026-02-24,2,GeantDrive,Tunis
+Préparation alimentair...,1,Produits Laitiers,2.06,1.895,76,2026-03-05,11,GeantDrive,Tunis
+Préparation alimentair...,1,Produits Laitiers,2.2,1.76,60,2026-03-02,8,GeantDrive,Tunis
+Fromage slice burger a...,1,Produits Laitiers,2.42,1.936,26,2026-02-28,6,GeantDrive,Tunis
+Fromage slice pizza,1,Produits Laitiers,2.42,2.226,95,2026-03-03,9,GeantDrive,Tunis
+Préparation alimentair...,1,Produits Laitiers,2.5,2.5,104,2026-03-08,14,GeantDrive,Tunis
+Fromage slice croque'e...,1,Produits Laitiers,2.6,1.04,144,2026-02-23,1,GeantDrive,Tunis
+Préparation alimentair...,1,Produits Laitiers,2.69,1.076,103,2026-02-23,1,GeantDrive,Tunis
+Préparation alimentair...,1,Produits Laitiers,2.87,2.87,137,2026-03-08,14,GeantDrive,Tunis
+Ricotta,1,Produits Laitiers,3.02,2.054,17,2026-02-27,5,GeantDrive,Tunis
+Fromage fondu,1,Produits Laitiers,3.03,1.212,137,2026-02-24,2,GeantDrive,Tunis
+Fromage frais,1,Produits Laitiers,3.05,1.22,87,2026-02-23,1,GeantDrive,Tunis
+Fromage frais,1,Produits Laitiers,3.14,2.135,40,2026-02-27,5,GeantDrive,Tunis
+Ricotte,1,Produits Laitiers,3.19,1.755,73,2026-02-25,3,GeantDrive,Tunis
+Goutta du nord,1,Produits Laitiers,3.19,2.552,112,2026-02-28,6,GeantDrive,Tunis
+Préparation alimentair...,1,Produits Laitiers,3.25,3.25,64,2026-03-06,12,GeantDrive,Tunis
+Fromage frais,1,Produits Laitiers,3.29,1.316,139,2026-02-23,1,GeantDrive,Tunis
+Fromage fondu goûter,1,Produits Laitiers,3.35,2.278,17,2026-02-27,5,GeantDrive,Tunis
+Fromage frais vitaminé,1,Produits Laitiers,3.38,3.11,17,2026-03-04,10,GeantDrive,Tunis
+Fromage carré,1,Produits Laitiers,3.44,2.339,41,2026-02-26,4,GeantDrive,Tunis
+Fromage fondu,1,Produits Laitiers,3.5,1.4,66,2026-02-24,2,GeantDrive,Tunis
+Fromage fondu,1,Produits Laitiers,3.52,2.816,99,2026-02-28,6,GeantDrive,Tunis
+Fromage frais carré,1,Produits Laitiers,3.54,2.832,50,2026-02-28,6,GeantDrive,Tunis
+Fromage slice burger,1,Produits Laitiers,3.66,1.464,36,2026-02-23,1,GeantDrive,Tunis
+Fromage frais,1,Produits Laitiers,3.69,3.69,74,2026-03-08,14,GeantDrive,Tunis
+Préparation alimentair...,1,Produits Laitiers,3.89,3.579,56,2026-03-05,11,GeantDrive,Tunis
+Préparation alimentair...,1,Produits Laitiers,3.98,3.98,93,2026-03-07,13,GeantDrive,Tunis
+Fromage fondu rapé,1,Produits Laitiers,4.15,3.818,138,2026-03-04,10,GeantDrive,Tunis
+Fromage slice burger,1,Produits Laitiers,4.18,3.344,55,2026-03-02,8,GeantDrive,Tunis
+Fromage fondu à l'emme...,1,Produits Laitiers,4.26,3.919,60,2026-03-05,11,GeantDrive,Tunis
+Fromage tartare,1,Produits Laitiers,4.29,1.716,79,2026-02-24,2,GeantDrive,Tunis
+Fromage frais carré,1,Produits Laitiers,4.3,3.956,41,2026-03-04,10,GeantDrive,Tunis
+Fromage gouda,1,Produits Laitiers,4.39,3.512,19,2026-02-28,6,GeantDrive,Tunis
+Fromage edam,1,Produits Laitiers,4.39,3.512,76,2026-02-28,6,GeantDrive,Tunis
+Fromage carré,1,Produits Laitiers,4.44,4.085,140,2026-03-04,10,GeantDrive,Tunis
+Goutta du nord,1,Produits Laitiers,4.56,3.101,140,2026-02-26,4,GeantDrive,Tunis
+Fromage fondu à tartiner,1,Produits Laitiers,4.59,4.59,130,2026-03-08,14,GeantDrive,Tunis
+Fromage rapé au gruyère,1,Produits Laitiers,4.84,4.84,25,2026-03-08,14,GeantDrive,Tunis
+Crème à tartiner,1,Produits Laitiers,4.85,3.88,62,2026-03-01,7,GeantDrive,Tunis
+Yaourt brassé,1,Produits Laitiers,0.43,0.237,112,2026-02-25,3,GeantDrive,Tunis
+Spécialité laitière br...,1,Produits Laitiers,0.43,0.43,28,2026-03-06,12,GeantDrive,Tunis
+Yaourt aromatisé,1,Produits Laitiers,0.54,0.497,77,2026-03-05,11,GeantDrive,Tunis
+Yaourt,1,Produits Laitiers,0.54,0.432,64,2026-03-01,7,GeantDrive,Tunis
+Yaourt aromatisé,1,Produits Laitiers,0.555,0.444,106,2026-03-01,7,GeantDrive,Tunis
+Spécialité laitière br...,1,Produits Laitiers,0.6,0.33,50,2026-02-25,3,GeantDrive,Tunis
+Yaourt brassé,1,Produits Laitiers,0.6,0.6,72,2026-03-08,14,GeantDrive,Tunis
+Yaourt brassé,1,Produits Laitiers,0.62,0.248,150,2026-02-23,1,GeantDrive,Tunis
+Yaourt aux fruits,1,Produits Laitiers,0.72,0.49,51,2026-02-27,5,GeantDrive,Tunis
+Yaourt,1,Produits Laitiers,0.73,0.672,131,2026-03-05,11,GeantDrive,Tunis
+Yaourt à boire,1,Produits Laitiers,0.74,0.296,41,2026-02-24,2,GeantDrive,Tunis
+Crème dessert,1,Produits Laitiers,0.78,0.312,77,2026-02-23,1,GeantDrive,Tunis
+Yaourt à boire,1,Produits Laitiers,0.78,0.53,16,2026-02-26,4,GeantDrive,Tunis
+Celeri vert,2,Fruits et Légumes,0.46,0.138,147,2026-02-23,1,GeantDrive,Tunis
+Blette,2,Fruits et Légumes,0.46,0.414,30,2026-02-27,5,GeantDrive,Tunis
+Persil,2,Fruits et Légumes,0.52,0.52,113,2026-03-01,7,GeantDrive,Tunis
+Aneth,2,Fruits et Légumes,0.69,0.69,168,2026-03-01,7,GeantDrive,Tunis
+Coriandre,2,Fruits et Légumes,0.69,0.69,36,2026-03-01,7,GeantDrive,Tunis
+Salade romaine,2,Fruits et Légumes,1.26,1.26,148,2026-02-28,6,GeantDrive,Tunis
+Salade laitue,2,Fruits et Légumes,1.26,1.26,35,2026-02-28,6,GeantDrive,Tunis
+Radis local,2,Fruits et Légumes,1.26,1.26,22,2026-02-28,6,GeantDrive,Tunis
+Roquette fraîche,2,Fruits et Légumes,3.5,3.15,41,2026-02-27,5,GeantDrive,Tunis
+Epinard,2,Fruits et Légumes,3.63,3.63,191,2026-03-01,7,GeantDrive,Tunis
+Tomate cerise allongée,2,Fruits et Légumes,3.76,2.256,178,2026-02-24,2,GeantDrive,Tunis
+Pomme de terre grenaille,2,Fruits et Légumes,3.9,1.17,52,2026-02-23,1,GeantDrive,Tunis
+Tomate cerise ronde,2,Fruits et Légumes,4.06,1.218,48,2026-02-23,1,GeantDrive,Tunis
+Courge rouge,2,Fruits et Légumes,4.13,3.098,52,2026-02-25,3,GeantDrive,Tunis
+Pomme de terre grenaille,2,Fruits et Légumes,4.25,3.188,193,2026-02-26,4,GeantDrive,Tunis
+Epinard,2,Fruits et Légumes,4.62,2.772,105,2026-02-24,2,GeantDrive,Tunis
+Tomate cerise,2,Fruits et Légumes,5.4,1.62,146,2026-02-23,1,GeantDrive,Tunis
+Pomme de terre grenail...,2,Fruits et Légumes,5.62,5.62,159,2026-03-01,7,GeantDrive,Tunis
+Menthe sèche,2,Fruits et Légumes,6.4,6.4,166,2026-02-28,6,GeantDrive,Tunis
+Tomate cerise,2,Fruits et Légumes,6.52,1.956,106,2026-02-23,1,GeantDrive,Tunis
+Epinard emballé,2,Fruits et Légumes,6.75,6.75,43,2026-02-28,6,GeantDrive,Tunis
+Tomate cerise,2,Fruits et Légumes,6.99,4.194,61,2026-02-24,2,GeantDrive,Tunis
+Pot au feu,2,Fruits et Légumes,7.99,7.191,173,2026-02-27,5,GeantDrive,Tunis
+Pot au feu,2,Fruits et Légumes,8.03,6.022,156,2026-02-25,3,GeantDrive,Tunis
+Kiwi,2,Fruits et Légumes,0.79,0.711,94,2026-02-27,5,GeantDrive,Tunis
+Pâte de dattes,2,Fruits et Légumes,2.59,2.331,120,2026-02-27,5,GeantDrive,Tunis
+Dattes en barquette,2,Fruits et Légumes,3.38,3.38,26,2026-03-01,7,GeantDrive,Tunis
+Dattes standards,2,Fruits et Légumes,3.75,3.75,87,2026-02-28,6,GeantDrive,Tunis
+Datte branchée,2,Fruits et Légumes,3.99,2.993,49,2026-02-26,4,GeantDrive,Tunis
+Dattes branchées,2,Fruits et Légumes,4.38,3.285,162,2026-02-25,3,GeantDrive,Tunis
+Avocat,2,Fruits et Légumes,5.17,3.877,168,2026-02-25,3,GeantDrive,Tunis
+Dattes standars,2,Fruits et Légumes,6.13,6.13,61,2026-03-01,7,GeantDrive,Tunis
+Dattes branchées,2,Fruits et Légumes,7.99,4.794,198,2026-02-24,2,GeantDrive,Tunis
+Ananas petit calibre,2,Fruits et Légumes,8.49,8.49,191,2026-02-28,6,GeantDrive,Tunis
+Dattes branchées,2,Fruits et Légumes,8.75,8.75,51,2026-03-01,7,GeantDrive,Tunis
+Datte branchée,2,Fruits et Légumes,10.25,7.688,168,2026-02-26,4,GeantDrive,Tunis
+Dattes,2,Fruits et Légumes,12.19,9.143,109,2026-02-26,4,GeantDrive,Tunis
+Dattes branchées,2,Fruits et Légumes,16.25,12.188,121,2026-02-26,4,GeantDrive,Tunis
+Dattes,2,Fruits et Légumes,17.83,10.698,145,2026-02-24,2,GeantDrive,Tunis
+Baguette à la farine s...,3,Boulangerie,0.36,0.162,20,2026-02-23,1,GeantDrive,Tunis
+Pain sans sel,3,Boulangerie,0.6,0.54,29,2026-02-25,3,GeantDrive,Tunis
+Baguette traditionnell...,3,Boulangerie,0.75,0.75,66,2026-02-27,5,GeantDrive,Tunis
+Pain céréales à l'anci...,3,Boulangerie,0.8,0.6,77,2026-02-24,2,GeantDrive,Tunis
+Pâte à pizza,3,Boulangerie,0.85,0.765,94,2026-02-26,4,GeantDrive,Tunis
+Epi,3,Boulangerie,0.95,0.855,98,2026-02-25,3,GeantDrive,Tunis
+Pain en boule,3,Boulangerie,1.0,0.45,14,2026-02-23,1,GeantDrive,Tunis
+Tabouna pain complet,3,Boulangerie,1.15,0.862,45,2026-02-24,2,GeantDrive,Tunis
+Chausson aux pommes,3,Boulangerie,1.35,0.608,28,2026-02-23,1,GeantDrive,Tunis
+Baguette viennoise,3,Boulangerie,1.35,1.35,84,2026-02-27,5,GeantDrive,Tunis
+Coque suisse,3,Boulangerie,1.4,1.26,21,2026-02-26,4,GeantDrive,Tunis
+Pain au fondant ou sch...,3,Boulangerie,1.4,1.4,52,2026-02-27,5,GeantDrive,Tunis
+Pain libanais (Raghif),3,Boulangerie,1.49,0.67,73,2026-02-23,1,GeantDrive,Tunis
+Pain de pique-nique,3,Boulangerie,1.6,1.44,18,2026-02-26,4,GeantDrive,Tunis
+Croissant amande pur b...,3,Boulangerie,1.65,1.485,82,2026-02-26,4,GeantDrive,Tunis
+Pain aux céréales,3,Boulangerie,1.65,1.65,67,2026-02-27,5,GeantDrive,Tunis
+Petit pain de campagne,3,Boulangerie,1.7,1.53,58,2026-02-26,4,GeantDrive,Tunis
+Petit pain viennois,3,Boulangerie,1.7,0.765,88,2026-02-23,1,GeantDrive,Tunis
+Mille feuille au chocolat,3,Boulangerie,1.85,1.665,59,2026-02-25,3,GeantDrive,Tunis
+Pain complet,3,Boulangerie,1.9,1.425,85,2026-02-24,2,GeantDrive,Tunis
+Petit pain viennois au...,3,Boulangerie,1.9,0.855,27,2026-02-23,1,GeantDrive,Tunis
+Petit pain complet,3,Boulangerie,1.9,1.9,61,2026-02-27,5,GeantDrive,Tunis
+Pain libanais nature,3,Boulangerie,1.95,0.877,86,2026-02-23,1,GeantDrive,Tunis
+Pain libanais complet,3,Boulangerie,1.95,1.755,89,2026-02-26,4,GeantDrive,Tunis
+Pizza aux herbes,3,Boulangerie,1.99,0.895,39,2026-02-23,1,GeantDrive,Tunis
+Pain de mie sandwich,3,Boulangerie,1.99,1.791,24,2026-02-26,4,GeantDrive,Tunis
+Pain parisien de campagne,3,Boulangerie,2.05,1.845,70,2026-02-26,4,GeantDrive,Tunis
+Pain de mie en tranches,3,Boulangerie,2.1,1.89,13,2026-02-26,4,GeantDrive,Tunis
+Pain de mie,3,Boulangerie,2.1,2.1,32,2026-02-27,5,GeantDrive,Tunis
+Pain hamburguer,3,Boulangerie,2.1,1.575,15,2026-02-24,2,GeantDrive,Tunis
+Pain libanais complet ...,3,Boulangerie,2.19,1.971,65,2026-02-25,3,GeantDrive,Tunis
+Pain libanais (Raghif),3,Boulangerie,2.19,2.19,98,2026-02-27,5,GeantDrive,Tunis
+Pain aux céréales,3,Boulangerie,2.2,1.98,38,2026-02-25,3,GeantDrive,Tunis
+Petit pain aux céréales,3,Boulangerie,2.2,0.99,77,2026-02-23,1,GeantDrive,Tunis
+Pain panini,3,Boulangerie,2.2,0.99,100,2026-02-23,1,GeantDrive,Tunis
+Burger,3,Boulangerie,2.25,2.25,37,2026-02-27,5,GeantDrive,Tunis
+Barquettes rondes,3,Boulangerie,2.25,2.025,21,2026-02-25,3,GeantDrive,Tunis
+Pain de campagne 400g,3,Boulangerie,2.25,2.025,92,2026-02-26,4,GeantDrive,Tunis
+Pain de campagne en Bo...,3,Boulangerie,2.25,2.25,91,2026-02-27,5,GeantDrive,Tunis
+Pain de mie nature,3,Boulangerie,2.29,2.061,23,2026-02-25,3,GeantDrive,Tunis
+Pain de mie complet,3,Boulangerie,2.29,2.29,82,2026-02-27,5,GeantDrive,Tunis
+Pain hamburguer,3,Boulangerie,2.3,1.035,84,2026-02-23,1,GeantDrive,Tunis
+Petit pain viennois,3,Boulangerie,2.345,1.055,61,2026-02-23,1,GeantDrive,Tunis
+Buns complet,3,Boulangerie,2.39,2.39,73,2026-02-27,5,GeantDrive,Tunis
+Pain chawarma,3,Boulangerie,2.4,2.16,54,2026-02-26,4,GeantDrive,Tunis
+Pain hamburguer,3,Boulangerie,2.45,2.45,59,2026-02-27,5,GeantDrive,Tunis
+Persil Maadnous,2,Fruits et Légumes,0.7,0.525,191,2026-02-25,3,Magik,Gabes
+Pomme de terre بطاطا,2,Fruits et Légumes,1.9,1.5,112,2026-03-01,7,Magik,Gabes
+Courge rouge قرع أحمر,2,Fruits et Légumes,2.0,1.8,124,2026-02-23,1,Magik,Gabes
+Tomates طماطم,2,Fruits et Légumes,2.0,1.5,46,2026-02-25,3,Magik,Gabes
+Carotte sans fanes سفنارية,2,Fruits et Légumes,2.5,2.25,22,2026-02-27,5,Magik,Gabes
+Piment Meski,2,Fruits et Légumes,3.0,2.9,95,2026-02-26,4,Magik,Gabes
+Piment Doux فلفل حلو,2,Fruits et Légumes,3.8,3.8,183,2026-03-01,7,Magik,Gabes
+Blette سلق,2,Fruits et Légumes,0.8,0.6,105,2026-02-26,4,Magik,Gabes
+Chou Vert kronb,2,Fruits et Légumes,1.8,1.7,77,2026-02-24,2,Magik,Gabes
+Concombre فقوس,2,Fruits et Légumes,4.5,3.8,86,2026-02-27,5,Magik,Gabes
+Chou fleur Brouclou بروكلو,2,Fruits et Légumes,2.0,1.5,110,2026-02-26,4,Magik,Gabes
+Navet avec fanes Left لفت,2,Fruits et Légumes,2.0,1.7,124,2026-02-23,1,Magik,Gabes
+Courgette قرع أخضر,2,Fruits et Légumes,3.3,3.3,71,2026-02-28,6,Magik,Gabes
+Betteraves بتراف,2,Fruits et Légumes,2.0,2.0,106,2026-03-01,7,Magik,Gabes
+Aubergine باذنجان,2,Fruits et Légumes,2.0,1.2,108,2026-02-24,2,Magik,Gabes
+Salade laitue romaine khass,2,Fruits et Légumes,2.7,2.5,100,2026-02-27,5,Magik,Gabes
+Piment rouge fort,2,Fruits et Légumes,4.0,3.8,103,2026-02-24,2,Magik,Gabes
+Haricots verts rouges,2,Fruits et Légumes,6.5,6.0,44,2026-02-24,2,Magik,Gabes
+Aubergine,2,Fruits et Légumes,2.0,1.5,127,2026-02-26,4,Magik,Gabes
+Citrouille Butzina,2,Fruits et Légumes,3.8,2.85,47,2026-02-25,3,Magik,Gabes
+Ail Blanc ثوم أبيض,2,Fruits et Légumes,0.92,0.87,133,2026-02-27,5,Magik,Gabes
+Ail Rouge ثوم أحمر,2,Fruits et Légumes,1.0,0.95,38,2026-02-27,5,Magik,Gabes
+Aneth Chebt شبت,2,Fruits et Légumes,0.8,0.6,159,2026-02-26,4,Magik,Gabes
+Fenouil avec fanes,2,Fruits et Légumes,0.8,0.8,105,2026-02-28,6,Magik,Gabes
+Légumes chéloïdes jedra broudou,2,Fruits et Légumes,2.0,1.8,97,2026-02-27,5,Magik,Gabes
+Piment Baklouti,2,Fruits et Légumes,3.8,3.7,38,2026-02-23,1,Magik,Gabes
+Rabta Fenouil avec fanes Besbes,2,Fruits et Légumes,3.0,0.9,133,2026-02-23,1,Magik,Gabes
+Rabta Carottes سفنارية,2,Fruits et Légumes,2.3,1.8,25,2026-02-23,1,Magik,Gabes
+Gingembre,2,Fruits et Légumes,2.5,0.75,29,2026-02-23,1,Magik,Gabes
+Châtaigne القسطل,2,Fruits et Légumes,2.2,0.66,186,2026-02-23,1,Magik,Gabes
+Piment Sehli فلفل ساحلي,2,Fruits et Légumes,2.9,2.175,160,2026-02-26,4,Magik,Gabes
+Coriandre تابل,2,Fruits et Légumes,0.8,0.8,199,2026-03-01,7,Magik,Gabes
+Citron قارص,2,Fruits et Légumes,3.0,2.2,124,2026-02-28,6,Magik,Gabes
+Petit pois جلبانة,2,Fruits et Légumes,5.5,4.125,176,2026-02-25,3,Magik,Gabes
+Oignon blanc بصل أبيض,2,Fruits et Légumes,1.8,1.6,68,2026-02-23,1,Magik,Gabes
+Épinard,2,Fruits et Légumes,1.8,1.8,68,2026-02-28,6,Magik,Gabes
+Oignon vert,2,Fruits et Légumes,2.4,1.8,152,2026-02-25,3,Magik,Gabes
+Céleri كلافس,2,Fruits et Légumes,0.7,0.42,173,2026-02-24,2,Magik,Gabes
+Menthe fraiche نعناع أخضر,2,Fruits et Légumes,0.8,0.7,22,2026-02-23,1,Magik,Gabes
+Laitue,2,Fruits et Légumes,1.5,1.35,59,2026-02-27,5,Magik,Gabes
+Orange Thomson,2,Fruits et Légumes,3.0,2.5,183,2026-02-28,6,Magik,Gabes
+Kiwi,2,Fruits et Légumes,2.0,1.5,88,2026-02-25,3,Magik,Gabes
+Orange à jus moyen,2,Fruits et Légumes,2.0,1.7,143,2026-02-23,1,Magik,Gabes
+Avocat,2,Fruits et Légumes,7.0,6.5,53,2026-02-26,4,Magik,Gabes
+Fraise,2,Fruits et Légumes,12.0,3.6,177,2026-02-23,1,Magik,Gabes
+Orange douce,2,Fruits et Légumes,2.4,2.0,63,2026-03-01,7,Magik,Gabes
+Pamplemousse,2,Fruits et Légumes,2.0,1.5,77,2026-02-25,3,Magik,Gabes
+Mangue مانقة,2,Fruits et Légumes,7.0,2.1,148,2026-02-23,1,Magik,Gabes
+Prunes,2,Fruits et Légumes,6.0,5.4,113,2026-02-27,5,Magik,Gabes
+Orange à jus petit,2,Fruits et Légumes,1.0,0.9,22,2026-02-27,5,Magik,Gabes
+Pommes تفاح أحمر,2,Fruits et Légumes,13.5,10.125,42,2026-02-25,3,Magik,Gabes
+Pommes rouges تفاح أحمر,2,Fruits et Légumes,6.0,5.0,163,2026-02-24,2,Magik,Gabes
+Grenade رمان,2,Fruits et Légumes,3.5,2.1,76,2026-02-24,2,Magik,Gabes
+Dattes Branchées Deglet Nour دقلة نور,2,Fruits et Légumes,11.0,3.3,29,2026-02-23,1,Magik,Gabes
+Clémentine مدلينة,2,Fruits et Légumes,3.0,2.9,31,2026-03-01,7,Magik,Gabes
+Yaourt Brassé Pistache VITALAIT 70Gr,1,Produits Laitiers,0.43,0.172,20,2026-02-23,1,Magik,Gabes
+Yaourt Brassé Vanille Biscuits DELICE DANONE 70Gr,1,Produits Laitiers,0.43,0.43,37,2026-03-06,12,Magik,Gabes
+Yaourt Brassé Fraise Biscuits DELICE DANONE 70Gr,1,Produits Laitiers,0.43,0.43,87,2026-03-08,14,Magik,Gabes
+Yaourt Brassé Fraise Banane VITALAIT 70Gr,1,Produits Laitiers,0.43,0.172,90,2026-02-24,2,Magik,Gabes
+Yaourt à boire Fraise DELICE 150Gr,1,Produits Laitiers,0.75,0.75,49,2026-03-06,12,Magik,Gabes
+Yaourt Brassé Cerise Framboise VITALAIT 100Gr,1,Produits Laitiers,0.87,0.696,111,2026-03-01,7,Magik,Gabes
+Yaourt Brassé Fraise VITALAIT 100Gr,1,Produits Laitiers,0.62,0.496,129,2026-02-28,6,Magik,Gabes
+Yaourt Brassé Fraise P'TIT TOP,1,Produits Laitiers,0.43,0.344,106,2026-03-01,7,Magik,Gabes
+Yaourt Brassé Aromatisé Tutti frutti VITALAIT 70Gr,1,Produits Laitiers,0.43,0.237,34,2026-02-25,3,Magik,Gabes
+Yaourt Brassé Abricot YAB 70Gr,1,Produits Laitiers,0.43,0.43,138,2026-03-07,13,Magik,Gabes
+Yaourt Brassé Pistache VITALAIT 100Gr,1,Produits Laitiers,0.62,0.62,132,2026-03-07,13,Magik,Gabes
+Yaourt aromatisé Fruits Exotiques DELICE DANONE 110Gr,1,Produits Laitiers,0.55,0.44,26,2026-03-01,7,Magik,Gabes
+Yaourt aromatisé Pomme Vanille DELICE DANONE 110Gr,1,Produits Laitiers,0.55,0.44,91,2026-02-28,6,Magik,Gabes
+Yaourt aromatisé Abricot DELICE DANONE 110Gr,1,Produits Laitiers,0.55,0.44,59,2026-03-02,8,Magik,Gabes
+Yaourt aromatisé Fraise DELICE DANONE 110Gr,1,Produits Laitiers,0.55,0.44,133,2026-03-02,8,Magik,Gabes
+Yaourt aromatisé Citron NATILAIT 110Gr,1,Produits Laitiers,0.53,0.53,10,2026-03-06,12,Magik,Gabes
+Yaourt aromatisé Pêche Abricot NATILAIT 110Gr,1,Produits Laitiers,0.53,0.424,41,2026-03-01,7,Magik,Gabes
+Yaourt aromatisé Vanille NATILAIT 110Gr,1,Produits Laitiers,0.53,0.36,94,2026-02-27,5,Magik,Gabes
+Yaourt aromatisé Fruits des bois VITALAIT 100Gr,1,Produits Laitiers,0.53,0.212,62,2026-02-24,2,Magik,Gabes
+Yaourt aromatisé Vanille VITALAIT 100Gr,1,Produits Laitiers,0.55,0.303,99,2026-02-25,3,Magik,Gabes
+Spécialité laitière brassée Vanille DELICE 100Gr,1,Produits Laitiers,0.6,0.552,150,2026-03-05,11,Magik,Gabes
+Yaourt aromatisé Fraise VITALAIT 100Gr,1,Produits Laitiers,0.55,0.55,100,2026-03-08,14,Magik,Gabes
+Yaourt Brassé Vanille VITALAIT 100Gr,1,Produits Laitiers,0.62,0.248,19,2026-02-24,2,Magik,Gabes
+Yaourt aromatisé Banane VITALAIT 100Gr,1,Produits Laitiers,0.55,0.374,42,2026-02-27,5,Magik,Gabes
+Yaourt aromatisé Noix de Coco VITALAIT 100Gr,1,Produits Laitiers,0.55,0.44,144,2026-03-01,7,Magik,Gabes
+Yaourt aromatisé Citron VITALAIT 100Gr,1,Produits Laitiers,0.55,0.506,105,2026-03-03,9,Magik,Gabes
+Yaourt aromatisé Pêche Abricot VITALAIT 100Gr,1,Produits Laitiers,0.55,0.22,29,2026-02-24,2,Magik,Gabes
+Crème dessert Vanille NATILAIT 100Gr,1,Produits Laitiers,0.77,0.616,47,2026-03-01,7,Magik,Gabes
+Yaourt aux Fruits Pêche DELICE DANONE 100Gr,1,Produits Laitiers,0.86,0.791,40,2026-03-05,11,Magik,Gabes
+Spécialité Laitière aux fruits Ananas VITALAIT 100Gr,1,Produits Laitiers,0.87,0.87,103,2026-03-06,12,Magik,Gabes
+Yaourt aux Fruits Cerise DELICE DANONE 100Gr,1,Produits Laitiers,0.86,0.86,93,2026-03-08,14,Magik,Gabes
+Yaourt Brassé Fruits Secs et Grains VITALAIT 100Gr,1,Produits Laitiers,0.87,0.696,82,2026-02-28,6,Magik,Gabes
+Yaourt à la Grecque Pêche Abricot DELICE DANONE 100Gr,1,Produits Laitiers,0.96,0.768,85,2026-02-28,6,Magik,Gabes
+Yaourt à la Grecque Fraise DELICE DANONE 100Gr,1,Produits Laitiers,0.96,0.653,33,2026-02-26,4,Magik,Gabes
+Yaourt Zgougou Vanille DANETTE 100Gr,1,Produits Laitiers,0.89,0.605,129,2026-02-26,4,Magik,Gabes
+Yaourt à boire Pinacolada VITUP 160Gr,1,Produits Laitiers,0.96,0.768,18,2026-03-01,7,Magik,Gabes
+Préparation alimentaire à la mozzarella Pizzatella MAJESTE 120Gr,1,Produits Laitiers,2.1,1.428,13,2026-02-27,5,Magik,Gabes
+Préparation alimentaire en slice Au cheddar DAILY 5 tranches,1,Produits Laitiers,2.2,1.496,125,2026-02-26,4,Magik,Gabes
+Fromage râpé fondant PRESIDENT 50Gr,1,Produits Laitiers,2.4,1.632,148,2026-02-26,4,Magik,Gabes
+Fromage slice pizza PRESIDENT 10 tranches,1,Produits Laitiers,5.2,4.16,32,2026-02-28,6,Magik,Gabes
+Fromage rapé spécial tajin PRESIDENT 120Gr,1,Produits Laitiers,5.7,4.56,28,2026-02-28,6,Magik,Gabes
+Fromage râpé spécial gratin PRESIDENT 120Gr,1,Produits Laitiers,5.7,4.56,98,2026-03-01,7,Magik,Gabes
+Préparation alimentaire à la mozzarella Pizzatella MAJESTE 500Gr,1,Produits Laitiers,6.4,5.12,76,2026-02-28,6,Magik,Gabes
+Yaourt Aromatisé Fruits des Bois DELICE DANONE 110Gr,1,Produits Laitiers,0.49,0.451,124,2026-03-05,11,Magik,Gabes
+Yaourt Nature DELICE DANONE 110Gr,1,Produits Laitiers,0.49,0.196,131,2026-02-24,2,Magik,Gabes
+Yaourt Aromatisé Banane DELICE DANONE 110Gr,1,Produits Laitiers,0.49,0.49,43,2026-03-06,12,Magik,Gabes
+Yaourt Brassé Vanille P'TIT TOP 70Gr,1,Produits Laitiers,0.43,0.344,21,2026-03-02,8,Magik,Gabes
+Yaourt Nature NATILAIT 110Gr,1,Produits Laitiers,0.53,0.424,52,2026-03-01,7,Magik,Gabes
+Yaourt Nature VITALAIT 110Gr,1,Produits Laitiers,0.55,0.506,50,2026-03-03,9,Magik,Gabes
+Yaourt à boire Fraise DANUP DELICE DANONE 260Gr,1,Produits Laitiers,1.22,0.83,140,2026-02-26,4,Magik,Gabes
+Yaourt aux fruits ACTIVIA Pêche DELICE DANONE 100Gr,1,Produits Laitiers,0.89,0.356,97,2026-02-24,2,Magik,Gabes
+Fromage fondu PRESIDENT 8 portions,1,Produits Laitiers,3.7,2.96,71,2026-02-28,6,Magik,Gabes
+Fromage fondu PRESIDENT 16 portions,1,Produits Laitiers,6.7,4.556,149,2026-02-26,4,Magik,Gabes
+Fromage fondu PRESIDENT 24 portions,1,Produits Laitiers,9.2,8.464,122,2026-03-03,9,Magik,Gabes
+Fromage fondu PRESIDENT 48 portions,1,Produits Laitiers,16.5,15.18,30,2026-03-03,9,Magik,Gabes
+Fromage Fondu Goûter PRESIDENT 4x23Gr,1,Produits Laitiers,3.5,3.22,132,2026-03-05,11,Magik,Gabes
+Fromage Frais Carré PRESIDENT 6 Portions,1,Produits Laitiers,3.5,3.4,53,2026-03-04,10,Magik,Gabes
+Fromage Carré DELICE 12 Portions,1,Produits Laitiers,6.7,6.7,129,2026-03-07,13,Magik,Gabes
+Fromage Carré DELICE 24 Portions,1,Produits Laitiers,12.1,12.1,135,2026-03-06,12,Magik,Gabes
+Fromage fondu à la crème CUISTOT PRESIDENT 4x75Gr,1,Produits Laitiers,11.0,11.0,72,2026-03-06,12,Magik,Gabes
+Fromage Frais Carré PRESIDENT 24 Portions,1,Produits Laitiers,11.0,10.12,76,2026-03-03,9,Magik,Gabes
+Fromage fondu FROMY PLUS 24 portions,1,Produits Laitiers,9.6,9.6,93,2026-03-07,13,Magik,Gabes
+Cuisse de Poulet,4,Viandes et Poissons,10.0,5.0,32,2026-02-25,3,Magik,Gabes
+Escalope de Poulet,4,Viandes et Poissons,20.0,17.0,25,2026-02-26,4,Magik,Gabes
+Cuisse de dinde,4,Viandes et Poissons,15.0,12.0,40,2026-02-27,5,Magik,Gabes
+Poulet pac,4,Viandes et Poissons,9.0,8.5,43,2026-02-24,2,Magik,Gabes
+Blanc de Poulet,4,Viandes et Poissons,15.2,13.5,21,2026-02-28,6,Magik,Gabes
+Escalope de Dinde,4,Viandes et Poissons,18.0,17.0,37,2026-02-25,3,Magik,Gabes
+Steak de dinde,4,Viandes et Poissons,18.0,15.0,9,2026-02-23,1,Magik,Gabes
+Ailes de poulet,4,Viandes et Poissons,7.0,6.5,28,2026-02-23,1,Magik,Gabes
+Carcasse de poulet,4,Viandes et Poissons,8.0,3.0,21,2026-02-26,4,Magik,Gabes
+Foie de poulet,4,Viandes et Poissons,17.0,16.0,37,2026-03-01,7,Magik,Gabes
+Plateau 30 oeufs,4,Viandes et Poissons,9.2,9.2,37,2026-03-01,7,Magik,Gabes
+Pilon de Poulet,4,Viandes et Poissons,13.0,13.0,14,2026-03-01,7,Magik,Gabes
+Crevette Royale Grand Calibre,4,Viandes et Poissons,60.0,48.0,34,2026-02-26,4,Magik,Gabes
+Pagre Jaghali,4,Viandes et Poissons,21.0,19.32,15,2026-02-27,5,Magik,Gabes
+Daurade semi-élévage moyen calibre,4,Viandes et Poissons,16.0,10.88,48,2026-02-24,2,Magik,Gabes
+Seiche noire Soubya Chouabi,4,Viandes et Poissons,33.0,22.44,6,2026-02-24,2,Magik,Gabes
+Moules,4,Viandes et Poissons,18.0,16.56,27,2026-02-27,5,Magik,Gabes
+Crevette Moyen Calibre,4,Viandes et Poissons,55.0,55.0,7,2026-02-28,6,Magik,Gabes
+Saurel Chourou jaune,4,Viandes et Poissons,18.0,14.4,9,2026-02-25,3,Magik,Gabes
+Pageot Morjane,4,Viandes et Poissons,20.0,13.6,11,2026-02-24,2,Magik,Gabes
+Loup semi-élevage,4,Viandes et Poissons,18.0,16.56,38,2026-02-27,5,Magik,Gabes
+Rouget Rouge,4,Viandes et Poissons,32.0,25.6,23,2026-02-25,3,Magik,Gabes
+Daurade sauvage moyen calibre,4,Viandes et Poissons,32.0,12.8,19,2026-02-23,1,Magik,Gabes
+Merou Blanc Mannani,4,Viandes et Poissons,20.0,20.0,30,2026-03-01,7,Magik,Gabes
+Poulpe Karnit,4,Viandes et Poissons,35.0,14.0,27,2026-02-23,1,Magik,Gabes
+Bengrins Mila,4,Viandes et Poissons,20.0,20.0,20,2026-03-01,7,Magik,Gabes
+Poisson Baliste Far,4,Viandes et Poissons,22.0,20.24,37,2026-02-27,5,Magik,Gabes
+Poisson Pataclet Sbares,4,Viandes et Poissons,24.0,19.2,44,2026-02-26,4,Magik,Gabes

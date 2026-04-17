@@ -1,0 +1,511 @@
+nom,category_id,categorie,prix_initial,prix_optimal,stock,date_expiration,jours_avant_expiration,supermarche,zone
+100g Fromage Gruyère / 100g  جبنة جرويير,1,Produits Laitiers,5.3,,,,,Otrity,Tunisie
+crème fraîche,1,Produits Laitiers,2.7,,,,,Otrity,Tunisie
+Crème fraîche liquide,1,Produits Laitiers,3.6,,,,,Otrity,Tunisie
+Formage jaune Gouda 100g  / 100g kaiser جبنة اصفر,1,Produits Laitiers,4.8,,,,,Otrity,Tunisie
+fromage doux 100g / 100g جبن حلو,1,Produits Laitiers,2.9,,,,,Otrity,Tunisie
+Fromage edam 100g  / 100g جبنة احمر ادام,1,Produits Laitiers,5.3,,,,,Otrity,Tunisie
+Fromage fondu maxi,1,Produits Laitiers,1.8,,,,,Otrity,Tunisie
+Fromage râpé mozzarella 100% lait 100g / 100g جبن موزاريلا 100% حليب,1,Produits Laitiers,2.8,,,,,Otrity,Tunisie
+Fromage rouge Edam 100g / 100g  kaiser جبنة احمر,1,Produits Laitiers,4.8,,,,,Otrity,Tunisie
+Fromage sicilien 100g / 100g جبنة صقلية,1,Produits Laitiers,2.9,,,,,Otrity,Tunisie
+Goldina 200g,1,Produits Laitiers,2.8,,,,,Otrity,Tunisie
+Goldina omega 3 400g,1,Produits Laitiers,4.8,,,,,Otrity,Tunisie
+Lait demi-écrémé Délisso Délice 1L,1,Produits Laitiers,2.5,,,,,Otrity,Tunisie
+Margarine Jadida 1Kg,1,Produits Laitiers,10.3,,,,,Otrity,Tunisie
+Margarine riche en Oméga 3 200g,1,Produits Laitiers,3.2,,,,,Otrity,Tunisie
+Ricotte fraîche 100g  /100g ريكوتا طازجة,1,Produits Laitiers,1.6,,,,,Otrity,Tunisie
+Fromage Carré Président 8Portions,1,Produits Laitiers,4.98,,,,,Otrity,Tunisie
+Fromage fondu goûter Président3,1,Produits Laitiers,0.98,,,,,Otrity,Tunisie
+Fromage Fraidoux Président Familial 240g,1,Produits Laitiers,6.192,,,,,Otrity,Tunisie
+Fromage Fraidoux Président 120g,1,Produits Laitiers,3.8,,,,,Otrity,Tunisie
+Fromage frais carré paquet de 24 portions,1,Produits Laitiers,12.3,,,,,Otrity,Tunisie
+Fromage President 24P,1,Produits Laitiers,9.6,,,,,Otrity,Tunisie
+Fromage President 48P,1,Produits Laitiers,17.664,,,,,Otrity,Tunisie
+Fromage President 8p,1,Produits Laitiers,3.72,,,,,Otrity,Tunisie
+Fromage Président emmental 10 slices,1,Produits Laitiers,5.8,,,,,Otrity,Tunisie
+Fromage Président emmental slices 5/s,1,Produits Laitiers,3.2,,,,,Otrity,Tunisie
+Lait UHT 1/2 écrémé DELICE 1L,1,Produits Laitiers,1.35,,,,,Otrity,Tunisie
+Margarine Goldina 100g,1,Produits Laitiers,1.85,,,,,Otrity,Tunisie
+Margarine Goldina 500g,1,Produits Laitiers,6.2,,,,,Otrity,Tunisie
+Margarine Goldina Plus Omega 3,1,Produits Laitiers,3.78,,,,,Otrity,Tunisie
+Margarine Jadida 100g,1,Produits Laitiers,1.565,,,,,Otrity,Tunisie
+Margarine Jadida 200g,1,Produits Laitiers,2.66,,,,,Otrity,Tunisie
+Margarine Jadida 500g,1,Produits Laitiers,6.12,,,,,Otrity,Tunisie
+Amidon De Mais Vanoise 150g,5,Épicerie,2.3,,,,,Otrity,Tunisie
+BEST HEALTHY BREAD CAMPAGNARD AU LEVIN 160g,5,Épicerie,2.958,,,,,Otrity,Tunisie
+BEST HEALTHY BREAD CAMPAGNARD LIGHT AU LEVIN 160g,5,Épicerie,2.958,,,,,Otrity,Tunisie
+BEST HEALTHY BREAD COMPLET LIGHT AU LEVIN 160g,5,Épicerie,2.958,,,,,Otrity,Tunisie
+BEST HEALTHY BREAD SEIGLE ROYAL AU LEVIN 160g,5,Épicerie,2.958,,,,,Otrity,Tunisie
+BEST HEALTHY BREAD SEIGLE ROYAL LIGHT  AU LEVIN 160g,5,Épicerie,2.958,,,,,Otrity,Tunisie
+BEST HEALTHY CHIA BREAD AU LEVIN 160g,5,Épicerie,2.958,,,,,Otrity,Tunisie
+BEST HEALTHY CHIA BREAD LIGHT AU LEVIN 160g,5,Épicerie,2.958,,,,,Otrity,Tunisie
+Biscuits OXO Saida,5,Épicerie,0.909,,,,,Otrity,Tunisie
+Bonbon au gout  glace Menthe 1kg,5,Épicerie,11.04,,,,,Otrity,Tunisie
+Bonbon café au lait Papillons 1kg,5,Épicerie,11.04,,,,,Otrity,Tunisie
+Bonbon mous fourré Sweet Papillon 750g,5,Épicerie,11.04,,,,,Otrity,Tunisie
+Bonbon Soft Candy Papillons 750g,5,Épicerie,11.04,,,,,Otrity,Tunisie
+Café Aroma Selection Qualité Superieur Bondin  125g,5,Épicerie,4.625,,,,,Otrity,Tunisie
+Cafe Chicoree Brava 200 gr,5,Épicerie,16.5,,,,,Otrity,Tunisie
+Café Turc Pur Premuim Ben Yedder 125g,5,Épicerie,4.625,,,,,Otrity,Tunisie
+CAPSULE 1*10 ARPEGGIO NESPRESSO,5,Épicerie,28.0,,,,,Otrity,Tunisie
+CAPSULE 1*10 RISTRETTO NESPRESSO,5,Épicerie,28.0,,,,,Otrity,Tunisie
+Céréales blé GRAIN D’OR Cacao 300gr,5,Épicerie,6.349,,,,,Otrity,Tunisie
+Céréales blé GRAIN D’OR Miel 300gr,5,Épicerie,6.349,,,,,Otrity,Tunisie
+Chaïma Aux amandes et noisettes GAZELLE 200gr,5,Épicerie,5.07,,,,,Otrity,Tunisie
+Chaïma PAPILLON Nature 350gr,5,Épicerie,10.8,,,,,Otrity,Tunisie
+Champignons  Hannibal 390 g,5,Épicerie,4.7,,,,,Otrity,Tunisie
+Champignons éminées CHEF 180g,5,Épicerie,3.482,,,,,Otrity,Tunisie
+Champignons en tranches CHEF 400g,5,Épicerie,5.28,,,,,Otrity,Tunisie
+Chicorée soluble Brava 120g +20g Gratuit,5,Épicerie,9.987,,,,,Otrity,Tunisie
+Chicorée soluble Brava 250g + 50g gratuit,5,Épicerie,25.5,,,,,Otrity,Tunisie
+chips cheetos flamin hot 80gr,5,Épicerie,4.0,,,,,Otrity,Tunisie
+chips doritos flamin hot 43 gr,5,Épicerie,1.958,,,,,Otrity,Tunisie
+Chips Natcho Cheese Doritos 100gr,5,Épicerie,5.5,,,,,Otrity,Tunisie
+Chips Sweet Chili Pepper Doritos 100gr,5,Épicerie,5.5,,,,,Otrity,Tunisie
+Chocolat  Maestro AURA Crème CACAO,5,Épicerie,1.0,,,,,Otrity,Tunisie
+Chocolat au Lait Fourèe au Caramel au Beurre salè Maestro Passion,5,Épicerie,13.2,,,,,Otrity,Tunisie
+Chocolat au Lait Maestro Air Bubbles 100g,5,Épicerie,4.2,,,,,Otrity,Tunisie
+Chocolat au Noir Maestro Air Bubbles 100g,5,Épicerie,4.2,,,,,Otrity,Tunisie
+Chocolat Caramel Duo Saida 28g,5,Épicerie,0.75,,,,,Otrity,Tunisie
+Chocolat Noir fourré Orange Maestro Passion,5,Épicerie,13.2,,,,,Otrity,Tunisie
+Chocolat Pâte à glacer SAID,5,Épicerie,1.0,,,,,Otrity,Tunisie
+Chocolat vanoise 150g,5,Épicerie,4.5,,,,,Otrity,Tunisie
+Concentré de Tomates ZEMNIA 800g,5,Épicerie,4.4,,,,,Otrity,Tunisie
+Concentré de Tomates ZINA 800g,5,Épicerie,4.499,,,,,Otrity,Tunisie
+Confiture Abricot LA FRUITIERE 340 gr,5,Épicerie,5.9,,,,,Otrity,Tunisie
+Confiture Coing CARTHAGE 470GR,5,Épicerie,4.8,,,,,Otrity,Tunisie
+Confiture Coing LA FRUITIERE 340gr,5,Épicerie,5.9,,,,,Otrity,Tunisie
+Confiture de coings STICAP 470g,5,Épicerie,5.3,,,,,Otrity,Tunisie
+Confiture de figues CAP D’OR 470g,5,Épicerie,6.3,,,,,Otrity,Tunisie
+Confiture de figues JOUDA 470g,5,Épicerie,7.62,,,,,Otrity,Tunisie
+Confiture de figues STICAP 470g,5,Épicerie,6.3,,,,,Otrity,Tunisie
+Confiture de fraise STICAP 470g,5,Épicerie,6.3,,,,,Otrity,Tunisie
+Confiture d’Abricot CARTHAGE 470g,5,Épicerie,4.68,,,,,Otrity,Tunisie
+Confiture d’Abricot LE PETIT PARIS 470g,5,Épicerie,4.8,,,,,Otrity,Tunisie
+Confiture Figue LA FRUITIERE 340gr,5,Épicerie,5.9,,,,,Otrity,Tunisie
+Cookies SAIDA cœur fondant  136GR Cacao – Aux pépites de chocolat,5,Épicerie,2.975,,,,,Otrity,Tunisie
+Couscous EXPRESS Diari,5,Épicerie,0.9,,,,,Otrity,Tunisie
+Crème chantilly SMART CHEF 82g,5,Épicerie,2.52,,,,,Otrity,Tunisie
+Crème Dessert Gout Banane Vanoise,5,Épicerie,0.9,,,,,Otrity,Tunisie
+Crème Dessert Gout Caramel Vanoise,5,Épicerie,0.9,,,,,Otrity,Tunisie
+Crème Dessert Gout chocolat Vanoise,5,Épicerie,0.9,,,,,Otrity,Tunisie
+Crème Dessert Gout fraise Vanoise,5,Épicerie,0.9,,,,,Otrity,Tunisie
+Crème Dessert Gout Noisette Vanoise,5,Épicerie,0.9,,,,,Otrity,Tunisie
+Crème Dessert Gout Pistache Vanoise,5,Épicerie,0.9,,,,,Otrity,Tunisie
+Crème Dessert Gout Vanille Vanoise,5,Épicerie,0.9,,,,,Otrity,Tunisie
+Croustina ChocoTom 35g,5,Épicerie,0.522,,,,,Otrity,Tunisie
+Dragées aux amandes 20g,5,Épicerie,1.8,,,,,Otrity,Tunisie
+Dragées Perles Donia 20g,5,Épicerie,1.8,,,,,Otrity,Tunisie
+Fèves Cuites Mami 400 g,5,Épicerie,4.7,,,,,Otrity,Tunisie
+Filet de Thon Sidi Daoud 120 g,5,Épicerie,9.5,,,,,Otrity,Tunisie
+Gaufrettes CHOCOTOM 100g,5,Épicerie,1.55,,,,,Otrity,Tunisie
+Gel douche Lilas Extrême Exotique 500 ML,5,Épicerie,5.034,,,,,Otrity,Tunisie
+Haricot blanc MAMI 400G,5,Épicerie,4.8,,,,,Otrity,Tunisie
+Haricots Rouges Mami 400 g,5,Épicerie,5.0,,,,,Otrity,Tunisie
+Harissa du Cap Bon Cap Vert 380 g,5,Épicerie,4.5,,,,,Otrity,Tunisie
+Harissa du Cap Bon El Manara de Djerba 380 g,5,Épicerie,4.3,,,,,Otrity,Tunisie
+Harissa du Cap Bon Le Petit Paris 380 g,5,Épicerie,4.5,,,,,Otrity,Tunisie
+Harissa du Cap Bon Zgolli 135 g,5,Épicerie,1.9,,,,,Otrity,Tunisie
+Harissa EL MANARA TUCAL Tube 70g,5,Épicerie,1.72,,,,,Otrity,Tunisie
+Harissa en bocal de 330g Aman Food,5,Épicerie,6.42,,,,,Otrity,Tunisie
+Harissa ZINA 135gr,5,Épicerie,1.797,,,,,Otrity,Tunisie
+Harissa ZINA 380gr,5,Épicerie,3.48,,,,,Otrity,Tunisie
+Hommos Tahina 380G  MAMI,5,Épicerie,5.0,,,,,Otrity,Tunisie
+Hrouss CARTHAGE  470 GR,5,Épicerie,2.28,,,,,Otrity,Tunisie
+Hrouss Jouda  135g + 30g Offerts,5,Épicerie,2.132,,,,,Otrity,Tunisie
+Hrouss Jouda 380g,5,Épicerie,4.296,,,,,Otrity,Tunisie
+Hrouss Neblia-135g,5,Épicerie,1.875,,,,,Otrity,Tunisie
+HUILE D’OLIVE EXTRA VIERGE 1 L JAZIRA,5,Épicerie,11.95,,,,,Otrity,Tunisie
+HUILE D’OLIVE EXTRA VIERGE 5 L JAZIRA,5,Épicerie,55.0,,,,,Otrity,Tunisie
+Huile d’olive extra vierge AL JAZIRA 3L,5,Épicerie,101.0,,,,,Otrity,Tunisie
+Huile d’olive extra vierge AL JAZIRA 800g,5,Épicerie,33.7,,,,,Otrity,Tunisie
+Huile d’olive extra vierge TRIO D’OR 750ML,5,Épicerie,12.9,,,,,Otrity,Tunisie
+Huile de Friture Al Jazira 0.9l,5,Épicerie,5.04,,,,,Otrity,Tunisie
+Huile de Friture Al Jazira 1.8L,5,Épicerie,9.42,,,,,Otrity,Tunisie
+Huile de Friture Cristal 2L,5,Épicerie,10.92,,,,,Otrity,Tunisie
+Huile de friture Fridéal Olina 5L,5,Épicerie,22.5,,,,,Otrity,Tunisie
+Huile de Friture Frotòo 0.9l,5,Épicerie,5.2,,,,,Otrity,Tunisie
+Huile de Maïs Al Jazira 1.8L,5,Épicerie,10.68,,,,,Otrity,Tunisie
+Huile de maïs Al Jazira 900 ML,5,Épicerie,5.64,,,,,Otrity,Tunisie
+Huile de maïs Lesieur  900 ML,5,Épicerie,5.59,,,,,Otrity,Tunisie
+HUILE D’OLIVE EXTRA VIERGE 3 L JAZIRA,5,Épicerie,34.5,,,,,Otrity,Tunisie
+"Kellogg’s Instant Noodles with Beef Flavored, 70g",5,Épicerie,1.07,,,,,Otrity,Tunisie
+"Kellogg’s Instant Noodles with Chicken Flavor, 70g",5,Épicerie,1.07,,,,,Otrity,Tunisie
+"Kellogg’s Instant Noodles with Sausage Flavored, 70g",5,Épicerie,1.07,,,,,Otrity,Tunisie
+Ketchup BONNA  270ML,5,Épicerie,4.44,,,,,Otrity,Tunisie
+Lait concentré sucré  Nestlé 370 gr,5,Épicerie,9.2,,,,,Otrity,Tunisie
+Le Thon entier à l’huile végétale CAP AFRICA 400 g,5,Épicerie,12.0,,,,,Otrity,Tunisie
+Lollo Caffè CLASSICO Sachet de 1kg en grains,5,Épicerie,45.0,,,,,Otrity,Tunisie
+Maïs Doux CHEF 340g,5,Épicerie,5.7,,,,,Otrity,Tunisie
+Maïs Doux GOLDEN 184gr,5,Épicerie,3.42,,,,,Otrity,Tunisie
+Mayonnaise Bonna 270 ml,5,Épicerie,4.8,,,,,Otrity,Tunisie
+Mayonnaise Bonna 720 ml,5,Épicerie,10.8,,,,,Otrity,Tunisie
+Mayonnaise Jadida 900 ml,5,Épicerie,10.8,,,,,Otrity,Tunisie
+Mélange pour Crème chantilly Vanoise 75g,5,Épicerie,2.95,,,,,Otrity,Tunisie
+Mhamsa Maison 100g /100g محمص دياري,5,Épicerie,1.0,,,,,Otrity,Tunisie
+Moutarde Bonna 260 ml,5,Épicerie,5.8,,,,,Otrity,Tunisie
+MOUTARDE BONNA 720 ML,5,Épicerie,14.4,,,,,Otrity,Tunisie
+Moutarde de dijon COVINOR 370ML,5,Épicerie,9.96,,,,,Otrity,Tunisie
+Moutarde Dorelle 200g,5,Épicerie,5.8,,,,,Otrity,Tunisie
+Moutarde Dorelle 700g,5,Épicerie,12.8,,,,,Otrity,Tunisie
+Nescafé soft – 25g,5,Épicerie,4.567,,,,,Otrity,Tunisie
+Nescafé soft – 50g,5,Épicerie,7.837,,,,,Otrity,Tunisie
+Nouasser 100g / 100g نواصر,5,Épicerie,0.8,,,,,Otrity,Tunisie
+Olives Sehli en bocal de 200g Aman Food,5,Épicerie,3.082,,,,,Otrity,Tunisie
+Olives Verte Grosse en bocal de 200g Aman Food,5,Épicerie,3.082,,,,,Otrity,Tunisie
+Olives Violette en bocal de 200g Aman Food,5,Épicerie,3.082,,,,,Otrity,Tunisie
+Pâte hlalem 100g / 100g حلالم,5,Épicerie,1.0,,,,,Otrity,Tunisie
+Pâte hlalem Warda,5,Épicerie,2.724,,,,,Otrity,Tunisie
+Pâtes à tartiner Nutella,5,Épicerie,45.0,,,,,Otrity,Tunisie
+Pâtes Cannelloni Randa,5,Épicerie,1.54,,,,,Otrity,Tunisie
+Pâtes Cannelloni Warda,5,Épicerie,1.54,,,,,Otrity,Tunisie
+Pâtes noodles INDOMIE 70gr Poulet,5,Épicerie,1.0,,,,,Otrity,Tunisie
+Pâtes noodles INDOMIE 80gr  Mi Goreng,5,Épicerie,1.2,,,,,Otrity,Tunisie
+Petit Pois Et Carottes 400G DURRA,5,Épicerie,5.0,,,,,Otrity,Tunisie
+petits pois 400G MAMI,5,Épicerie,4.7,,,,,Otrity,Tunisie
+Petits Pois Le Fnare Du Cap Bon 370g,5,Épicerie,2.7,,,,,Otrity,Tunisie
+Pois Chiches MAMI 400G,5,Épicerie,4.7,,,,,Otrity,Tunisie
+Poudre instantanée chocolat chaud SAID 30GR Classique,5,Épicerie,0.875,,,,,Otrity,Tunisie
+Pulpe de tomates Sticap 380 g,5,Épicerie,3.0,,,,,Otrity,Tunisie
+Riz Basmati ORZA 1KG,5,Épicerie,7.5,,,,,Otrity,Tunisie
+Riz étuve Al Sakr 1kg,5,Épicerie,4.44,,,,,Otrity,Tunisie
+Sardine à la sauce tomate ELMANAR 125g,5,Épicerie,3.0,,,,,Otrity,Tunisie
+Sardines a l’Huile Végétale Lebhour 125gr,5,Épicerie,2.304,,,,,Otrity,Tunisie
+Sauce à l’ail Bonna 270 ml,5,Épicerie,4.8,,,,,Otrity,Tunisie
+Sauce Barbecue Bonna 270 ml,5,Épicerie,5.7,,,,,Otrity,Tunisie
+Sauce fraîche Concassée JOUDA 400g,5,Épicerie,2.724,,,,,Otrity,Tunisie
+Sauce Tomate à L’ail et Basilic 370g,5,Épicerie,2.0,,,,,Otrity,Tunisie
+Sauce Tomate Ail Et Basilic CARTHAGE 400g,5,Épicerie,2.28,,,,,Otrity,Tunisie
+Semoule grosse warda,5,Épicerie,0.79,,,,,Otrity,Tunisie
+Sucettes Pik Pong 100 pièces,5,Épicerie,12.85,,,,,Otrity,Tunisie
+Sucre en poudre 1Kg,5,Épicerie,1.63,,,,,Otrity,Tunisie
+Sucre glace / 100g سكر محور,5,Épicerie,0.8,,,,,Otrity,Tunisie
+Sucre Glace Vanoise 40g,5,Épicerie,2.1,,,,,Otrity,Tunisie
+Sucre vanille 8GR LA PÂTISSIERE,5,Épicerie,0.224,,,,,Otrity,Tunisie
+Tahina Le Moulin 400g,5,Épicerie,13.92,,,,,Otrity,Tunisie
+Thon à l’huile d’olive Aljazia 400 g,5,Épicerie,11.0,,,,,Otrity,Tunisie
+THON à L’HUILE OLIVE SIDI MANSOUR 400G,5,Épicerie,14.0,,,,,Otrity,Tunisie
+Thon à l’huile végétale Le Marin 400 g,5,Épicerie,11.5,,,,,Otrity,Tunisie
+Thon à l’huile végétale Neptune 400 g Traditionnel,5,Épicerie,11.5,,,,,Otrity,Tunisie
+Thon en morceaux à l’huile d’olive LEBHOUR 130g,5,Épicerie,6.8,,,,,Otrity,Tunisie
+Thon en morceaux à l’huile de tournesol El Manar 400g,5,Épicerie,12.5,,,,,Otrity,Tunisie
+Thon en morceaux à l’huile de tournesol ELMANAR 160g,5,Épicerie,4.2,,,,,Otrity,Tunisie
+Thon en morceaux à l’huile végétale Aljazia 130 g.,5,Épicerie,5.3,,,,,Otrity,Tunisie
+Thon en morceaux à l’huile végétale Beb Bhar 400 g,5,Épicerie,10.0,,,,,Otrity,Tunisie
+Thon en morceaux à l’huile végétale ELBADR 130g,5,Épicerie,6.0,,,,,Otrity,Tunisie
+Thon en morceaux à l’huile végétale FNAR 400 g,5,Épicerie,10.0,,,,,Otrity,Tunisie
+Thon en morceaux à l’huile végétale Le Grand Bleu 400 g,5,Épicerie,9.5,,,,,Otrity,Tunisie
+Thon en morceaux à l’huile végétale Sidi Elbahri 400 g,5,Épicerie,9.5,,,,,Otrity,Tunisie
+Thon en morceaux à l’huile végétale El Ezz 130 g,5,Épicerie,3.9,,,,,Otrity,Tunisie
+Thon en morceaux à l’huile végétale FNAR 130g,5,Épicerie,3.7,,,,,Otrity,Tunisie
+Thon en morceaux à l’huile végétale Jalta (La Galite) 130 g,5,Épicerie,3.8,,,,,Otrity,Tunisie
+Thon en morceaux à l’huile végétale Le Grand Bleu 140 g,5,Épicerie,3.8,,,,,Otrity,Tunisie
+Thon en morceaux à l’huile végétale Sidi Maaouia 130 g,5,Épicerie,3.8,,,,,Otrity,Tunisie
+Thon entier à l’huile d’olive CAP AFRICA 400 g,5,Épicerie,14.0,,,,,Otrity,Tunisie
+Thon entier à l’huile d’olive MAMI GARDEN 400 g,5,Épicerie,12.0,,,,,Otrity,Tunisie
+Thon entier à l’huile d’olives  Fnar 400g rouge,5,Épicerie,16.8,,,,,Otrity,Tunisie
+Thon entier à l’huile végétale Lebhour 400 g,5,Épicerie,11.5,,,,,Otrity,Tunisie
+Thon entier à l’huile d’olive extra 160g fnar,5,Épicerie,8.04,,,,,Otrity,Tunisie
+Thon entier à l’huile végétale Jalta (La Galite) 400 g,5,Épicerie,11.0,,,,,Otrity,Tunisie
+Thon entier à l’huile végétale Neptune 400 g,5,Épicerie,10.5,,,,,Otrity,Tunisie
+Thon le marin 400G HUILE D’OLIVE,5,Épicerie,12.8,,,,,Otrity,Tunisie
+Thon Naturel Rayes Labhar,5,Épicerie,9.0,,,,,Otrity,Tunisie
+THON SIDI DAOUAD 400G,5,Épicerie,10.8,,,,,Otrity,Tunisie
+Tomate double concentré 400G Zina,5,Épicerie,2.8,,,,,Otrity,Tunisie
+Tomate fraîche concassée JOUDA Ail Piment 400 gr,5,Épicerie,2.875,,,,,Otrity,Tunisie
+Tomate fraîche concassée JOUDA Basilic 400 gr,5,Épicerie,2.674,,,,,Otrity,Tunisie
+Tomates concassées à l’ail 400G SICAM,5,Épicerie,3.0,,,,,Otrity,Tunisie
+Tomates concassées à l’ail STICAP 380G,5,Épicerie,3.0,,,,,Otrity,Tunisie
+Tomates concassées au basilic LE PETIT PARIS 400G,5,Épicerie,3.0,,,,,Otrity,Tunisie
+Tomates pelées concassées à l’ail Jouda 400g,5,Épicerie,2.724,,,,,Otrity,Tunisie
+Vinaigrette COVINOR Fines herbes 500ML,5,Épicerie,8.5,,,,,Otrity,Tunisie
+Vinaigrette COVINOR Moutarde à l’ancienne 500ML,5,Épicerie,8.5,,,,,Otrity,Tunisie
+Vinaigrette COVINOR Nature 500ML,5,Épicerie,8.5,,,,,Otrity,Tunisie
+10 Feuilles de brick Elgamra,5,Épicerie,1.74,,,,,Otrity,Tunisie
+5 Feuilles de brick Elgamra,5,Épicerie,1.04,,,,,Otrity,Tunisie
+Amidon de Maïs La Pâtissière 150g,5,Épicerie,2.85,,,,,Otrity,Tunisie
+Bâtonnets RINGO TOM  70g,5,Épicerie,1.18,,,,,Otrity,Tunisie
+Beignet Chocolat Saïda,5,Épicerie,0.626,,,,,Otrity,Tunisie
+Bicarbonate de soude 25g La Pâtissière,5,Épicerie,0.376,,,,,Otrity,Tunisie
+Biscotte Imperial au Son,5,Épicerie,5.7,,,,,Otrity,Tunisie
+Biscottes Impérial avec Sel,5,Épicerie,5.7,,,,,Otrity,Tunisie
+Biscottes Impérial sans Sel,5,Épicerie,5.7,,,,,Otrity,Tunisie
+Biscuit Loopi coeur fondant Saida,5,Épicerie,1.377,,,,,Otrity,Tunisie
+Biscuit Prince Fourré à la Vanille,5,Épicerie,0.907,,,,,Otrity,Tunisie
+Biscuit Prince Fourré Chocolat 130g,5,Épicerie,1.669,,,,,Otrity,Tunisie
+Biscuit Prince Fourré Chocolat 6 PIÈCES,5,Épicerie,0.908,,,,,Otrity,Tunisie
+Biscuit Prince Fourré Vanille 130g,5,Épicerie,1.669,,,,,Otrity,Tunisie
+Biscuit Tungo Saïda,5,Épicerie,1.659,,,,,Otrity,Tunisie
+Biscuits Binto kif,5,Épicerie,1.64,,,,,Otrity,Tunisie
+Biscuits Choco Tom goût Chocolat,5,Épicerie,1.74,,,,,Otrity,Tunisie
+Biscuits cigares chocolat Star Kif,5,Épicerie,1.344,,,,,Otrity,Tunisie
+Biscuits DCROC au Chocolat,5,Épicerie,1.734,,,,,Otrity,Tunisie
+Biscuits DCROC crème Tiramisu,5,Épicerie,1.734,,,,,Otrity,Tunisie
+Biscuits Fourrés Kif,5,Épicerie,1.74,,,,,Otrity,Tunisie
+Biscuits Sablito fourrés a l’Abricot,5,Épicerie,2.02,,,,,Otrity,Tunisie
+Biscuits Sablito fourrés à la Fraise,5,Épicerie,2.02,,,,,Otrity,Tunisie
+Biscuits Sablito fourrés aux Chocolat,5,Épicerie,2.02,,,,,Otrity,Tunisie
+Biscuits Sablito fourrés aux figue 140gr,5,Épicerie,1.961,,,,,Otrity,Tunisie
+Biscuits SAIDA 24un,5,Épicerie,2.12,,,,,Otrity,Tunisie
+Saïda 12 Biscuits,5,Épicerie,1.138,,,,,Otrity,Tunisie
+Biscuits Smile au lait et chocolat Kif,5,Épicerie,1.704,,,,,Otrity,Tunisie
+Biscuits Smile Chocolat,5,Épicerie,1.704,,,,,Otrity,Tunisie
+Biscuits START,5,Épicerie,2.39,,,,,Otrity,Tunisie
+Biscuits TUC,5,Épicerie,1.51,,,,,Otrity,Tunisie
+Bonbons Happy Full Croco 70g,5,Épicerie,1.249,,,,,Otrity,Tunisie
+Bonbons Happy Full Cubies 70g,5,Épicerie,1.249,,,,,Otrity,Tunisie
+Bonbons Happy Full Eggzzz 70g,5,Épicerie,1.249,,,,,Otrity,Tunisie
+Bonbons Happy Full Fruits 70g,5,Épicerie,1.249,,,,,Otrity,Tunisie
+Bonbons Happy Full Rings 70g,5,Épicerie,1.249,,,,,Otrity,Tunisie
+Bonbons Happy Full Spider 70g,5,Épicerie,1.249,,,,,Otrity,Tunisie
+Bonbons Happy Full Worms 70g,5,Épicerie,1.249,,,,,Otrity,Tunisie
+Break Bar Caramel,5,Épicerie,0.8,,,,,Otrity,Tunisie
+Break Chocolat,5,Épicerie,0.574,,,,,Otrity,Tunisie
+Break Vanille,5,Épicerie,0.574,,,,,Otrity,Tunisie
+Brownie Saïda Chocolat,5,Épicerie,0.889,,,,,Otrity,Tunisie
+Cacao en Poudre 250 g,5,Épicerie,9.3,,,,,Otrity,Tunisie
+Café Aroma / moka  Bondin 250g,5,Épicerie,4.97,,,,,Otrity,Tunisie
+Café Expresso Pure Bondin 250g,5,Épicerie,4.965,,,,,Otrity,Tunisie
+Café Mélange Turc Ben Yedder 125g,5,Épicerie,1.469,,,,,Otrity,Tunisie
+Café Turc Ben Yedder 125g,5,Épicerie,2.482,,,,,Otrity,Tunisie
+Chaïma Papillon aux Amandes 350g métal,5,Épicerie,10.32,,,,,Otrity,Tunisie
+Chips Cheetos 80g,5,Épicerie,4.0,,,,,Otrity,Tunisie
+Chips Cheetos 90g,5,Épicerie,4.5,,,,,Otrity,Tunisie
+Chips Lays chili et citron 45g,5,Épicerie,2.5,,,,,Otrity,Tunisie
+Chips Lays Chilli et Citron 160g,5,Épicerie,6.5,,,,,Otrity,Tunisie
+Chips Lays Salt 160g,5,Épicerie,6.5,,,,,Otrity,Tunisie
+Chips Lays Salt 43gr,5,Épicerie,2.5,,,,,Otrity,Tunisie
+Chocolat au Caramel Club,5,Épicerie,1.8,,,,,Otrity,Tunisie
+Chocolat au Cornfleakes Club,5,Épicerie,1.8,,,,,Otrity,Tunisie
+Chocolat au Lait fourré à la crème de Noisette Maestro Passion 240gr,5,Épicerie,13.2,,,,,Otrity,Tunisie
+Chocolat au Lait Maestro 100 gr,5,Épicerie,4.404,,,,,Otrity,Tunisie
+Chocolat au Lait Maestro 30g,5,Épicerie,1.65,,,,,Otrity,Tunisie
+Chocolat au Lait Tris,5,Épicerie,1.6,,,,,Otrity,Tunisie
+Chocolat aux Noisettes Club,5,Épicerie,1.8,,,,,Otrity,Tunisie
+Chocolat aux Noisettes Maestro 100g,5,Épicerie,4.5,,,,,Otrity,Tunisie
+Chocolat aux Noisettes Maestro 30g,5,Épicerie,1.7,,,,,Otrity,Tunisie
+Chocolat aux Noisettes Tris,5,Épicerie,1.65,,,,,Otrity,Tunisie
+Chocolat Cappuccino Club,5,Épicerie,1.8,,,,,Otrity,Tunisie
+Chocolat Croquant Tris,5,Épicerie,1.6,,,,,Otrity,Tunisie
+Chocolat D-Clic,5,Épicerie,1.18,,,,,Otrity,Tunisie
+Chocolat Dessert Said 100g,5,Épicerie,4.2,,,,,Otrity,Tunisie
+Chocolat en Poudre Said 200g,5,Épicerie,3.55,,,,,Otrity,Tunisie
+Chocolat Maestro aux Amandes 100g,5,Épicerie,4.5,,,,,Otrity,Tunisie
+Chocolat Noir aux Noisettes Maestro 100g,5,Épicerie,4.5,,,,,Otrity,Tunisie
+Chocolat Noir fourré à la crème de Noisette Maestro Passion 240gr,5,Épicerie,13.2,,,,,Otrity,Tunisie
+Chocolat Noir Maestro 100 gr,5,Épicerie,4.404,,,,,Otrity,Tunisie
+Chocolat noir Maestro 30g,5,Épicerie,1.65,,,,,Otrity,Tunisie
+Mini Chocoline Said 150g,5,Épicerie,4.332,,,,,Otrity,Tunisie
+Chocoline Said 300g,5,Épicerie,7.44,,,,,Otrity,Tunisie
+Chorba Fric 500g,5,Épicerie,2.52,,,,,Otrity,Tunisie
+Chorba Fric Pasteurisé Randa 250g,5,Épicerie,1.228,,,,,Otrity,Tunisie
+Chorba Fric Pasteurisé Warda 250g,5,Épicerie,1.228,,,,,Otrity,Tunisie
+Chorba Langue d’Oiseau n°1 Randa 250g,5,Épicerie,0.41,,,,,Otrity,Tunisie
+Chorba Langue d’Oiseau n°1 Randa 500g,5,Épicerie,0.41,,,,,Otrity,Tunisie
+Chorba Millet Randa 250g,5,Épicerie,0.41,,,,,Otrity,Tunisie
+Concentré de Tomates Jouda 800g,5,Épicerie,4.5,,,,,Otrity,Tunisie
+Concentré de Tomates Jouda 400g,5,Épicerie,2.615,,,,,Otrity,Tunisie
+Concentré de Tomates Le Petit Paris 800g,5,Épicerie,4.5,,,,,Otrity,Tunisie
+Concentré de Tomates Le Petit Paris 400g,5,Épicerie,2.75,,,,,Otrity,Tunisie
+Concentré de Tomates SICAM 400g,5,Épicerie,2.65,,,,,Otrity,Tunisie
+Concentré de Tomates SICAM 800g,5,Épicerie,4.5,,,,,Otrity,Tunisie
+Concentré de Tomates Carthage 800g,5,Épicerie,4.5,,,,,Otrity,Tunisie
+Concentré de Tomates Tucal 400g,5,Épicerie,2.654,,,,,Otrity,Tunisie
+Concentré de Tomates Tucal 800g,5,Épicerie,4.5,,,,,Otrity,Tunisie
+Cookies SAIDA   136GR Cacao – Aux pépites de chocolatt,5,Épicerie,2.556,,,,,Otrity,Tunisie
+Cookies SAIDA   136GR Aux pépites de chocolat,5,Épicerie,2.556,,,,,Otrity,Tunisie
+Couscous Diari moyen,5,Épicerie,0.795,,,,,Otrity,Tunisie
+Couscous Diari fin,5,Épicerie,0.795,,,,,Otrity,Tunisie
+Couscous Diari Moyen 1kg,5,Épicerie,0.795,,,,,Otrity,Tunisie
+Couscous Randa Moyen 1kg,5,Épicerie,0.795,,,,,Otrity,Tunisie
+Couscous Fin Randa 1kg,5,Épicerie,0.795,,,,,Otrity,Tunisie
+Couscous Fin Warda,5,Épicerie,0.795,,,,,Otrity,Tunisie
+Couscous Moyen Warda,5,Épicerie,0.795,,,,,Otrity,Tunisie
+Crème à Tartiner Saïd 180gr,5,Épicerie,4.96,,,,,Otrity,Tunisie
+Crème aux noisettes et Biscuit Junior Said,5,Épicerie,1.9,,,,,Otrity,Tunisie
+Crème Chocolat Smart Chef,5,Épicerie,0.69,,,,,Otrity,Tunisie
+Crème Pâtissière goût chocolat 40g LA PÂTISSIERE,5,Épicerie,0.9,,,,,Otrity,Tunisie
+Crème Pâtissière goût vanille 40g LA PÂTISSIERE,5,Épicerie,0.853,,,,,Otrity,Tunisie
+Crisponuts 35g,5,Épicerie,1.2,,,,,Otrity,Tunisie
+Croissant Snapy Chocolat,5,Épicerie,0.8,,,,,Otrity,Tunisie
+Croissant Snapy tout Chocolat,5,Épicerie,1.038,,,,,Otrity,Tunisie
+Croustina Black white 35gr,5,Épicerie,0.522,,,,,Otrity,Tunisie
+Croustina Cacao Vanille 35g,5,Épicerie,0.522,,,,,Otrity,Tunisie
+Croustina Chocolat 35g,5,Épicerie,0.522,,,,,Otrity,Tunisie
+Croustina Lait 35g,5,Épicerie,0.522,,,,,Otrity,Tunisie
+Croustina Saida au Cacao Vanille 33g/ pack de 6,5,Épicerie,3.132,,,,,Otrity,Tunisie
+Croustina Saida au Chocolat 100gr,5,Épicerie,1.387,,,,,Otrity,Tunisie
+Croustina Saida au chocolat 33g/ pack de 6,5,Épicerie,3.132,,,,,Otrity,Tunisie
+Croustina Saida au lait,5,Épicerie,1.388,,,,,Otrity,Tunisie
+Croustina Saida au lait 33g/ pack de 6,5,Épicerie,3.132,,,,,Otrity,Tunisie
+Croustina Saida goût Cacao-Vanille,5,Épicerie,1.388,,,,,Otrity,Tunisie
+Double concentré de Tomates Zgolli 135g,5,Épicerie,1.4,,,,,Otrity,Tunisie
+Double concentré de Tomates Zgolli 400g,5,Épicerie,2.7,,,,,Otrity,Tunisie
+Double concentré de Tomates Zgolli 800g,5,Épicerie,4.5,,,,,Otrity,Tunisie
+Falfoul Dino Dinosaures 24 un,5,Épicerie,17.22,,,,,Otrity,Tunisie
+Farine Baklawa Randa,5,Épicerie,3.3,,,,,Otrity,Tunisie
+Farine Kaak Warka Randa,5,Épicerie,3.7,,,,,Otrity,Tunisie
+Farine pizza warda,5,Épicerie,2.88,,,,,Otrity,Tunisie
+Farine pour Pizza Randa,5,Épicerie,3.12,,,,,Otrity,Tunisie
+Farine ps-7 Randa,5,Épicerie,0.84,,,,,Otrity,Tunisie
+Farines Warda,5,Épicerie,0.85,,,,,Otrity,Tunisie
+Feuilles de brick  Samsa Sambosah El Gamra,5,Épicerie,1.32,,,,,Otrity,Tunisie
+Fusilli intégrale Blé Complet Warda,5,Épicerie,1.548,,,,,Otrity,Tunisie
+Gâteau BREAK pack de 4,5,Épicerie,2.295,,,,,Otrity,Tunisie
+Gâteaux au chocolat Prince pack de 4,5,Épicerie,2.629,,,,,Otrity,Tunisie
+Gaucho,5,Épicerie,0.292,,,,,Otrity,Tunisie
+Gaucho Saida Goût Chocolat 10un,5,Épicerie,2.916,,,,,Otrity,Tunisie
+Gaufrettes Saida crème de Noisettes,5,Épicerie,1.096,,,,,Otrity,Tunisie
+Gaufrettes Saida goût Chocolat,5,Épicerie,1.096,,,,,Otrity,Tunisie
+Gaufrettes Saida goût fraise,5,Épicerie,1.096,,,,,Otrity,Tunisie
+Gaufrettes Saida goût vanille,5,Épicerie,1.096,,,,,Otrity,Tunisie
+Gros Sel,5,Épicerie,0.78,,,,,Otrity,Tunisie
+Haricots Blanc Cap d’or 400g,5,Épicerie,3.27,,,,,Otrity,Tunisie
+Harissa du Cap Bon Neblia 135g,5,Épicerie,1.734,,,,,Otrity,Tunisie
+Harissa sans conservateurs du CAP BON SICAM 135g,5,Épicerie,1.92,,,,,Otrity,Tunisie
+Harissa sans conservateurs du CAP BON SICAM 380g,5,Épicerie,3.45,,,,,Otrity,Tunisie
+Hlalem 100% semoule de blé dur Diari,5,Épicerie,2.15,,,,,Otrity,Tunisie
+Huile de friture Chafia 0.9L,5,Épicerie,4.5,,,,,Otrity,Tunisie
+Huile de friture Chafia 5L,5,Épicerie,23.9,,,,,Otrity,Tunisie
+Huile de Friture Cristal 0.9l,5,Épicerie,5.16,,,,,Otrity,Tunisie
+Huile de Friture Cristal 1.8L,5,Épicerie,11.59,,,,,Otrity,Tunisie
+Huile de maïs Chafia 1.8L,5,Épicerie,13.8,,,,,Otrity,Tunisie
+Huile de Maïs Cristal 5L,5,Épicerie,26.0,,,,,Otrity,Tunisie
+Huile de Maïs Shefia 5L,5,Épicerie,25.8,,,,,Otrity,Tunisie
+Huile Friture Cristal 5L,5,Épicerie,23.9,,,,,Otrity,Tunisie
+Levure Boulangére 13g   La Pâtissière,5,Épicerie,0.416,,,,,Otrity,Tunisie
+Levure Chimique 13gr  LA PÂTISSIERE,5,Épicerie,0.266,,,,,Otrity,Tunisie
+Levure Chimique Smart Chef,5,Épicerie,0.18,,,,,Otrity,Tunisie
+Major Chocolat,5,Épicerie,1.647,,,,,Otrity,Tunisie
+Major Vanille,5,Épicerie,1.647,,,,,Otrity,Tunisie
+Masfouf Diari 1kg,5,Épicerie,0.795,,,,,Otrity,Tunisie
+Mayonnaise Fine et Douce Lesieur,5,Épicerie,9.86,,,,,Otrity,Tunisie
+Mayonnaise Fine et Douce Lesieur,5,Épicerie,5.7,,,,,Otrity,Tunisie
+Mayonnaise Jadida 240ml,5,Épicerie,5.49,,,,,Otrity,Tunisie
+Mayonnaise Jadida 480ml,5,Épicerie,7.08,,,,,Otrity,Tunisie
+Miel traditionnel Sedra 500g /عسل حر السدرة ل,5,Épicerie,39.0,,,,,Otrity,Tunisie
+Mini Croquettes TOM,5,Épicerie,0.61,,,,,Otrity,Tunisie
+Mini Tuc 30gr,5,Épicerie,0.772,,,,,Otrity,Tunisie
+Momento Chocolat 38g,5,Épicerie,1.09,,,,,Otrity,Tunisie
+Muffin Chocolat Saïda,5,Épicerie,0.73,,,,,Otrity,Tunisie
+Nescafé Classic 190g,5,Épicerie,36.0,,,,,Otrity,Tunisie
+Nescafé Classic 45g,5,Épicerie,11.76,,,,,Otrity,Tunisie
+Nescafé Classic 90g,5,Épicerie,21.84,,,,,Otrity,Tunisie
+Nouasser Traditionnel Warda 500g,5,Épicerie,1.87,,,,,Otrity,Tunisie
+Pack de 3 Chocolats Momento,5,Épicerie,3.268,,,,,Otrity,Tunisie
+Palet aux Pépites de Chocolat Saïda 130gr,5,Épicerie,2.347,,,,,Otrity,Tunisie
+Palet pur Beurre Saïda 126gr,5,Épicerie,1.794,,,,,Otrity,Tunisie
+Pâte à Tartiner Chocolat Noisette Saïd 500g,5,Épicerie,8.61,,,,,Otrity,Tunisie
+Pâte à Tartiner Chocolat Noisettes Saïd 1Kg,5,Épicerie,15.0,,,,,Otrity,Tunisie
+Pâtes Bucatini Randa,5,Épicerie,0.41,,,,,Otrity,Tunisie
+Pâtes Cavatoni 1 Randa,5,Épicerie,0.41,,,,,Otrity,Tunisie
+Pâtes Cavatoni 2 Randa,5,Épicerie,0.43,,,,,Otrity,Tunisie
+Pâtes Cavatoni 3 Randa,5,Épicerie,0.43,,,,,Otrity,Tunisie
+Pâtes Cheveux d’ange Randa,5,Épicerie,0.43,,,,,Otrity,Tunisie
+Pâtes coquillage Randa,5,Épicerie,0.41,,,,,Otrity,Tunisie
+Pâtes Coude 1 Randa,5,Épicerie,0.41,,,,,Otrity,Tunisie
+Pâtes Coude 2 Randa,5,Épicerie,0.41,,,,,Otrity,Tunisie
+Pâtes Coude n°2 Warda,5,Épicerie,0.43,,,,,Otrity,Tunisie
+Pâtes Escargot 1 Randa,5,Épicerie,0.41,,,,,Otrity,Tunisie
+Pâtes Escargot 2 Randa,5,Épicerie,0.43,,,,,Otrity,Tunisie
+Pâtes Escargot n°1 Warda,5,Épicerie,0.43,,,,,Otrity,Tunisie
+Pâtes Escargot n°2 Warda,5,Épicerie,0.43,,,,,Otrity,Tunisie
+Pâtes Farfalle n°1 Warda,5,Épicerie,1.16,,,,,Otrity,Tunisie
+Pâtes Farfalle n°2 Warda,5,Épicerie,1.16,,,,,Otrity,Tunisie
+Pâtes Fell 1 Randa,5,Épicerie,0.41,,,,,Otrity,Tunisie
+Pâtes Fell 2 Randa,5,Épicerie,0.41,,,,,Otrity,Tunisie
+Pâtes Fell 3 Randa,5,Épicerie,0.41,,,,,Otrity,Tunisie
+Pâtes Fell n°1 Warda,5,Épicerie,0.43,,,,,Otrity,Tunisie
+Pâtes Fell n°2 Warda,5,Épicerie,0.43,,,,,Otrity,Tunisie
+Pâtes Fell n°3 Warda,5,Épicerie,0.43,,,,,Otrity,Tunisie
+Pâtes lasagne Randa 500g,5,Épicerie,2.084,,,,,Otrity,Tunisie
+Pâtes lasagne Warda 500g,5,Épicerie,2.09,,,,,Otrity,Tunisie
+Pâtes M’hammas fin Randa,5,Épicerie,0.41,,,,,Otrity,Tunisie
+Pâtes M’hammas Randa,5,Épicerie,0.41,,,,,Otrity,Tunisie
+Pâtes Nouille 1 Randa,5,Épicerie,0.41,,,,,Otrity,Tunisie
+Pâtes Nouille 2 Randa,5,Épicerie,0.41,,,,,Otrity,Tunisie
+Pâtes Nouilles n°2 Warda,5,Épicerie,0.43,,,,,Otrity,Tunisie
+Pâtes Papillon n°1 Randa,5,Épicerie,1.12,,,,,Otrity,Tunisie
+Pâtes Papillon n°2 Randa,5,Épicerie,1.12,,,,,Otrity,Tunisie
+Pâtes Plume courte Warda,5,Épicerie,0.43,,,,,Otrity,Tunisie
+Pâtes Plumes courtes Randa,5,Épicerie,0.41,,,,,Otrity,Tunisie
+Pâtes Plumes longues Randa,5,Épicerie,0.43,,,,,Otrity,Tunisie
+Pâtes ressort Randa,5,Épicerie,0.45,,,,,Otrity,Tunisie
+Pâtes Ressort Warda,5,Épicerie,0.43,,,,,Otrity,Tunisie
+Pâtes Spaghetti 1 Randa,5,Épicerie,0.41,,,,,Otrity,Tunisie
+Pâtes Spaghetti 2 Randa,5,Épicerie,0.41,,,,,Otrity,Tunisie
+Pâtes Spaghetti 3 Randa,5,Épicerie,0.41,,,,,Otrity,Tunisie
+Pâtes Spaghetti n°1 Warda,5,Épicerie,0.43,,,,,Otrity,Tunisie
+Pâtes Spaghetti n°2 Warda,5,Épicerie,0.43,,,,,Otrity,Tunisie
+Pâtes Spaghetti n°3 Warda,5,Épicerie,0.43,,,,,Otrity,Tunisie
+Pâtes Tagliatelle Randa n°1,5,Épicerie,1.422,,,,,Otrity,Tunisie
+Pâtes Tagliatelle Randa n°2,5,Épicerie,1.422,,,,,Otrity,Tunisie
+Pâtes Tagliatelle Warda n°1,5,Épicerie,1.42,,,,,Otrity,Tunisie
+Pâtes Tagliatelle Warda n°2,5,Épicerie,1.42,,,,,Otrity,Tunisie
+Pâtes vermicelle Randa,5,Épicerie,0.41,,,,,Otrity,Tunisie
+Plum-Cakes Saïda,5,Épicerie,0.512,,,,,Otrity,Tunisie
+Plume au blé Complet Randa,5,Épicerie,1.59,,,,,Otrity,Tunisie
+Pois chiche Cap d’or 400g,5,Épicerie,3.35,,,,,Otrity,Tunisie
+Poudre Instantanée Chocoline Said 13 gr,5,Épicerie,0.425,,,,,Otrity,Tunisie
+Préparation pour crème pâtissière goût Vanille Smart Chef,5,Épicerie,0.68,,,,,Otrity,Tunisie
+Prince Mini Gâteau 30gr,5,Épicerie,0.68,,,,,Otrity,Tunisie
+Ricoré 100g,5,Épicerie,15.12,,,,,Otrity,Tunisie
+Ricoré 260g,5,Épicerie,27.9,,,,,Otrity,Tunisie
+Riz thailandais 1kg,5,Épicerie,3.5,,,,,Otrity,Tunisie
+Sablito tout chocolat,5,Épicerie,1.961,,,,,Otrity,Tunisie
+Said Junior aux Dragées,5,Épicerie,1.7,,,,,Otrity,Tunisie
+Saida Extra cacaotés,5,Épicerie,2.191,,,,,Otrity,Tunisie
+Sardines à la Tomate Sidi Daoud,5,Épicerie,2.75,,,,,Otrity,Tunisie
+Sauce Pizza au Basilic et Origan SICAM,5,Épicerie,2.63,,,,,Otrity,Tunisie
+Sauce Pizza Jouda 400g,5,Épicerie,2.621,,,,,Otrity,Tunisie
+Sel fin 1kg,5,Épicerie,1.08,,,,,Otrity,Tunisie
+Semoule Fin Warda,5,Épicerie,0.79,,,,,Otrity,Tunisie
+Semoule fine Randa,5,Épicerie,0.79,,,,,Otrity,Tunisie
+Semoule grosse Randa,5,Épicerie,0.79,,,,,Otrity,Tunisie
+Semoule moyenne Randa,5,Épicerie,0.79,,,,,Otrity,Tunisie
+Spaghetti intégrale Blé Complet Warda,5,Épicerie,1.548,,,,,Otrity,Tunisie
+Sucre en Buchettes 150 Un,5,Épicerie,5.3,,,,,Otrity,Tunisie
+Sucre en morceaux,5,Épicerie,4.3,,,,,Otrity,Tunisie
+Sucre Glace Randa 750gr,5,Épicerie,5.64,,,,,Otrity,Tunisie
+Sucre Vanille Smart Chef,5,Épicerie,0.16,,,,,Otrity,Tunisie
+Tartelettes Saida aux Chocolat,5,Épicerie,1.929,,,,,Otrity,Tunisie
+Thé vert à la menthe SPIPA,5,Épicerie,2.964,,,,,Otrity,Tunisie
+Thon à l’huile d’olive Sidi Daoud 160g,5,Épicerie,8.34,,,,,Otrity,Tunisie
+Thon à l’huile végétale Sidi Daoud 160g,5,Épicerie,5.64,,,,,Otrity,Tunisie
+Thon entier a l’huile d’olive Sidi Daoud 160g,5,Épicerie,7.0,,,,,Otrity,Tunisie
+Thon entier à l’Huile d’Olive Sidi Daoud 400g,5,Épicerie,15.6,,,,,Otrity,Tunisie
+Thon entier à l’huile d’olives El Badr 400g,5,Épicerie,15.0,,,,,Otrity,Tunisie
+Thon entier à l’huile d’olives El Manar 160g,5,Épicerie,8.8,,,,,Otrity,Tunisie
+Thon entier à l’huile d’olives  Fnar 160g rouge,5,Épicerie,8.04,,,,,Otrity,Tunisie
+Thon entier à l’huile d’olive extra Fnar 400g vert,5,Épicerie,16.8,,,,,Otrity,Tunisie
+Thon entier à l’huile d’olives La Goulette – 160g,5,Épicerie,8.04,,,,,Otrity,Tunisie
+Thon entier à l’huile d’olives La Goulette 400g,5,Épicerie,15.5,,,,,Otrity,Tunisie
+Thon entier à l’huile végétale Fnar 160g jaune,5,Épicerie,5.7,,,,,Otrity,Tunisie
+Thon entier à l’huile végétale Fnar 400g,5,Épicerie,11.76,,,,,Otrity,Tunisie
+Thon entier à l’huile végétale Fnar- 2.050 kg,5,Épicerie,48.0,,,,,Otrity,Tunisie
+Thon entier à l’huile végétale La Goulette 160g,5,Épicerie,5.9,,,,,Otrity,Tunisie
+Thon entier à l’huile végétale La Goulette 400g,5,Épicerie,12.0,,,,,Otrity,Tunisie
+Thon entier à l’huile végétale Sidi Ali 140g,5,Épicerie,3.624,,,,,Otrity,Tunisie
+Thon entier à l’huile végétale Sidi Ali 400g,5,Épicerie,12.0,,,,,Otrity,Tunisie
+Thon entier à l’Huile Végétale Sidi Daoud 400g,5,Épicerie,13.68,,,,,Otrity,Tunisie
+Thon entier A l’huile Végetale Sidi Mansour 400g,5,Épicerie,12.0,,,,,Otrity,Tunisie
+Tigato kif Chocolat,5,Épicerie,1.91,,,,,Otrity,Tunisie
+Tigato kif Noisette,5,Épicerie,1.788,,,,,Otrity,Tunisie
+Toast  aux grains de lin,5,Épicerie,5.64,,,,,Otrity,Tunisie
+Toast au son,5,Épicerie,5.64,,,,,Otrity,Tunisie
+Toast au son sans sel sans sucre ajoute,5,Épicerie,5.64,,,,,Otrity,Tunisie
+Toast avec Sel,5,Épicerie,5.64,,,,,Otrity,Tunisie
+Toast multi-céréales,5,Épicerie,5.64,,,,,Otrity,Tunisie
+Toast multi-céréales 0% sans Sel et sucre ajouté,5,Épicerie,5.64,,,,,Otrity,Tunisie
+Toast sans sel,5,Épicerie,5.64,,,,,Otrity,Tunisie
+Tomates pelées cubées SICAM,5,Épicerie,2.63,,,,,Otrity,Tunisie
+Tomates Pelées Entières SICAM,5,Épicerie,2.53,,,,,Otrity,Tunisie
+Tuc Pocket 32gr,5,Épicerie,0.782,,,,,Otrity,Tunisie
+Verveine Infusion SPIPA,5,Épicerie,3.798,,,,,Otrity,Tunisie
+Vinaigre 1L,5,Épicerie,2.6,,,,,Otrity,Tunisie
+Vinaigre Blanc 1L,5,Épicerie,2.6,,,,,Otrity,Tunisie
+Vinaigre  Philippe Desseaux 1L,5,Épicerie,4.5,,,,,Otrity,Tunisie
+Vinaigre blanc Philippe Desseaux 1L,5,Épicerie,4.5,,,,,Otrity,Tunisie
+X-plose,5,Épicerie,1.19,,,,,Otrity,Tunisie
+X-plose Triple Choc,5,Épicerie,1.19,,,,,Otrity,Tunisie
